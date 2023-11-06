@@ -831,13 +831,13 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/MURUD/ADHI.dwg ",
                 },
                 "Nandgaon":{
-                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14967.1610925894!2d74.6396834761639!3d20.308946345772966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdc1933defc2e6d%3A0xc07e66f0e4066406!2sNandgaon%2C%20Maharashtra%20423106!5e0!3m2!1sen!2sin!4v1699059205416!5m2!1sen!2sin" ,
+                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42836.25072666349!2d72.92400230718582!3d18.382588963391047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84296cea86691%3A0x262653e00657e6f5!2sNandgaon%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699309526312!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/MURUD/NANDGAON_.dwg ",
                 },
 //88888888                
                 "Khaire Tarf Wada":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120203.81032493549!2d73.05390008152898!3d19.696905042011334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7727ece0a4c7d%3A0x648791294734b3c4!2sKhaire%20Tarf%20Wada%2C%20Maharashtra%20421303!5e0!3m2!1sen!2sin!4v1699059295791!5m2!1sen!2sin",
-                    "dwgURL": " ",
+                    // "dwgURL": " ",
                 },
                 " Khardodkule":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7572.472749708034!2d72.93320019512434!3d18.3820901621593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8428c5c855be1%3A0xd1bae9f9db870eb7!2sKhardodkule%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699059376992!5m2!1sen!2sin" ,
@@ -862,7 +862,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //**** */                
                 "Panju":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15059.477566092584!2d72.84396876333538!3d19.33147300879958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7afca4b52a1e9%3A0xf198fe03e48c5139!2sPanju%20Island%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059693335!5m2!1sen!2sin",
-                    "dwgURL": " ",
+                    // "dwgURL": " ",
                 },
                 "Murud janjira(MCI)":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15151.073464302714!2d72.95261546307775!3d18.312198144993772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84391c8d3585f%3A0xfaab0381ef8b2b4c!2sMurud%20-%20Janjira%20Municipal%20Council!5e0!3m2!1sen!2sin!4v1699059763775!5m2!1sen!2sin",
@@ -884,8 +884,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15343.48195675893!2d73.99427946255095!3d15.968138334981136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc077a18e5891ab%3A0x37b84c05e0a2123f!2sAmboli%2C%20Maharashtra%20416510!5e0!3m2!1sen!2sin!4v1699060195382!5m2!1sen!2sin",
                     "dwgURL": " ./dwg/Raigad/MURUD/AMBOLI.dwg",
                 }, 
-                "Haphukhar":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59946.20704722409!2d72.71086577883432!3d20.1074163393148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72991f51b5633%3A0x76c6e1de285b528f!2sBordi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699035518751!5m2!1sen!2sin",
+                "Haphijkhar":{
+                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121243.80392176795!2d73.09057282933664!3d18.261831776457452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8469743b9f1e7%3A0xfb1d65b2a4e540b2!2sHaphijkhar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699309685461!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/MURUD/HAFIJKHAR.dwg ",
                 }, 
                 "Agardande":{
@@ -912,7 +912,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1891.6111335834223!2d72.96048943882566!3d18.51885533896733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86ee9d981e5f7%3A0xb03cb6f9dac2052c!2sMithekhar%2C%20Maharashtra%20402202!5e0!3m2!1sen!2sin!4v1699060732614!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/MURUD/MITHAKHAR.dwg ",
                 }, 
-                "Khambde":{
+                "Khamde":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15155.244812145189!2d73.04237962192617!3d18.264474441064365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be847a2c7df8d85%3A0xab62f679b676b889!2sKhamde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699060768093!5m2!1sen!2sin",
                     "dwgURL": " ./dwg/Raigad/MURUD/KHAMADE.dwg",
                 },     
@@ -961,9 +961,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21435.815252995617!2d72.97012445354548!3d18.239651602694938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be845ea8eb98299%3A0x89aca2bb207f312c!2sHarvit%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699115832250!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/SHRIVARDHAN/HARVIL/HARVIT.dwg ",
                 },
-                "Khudgaon":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14764.060315500328!2d84.92589021418785!3d22.31526947558976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a201d63481a6cdf%3A0xd36251af540b5abc!2sKhuntgaon%2C%20Odisha!5e0!3m2!1sen!2sin!4v1699115875410!5m2!1sen!2sin" ,
-                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/KUDGAON/KUDGAON.dwg ",
+                "Kudgaon":{
+                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7578.717851191331!2d72.96321119511568!3d18.239360521018558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be845c092b29641%3A0xab4c33a23708db21!2sKudgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699309908391!5m2!1sen!2sin" ,
                 },
                 "Karlas":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3789.1288832198875!2d72.9588462358283!3d18.249912383031543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be845b9582c1853%3A0xd8a83247fa032c1b!2sKarlas%2C%20Maharashtra%20402402!5e0!3m2!1sen!2sin!4v1699115975313!5m2!1sen!2sin",
@@ -978,15 +977,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/SHRIVARDHAN/NANAVALI/nanvali.dwg ",
                 },
                 "Maneri":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.2512710491515!2d78.52849247622032!3d30.739442685307008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908f325391ba741%3A0xe3f72236458e2c5!2sManeri%2C%20Uttarakhand%20249194!5e0!3m2!1sen!2sin!4v1699116076570!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25487.03315224148!2d72.94722245309462!3d18.270936740748215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be844566a677e5d%3A0xc0e82a9fcd1f4606!2sManeri%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699309984017!5m2!1sen!2sin" ,
                     "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/MANERI/maneri.dwg",
                 },
-                "Surve":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6386.989892745177!2d73.38919412096725!3d17.851432332342263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9d9a3fb0a613d%3A0x4f46d58169557e8!2sSurve%20Wadi%2C%20Natunagar%2C%20Maharashtra%20415640!5e0!3m2!1sen!2sin!4v1699116133501!5m2!1sen!2sin" ,
+                "Sarve":{
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15141.202094281662!2d72.90296607224157!3d18.42465931475591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be868402077601d%3A0xefc77540f7fa637d!2sSarve%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310042873!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/SHRIVARDHAN/SURVE/SURVE.dwg ",
                 },
                   "Adgaon":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29986.459856257745!2d73.82953021918391!3d20.03755957601663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddc1ead1b324ef%3A0x8d92c1a2d458e703!2sAdgaon%2C%20Nashik%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116165130!5m2!1sen!2sin" ,
+                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.4052122316125!2d72.93731019511469!3d18.22358517199418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8457ed049fb2b%3A0xaa9c708ac70f0895!2sAdgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310096400!5m2!1sen!2sin" ,
                     "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/ADGAON/ADGOAN.dwg",
                 },
                 "Kunbiwadi":{
@@ -1026,7 +1025,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KONDIVALI/KONDIVALI.dwg",
                 },
                  "Khargaon":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29630.865889820052!2d75.5924343212526!3d21.8244076119074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd885c4bd93b163%3A0xae95ec27b40bf31d!2sKhargone%2C%20Madhya%20Pradesh%20451001!5e0!3m2!1sen!2sin!4v1699116485870!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203676.96276111726!2d73.02384829981408!3d18.456679457073474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be81532ec950645%3A0x22341f87bb3b9bf9!2sKhargaon%2C%20Maharashtra%20402109!5e0!3m2!1sen!2sin!4v1699310173489!5m2!1sen!2sin",
                     "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KHARGAON/KHARGOAN.dwg",
                 },
                 "Walwati":{
@@ -1077,15 +1076,15 @@ document.addEventListener("DOMContentLoaded", function () {
 //taluka1
             "Mandangad": {
                 "Walmiki Nagar":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7082.703940553074!2d83.9012774458441!3d27.42713957828691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39941566db8ec9f5%3A0x5d7875442b66599!2sBalmiki%20Nagar%2C%20Bihar%20845107!5e0!3m2!1sen!2sin!4v1699116912032!5m2!1sen!2sin",
+                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.944617004133!2d73.0503171357959!3d17.981313491633976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b5be8db811af%3A0x76a7969a951bc71d!2sValmiki%20Nagar%2C%20Bankot%2C%20Maharashtra%20415208!5e0!3m2!1sen!2sin!4v1699310394352!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/MANDANGAD/WALMIKI NAGAR.dwg ",
                 },
                 "Bankot":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7589.9633156865075!2d73.0471622451!3d17.979590336985204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b5b77e6f05d1%3A0xd6270ce4ff60bb88!2sBankot%2C%20Maharashtra%20415208!5e0!3m2!1sen!2sin!4v1699116939288!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/MANDANGAD/BANKOT.dwg ",
                 },
-                "Narayam Nagar":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.372842656343!2d73.02490607596712!3d19.178910998732245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf1013b2bf35%3A0x87e3c029c8ccdf7!2sNarayan%20Nagar%2C%20Mumbra%2C%20Thane%2C%20Maharashtra%20400612!5e0!3m2!1sen!2sin!4v1699116965912!5m2!1sen!2sin" ,
+                "Narayannagar":{
+                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7590.751370144478!2d73.04393509509899!3d17.961250138104642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b5d10123fc8d%3A0xc1d507b84289290a!2sNarayannagar%2C%20Maharashtra%20415208!5e0!3m2!1sen!2sin!4v1699310495488!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/MANDANGAD/NARAYAN NAGAR.dwg ",
                 },
                 "Velas":{
@@ -1104,8 +1103,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15185.192171201641!2d73.05234431298285!3d17.918247546002217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b647e34b0e21%3A0xa3b2e3aa33598aae!2sKelshi%2C%20Maharashtra%20415717!5e0!3m2!1sen!2sin!4v1699117073863!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/DAPOLI/KELSHI.dwg ",
                 },
-                "Utambar":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28573.602618266137!2d72.69183042759747!3d26.465386991004063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39419fe2dee8d8fd%3A0x6a01559d8fd3295d!2sUtambar%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1699117101721!5m2!1sen!2sin",
+                "Uttambar":{
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15186.535398517615!2d73.0533528129791!3d17.902566598013678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b7b60763e557%3A0x9873d43fed9e774b!2sUttambar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310605926!5m2!1sen!2sin" ,
                     "dwgURL": " ./dwg/Ratnagiri/DAPOLI/UTAMBAR.dwg",
                 },
                 "Aade":{
@@ -1161,7 +1160,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": " ./dwg/Ratnagiri/DAPOLI/MURUD.dwg",
                 },
                 "Karde":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3778.109651436967!2d74.33615678588995!3d18.748638566776407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc32f19618907a5%3A0x4f968274623f988!2sKarde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117641222!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7599.73534338196!2d73.12171764508653!3d17.750873200873986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c0e65d36adc3%3A0xcbe72c77f1b1ec28!2sKarde%2C%20Maharashtra%20415713!5e0!3m2!1sen!2sin!4v1699310733911!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/DAPOLI/KARDE.dwg ",
                 },  
                 "Chandranagar":{
@@ -1296,11 +1295,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/NARVAN/NARAVAN.dwg",
                 },
                 "Karde":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3778.109650421045!2d74.33845277596026!3d18.7486386121665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc32f19618907a5%3A0x4f968274623f988!2sKarde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119503539!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15234.612285193718!2d73.25387526284636!3d17.332280220181154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7e2cfb25255%3A0x1558fca3ab317af5!2sKarde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310998168!5m2!1sen!2sin",
                     "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/KARDE/KARDE.dwg ",
                 },
                 "Rohile":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3747.960758914886!2d73.54767317598147!3d20.052086320604587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddf6c8e6908087%3A0x4249594b55855d9a!2sRohile%2C%20Maharashtra%20422203!5e0!3m2!1sen!2sin!4v1699119531923!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15234.796081224196!2d73.22595526284586!3d17.3300651704577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7d66592f56b%3A0xc821f8fb51458988!2sRohile%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311065624!5m2!1sen!2sin" ,
                     "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/ROHILE/ROHILE.dwg",
                 }, 
                 "Tavasalwadi":{
@@ -1411,7 +1410,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/ARE/ARE.dwg ",
                 },
                 "Bholewadi":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3808.27872915711!2d74.05972292593938!3d17.350315803870497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1864cd899e0ab%3A0xaa206072b4276f75!2sBholewadi%2C%20Maharashtra%20415109!5e0!3m2!1sen!2sin!4v1699120933521!5m2!1sen!2sin" ,
+                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3814.0615824841984!2d73.28769507593553!3d17.069640161879526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea0e1026ea9507%3A0xe25ca3eb532874b3!2sBholewadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311300807!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/BHOLEWADI/BHOLEWADI.dwg ",
                 },
                 "Basani":{
@@ -1447,7 +1446,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/MIRYA/WADAMIYA (SADAMIRYA).dwg ",
                 }, 
                 "Zadgaon":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14961.888003157592!2d78.53489521361367!3d20.363419814757503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd398c226b86caf%3A0x29dfb97e70ad127b!2sZadgaon%2C%20Maharashtra%20445402!5e0!3m2!1sen!2sin!4v1699121224569!5m2!1sen!2sin",
+                    "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7630.804946676579!2d73.28715664504405!3d17.003917245126818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea0d71764fcc5b%3A0x8b2aa742fd2dcdcf!2sZadgaon%2C%20Ratnagiri%2C%20Maharashtra%20415612!5e0!3m2!1sen!2sin!4v1699311472784!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/ZADGAON/ZADGAON.dwg ",
                 }, 
                 "Ratnagiri":{
@@ -1530,7 +1529,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //taluka5
             "Rajapur": {
                 "Varachiwadi":{
-                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7570.975606479592!2d73.35784194512641!3d18.416148110036122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8222256e57783%3A0x631096f2f846dad6!2sVarchiwadi%2C%20Maharashtra%20402308!5e0!3m2!1sen!2sin!4v1699122100343!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d822874.4102771784!2d74.14683919696769!3d16.650258233162592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1b559a609bdef%3A0x9ecd5d0faa7b2a9f!2sVarchiwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311671136!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Ratnagiri/RAJAPUR/VARCHI WADI (KAISAVALLI)/VARCHI WADI ( KAISAVALI).dwg   ",
                 },
                 "Avali Chiwadi":{
@@ -1565,12 +1564,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7645.517006027479!2d73.34679307568773!3d16.63888505248492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7dc50ed62b01%3A0xc2134f5b64ab2801!2sAnantwadi%2C%20Maharashtra%20415806!5e0!3m2!1sen!2sin!4v1699122602791!5m2!1sen!2sin" ,
                     "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/ANANTWADI/ANANTWADI.dwg  ",  
                 },
-                "Bhandawadi":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1860.5759148975549!2d79.16095813883666!3d21.14635519672912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c798c203ed5b%3A0x6666380ea66b9499!2sBhandewadi%2C%20Mahajanpura%2C%20Nagpur%2C%20Maharashtra%20440035!5e0!3m2!1sen!2sin!4v1699122647815!5m2!1sen!2sin", 
+                "Bhandarwadi":{
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15277.231595461277!2d73.29147596919452!3d16.81107472385143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7042d8f22ca9%3A0xc95a3b88435da13e!2sBhandarwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311855190!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Ratnagiri/RAJAPUR/BANDHWADI/BANDHWADI.dwg ", 
                 },
                 "Holi":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3795.086169846892!2d76.53830402594843!3d17.974727535618197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcf60b6580009b9%3A0xfb7133fa50fcddbd!2sHoli%2C%20Maharashtra%20413606!5e0!3m2!1sen!2sin!4v1699122728422!5m2!1sen!2sin" ,
+                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21626.28459511087!2d73.35781775056435!3d16.625608683161666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7de9d3dacabd%3A0x241aa7214b79fc1d!2sHoli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311926287!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Ratnagiri/RAJAPUR/HOLI/HOLI.dwg  ",
                 },
                 "Kuvesh":{
