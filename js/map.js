@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Dhakti Dahanu":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3749.9855490932073!2d72.7114355259801!3d19.967109973392716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72760a2d987fb%3A0xd9c33902c0678a22!2sDhakati%20Dahanu%2C%20Dahanu%2C%20Maharashtra%20401601!5e0!3m2!1sen!2sin!4v1699049729567!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/DAHANU/DHAKTI DAHANU/DHAKTI DAHANU.dwg"
+                    "dwgURL": "./dwg/Palghar/DAHANU/DHAKTI DAHANU/DHAKTI DAHANU.dwg"
                 },
                 "Bade Pokhran":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7500.823687615547!2d72.69758019522514!3d19.949175010859825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6d8aeb951ad89%3A0xf1611650ca64116f!2sPokharan%2C%20Maharashtra%20401601!5e0!3m2!1sen!2sin!4v1699049788047!5m2!1sen!2sin",
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Dhumket":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.3548954195003!2d72.71640312597974!3d19.951571823901467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72751abd501f9%3A0x146984f196f60e3b!2sDhumkhet%2C%20Maharashtra%20401601!5e0!3m2!1sen!2sin!4v1699049826639!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/DAHANU/DHUMKET/DHUMKET.dwg"
+                    "dwgURL": "./dwg/Palghar/DAHANU/DHUMKET/DHUMKET.dwg"
                 },
                 "Chandigaon":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15003.607479993909!2d72.70982266349425!3d19.92853962621055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be720a4c1f1db15%3A0xe240a96916d64a8!2sChandigaon%2C%20Maharashtra%20401103!5e0!3m2!1sen!2sin!4v1699049865711!5m2!1sen!2sin" ,
@@ -61,15 +61,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Gungawada":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7500.529644529355!2d72.68772519522557!3d19.955362210445188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6d8ba31e33293%3A0x92380093df2f39ed!2sGungwada%2C%20Maharashtra%20401601!5e0!3m2!1sen!2sin!4v1699292103337!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/DAHANU/GUNGAWADA/GUNGAWADA.dwg"
+                    "dwgURL": "./dwg/Palghar/DAHANU/GUNGAWADA/GUNGAWADA.dwg"
                 },
                 "Pokhran":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28459.27844769957!2d71.88422802829675!3d26.922219869680557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39472d7ef9715b3d%3A0x70bc23d036e19b80!2sPokhran%2C%20Rajasthan%20345021!5e0!3m2!1sen!2sin!4v1699049955448!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/DAHANU/POKHRAN/POKHRAN.dwg"
+                    "dwgURL": "./dwg/Palghar/DAHANU/POKHRAN/POKHRAN.dwg"
                 },
                 "vandhavan":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7501.779440366197!2d72.6661143952238!3d19.92905151220713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6df2f755bed9b%3A0x12b02fa62698764c!2sVandhavan%2C%20Maharashtra%20401503!5e0!3m2!1sen!2sin!4v1699049992254!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/DAHANU/VANDHAVAN/VANDHAVAN.dwg"
+                    "dwgURL": "./dwg/Palghar/DAHANU/VANDHAVAN/VANDHAVAN.dwg"
                 },
                 "Vasgaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7502.175151097303!2d72.69891494522338!3d19.92071406276492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6df5dfdcb89a5%3A0xc02cfa273158002b!2sVasgaon%2C%20Maharashtra%20401503!5e0!3m2!1sen!2sin!4v1699050036390!5m2!1sen!2sin",
@@ -85,14 +85,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Chinchani":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30015.574841075908!2d72.66608456901645!3d19.88446587275159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6dfa2ef9c72ad%3A0xc54e68fb032645f0!2sChinchani%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699050182126!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/DAHANU/CHINCHANI/CHINCHAIN.dwg",
+                    "dwgURL": "./dwg/Palghar/DAHANU/CHINCHANI/CHINCHAIN.dwg",
                 },
             },
 //Taluka 3
             "Vasai": {
                 "Chikhaldongre" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15045.579080488287!2d72.77860176337475!3d19.48164438822187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aa0dcf981f7b%3A0xf80846b9391232fe!2sChikhal%20Dongari%2C%20Virar%20West%2C%20Virar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699050842117!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/VASAI/CHIKHALDONGRE/CHIKHALDONGRE.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/CHIKHALDONGRE/CHIKHALDONGRE.dwg",
                 },
                 "Kolhapur" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61141.86674973!2d74.19766829269504!3d16.708546679754456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1000cdec07a29%3A0xece8ea642952e42f!2sKolhapur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699050876690!5m2!1sen!2sin",
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Patilgaon" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7524.080329501536!2d72.75486509519241!3d19.453835043674985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aa59d2c79e3b%3A0x5373e4afd8cc3cd4!2sPatilgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699050940253!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/PATILGAON/PATILGAON.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/PATILGAON/PATILGAON.dwg",
                 },
                 "Arnala" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7524.080329501536!2d72.75486509519241!3d19.453835043674985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aaf16e60af7d%3A0x549baf41a5fb8bd6!2sArnala%2C%20Virar%20West%2C%20Virar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699050971621!5m2!1sen!2sin",
@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                  "Rajodi" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15050.729915122989!2d72.75131046336014!3d19.426120445845502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ab98af125a43%3A0xcfd3c08f31b24bb5!2sRajodi%2C%20Nalasopara%20West%2C%20Nala%20Sopara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051093412!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/RAJODI/RAJODI COMPLETED.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/RAJODI/RAJODI COMPLETED.dwg",
                 },
                 "Kalamb" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15052.920229220903!2d72.75697981335392!3d19.402463449088224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ab9b7025a549%3A0x93a21f5d0ef33473!2sKalamb%2C%20Nalasopara%20West%2C%20Nala%20Sopara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699299400167!5m2!1sen!2sin" ,
@@ -128,15 +128,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Wagholi" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15051.58813473763!2d72.76797476335773!3d19.416854347116004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7abec98386deb%3A0x22163644911e3592!2sWagholi%2C%20Nalasopara%20West%2C%20Nala%20Sopara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699299520363!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/WAGHOLI/WAGHOLI.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/WAGHOLI/WAGHOLI.dwg",
                 }, 
                 "Nirmal" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7526.621330977723!2d72.77131954518875!3d19.398978597264307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ab8ada4eb14f%3A0x9f2bb65fb85f93d!2sNirmal%2C%20Nalasopara%20West%2C%20Nala%20Sopara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051207708!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/NIRMAL/NIRMAL.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/NIRMAL/NIRMAL.dwg",
                 },
                 "Bhuigaon KH" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7526.973223579324!2d72.76289009518817!3d19.391369997761274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ac79f00d5185%3A0x85eacb23f7d075a6!2sBhuigaon%20Kh.%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051295108!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/BHUIGAON KH/BHUIGAON KHURD .16.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/BHUIGAON KH/BHUIGAON KHURD .16.dwg",
                 }, 
                 "Bhuigaon BK" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15054.887210291467!2d72.76019026334839!3d19.381194952000797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ac6f14600a91%3A0x4d873ec54900cee6!2sBhuigaon%20Bk.%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051346916!5m2!1sen!2sin" ,
@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Rangaon" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7527.897872653571!2d72.77011814518683!3d19.371363599067383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ac4f21cbb39b%3A0x3cabb73c62a0dd7a!2sRangaon%2C%20Vasai%20West%2C%20Vasai-Virar%2C%20Maharashtra%20401201!5e0!3m2!1sen!2sin!4v1699051378596!5m2!1sen!2sin", 
-                    "dwgURL": " ./dwg/Palghar/VASAI/RANGAON/RANGAON.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/RANGAON/RANGAON.dwg",
                 },
                 "Kaular BK" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15056.06637518017!2d72.75678602415726!3d19.36843415716465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ac46ca912e45%3A0x935d2f429ae733c8!2sKaular%20Bk.%2C%20Maharashtra%20401201!5e0!3m2!1sen!2sin!4v1699051423380!5m2!1sen!2sin" ,
@@ -156,15 +156,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Sandor(CT)" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15056.4940707639!2d72.76956173282473!3d19.36380368340565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ac2bc99f8403%3A0x864a9406725e5744!2sSandor%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699299719179!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/VASAI/SANDOOR/SANDOOR.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/SANDOOR/SANDOOR.dwg",
                 },
                 "Vasai(MCI)" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240791.37423355482!2d72.7169596548112!3d19.439814187292054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a94ef1bdc0af%3A0x8540289257e6802b!2sVasai!5e0!3m2!1sen!2sin!4v1699051643460!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/VASAI(MCI)/VASAI (MCI).dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/VASAI(MCI)/VASAI (MCI).dwg",
                 },
                 "Kochiwade" :{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1882.3446805124731!2d72.82272573882892!3d19.339281376344754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ae6965fb07af%3A0x28a04786a5c0515f!2sKhochiwade%2C%20Maharashtra%20401207!5e0!3m2!1sen!2sin!4v1699051680547!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/VASAI/KHOCHIWADA/KHOCHIWADE FINAL.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/KHOCHIWADA/KHOCHIWADE FINAL.dwg",
                 },
                 "Vadiwali" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7529.246875906515!2d72.82443812698799!3d19.342139864545693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ae44795435eb%3A0xc98dc5f3c03f477e!2sVadavali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051709083!5m2!1sen!2sin",
@@ -172,14 +172,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Panju" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15059.477566092584!2d72.84396876333543!3d19.33147300879958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7afca4b52a1e9%3A0xf198fe03e48c5139!2sPanju%20Island%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051756252!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/VASAI/PANJU/PANJU.dwg",
+                    "dwgURL": "./dwg/Palghar/VASAI/PANJU/PANJU.dwg",
                 }
             },
 //Taluka 4
             "Palghar": {
                 "Tarapur(CT)":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7505.0636987393555!2d72.6727365772598!3d19.859751926232487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6dfc32d36601b%3A0x42260a4d7dc160ae!2sTarapur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051828427!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Palghar/PALGHAR/TARAPUR.dwg",
+                        "dwgURL": "./dwg/Palghar/PALGHAR/TARAPUR.dwg",
                     },
                 "Kambode" :{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15010.371710228563!2d72.66963021347489!3d19.857169886191475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6dfdb7cfa123f%3A0x5511f47bcbd9f138!2sKambode%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051860694!5m2!1sen!2sin",
@@ -191,15 +191,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Ghivali" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.857702385524!2d72.66189247597801!3d19.845972977348335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e07f8f21c895%3A0xa92b171d9901f348!2sGhivali%2C%20Maharashtra%20401502!5e0!3m2!1sen!2sin!4v1699051918070!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/GHIVALI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/GHIVALI.dwg",
                 },
                 "Akkarptti":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15013.08761460801!2d72.66197026346718!3d19.828444890200288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e0664268d4cf%3A0x35b0a9bf8537c823!2sAkkarpatti%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699051949099!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/AKARAPATTI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/AKARAPATTI.dwg",
                 },
                 "Popharan":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.617563494477!2d72.71470237597823!3d19.856128327017526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72003e6d2b6b9%3A0x6c43de481c92bfa!2sPopharan%2C%20Maharashtra%20401501!5e0!3m2!1sen!2sin!4v1699051977523!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/POPHARAN.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/POPHARAN.dwg",
                 },
                 "Unbhat":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15013.679931718838!2d72.67154526346553!3d19.82217489107468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e0410a5dd12b%3A0x490c72c30c1dc924!2sUnbhat%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699052019219!5m2!1sen!2sin",
@@ -211,7 +211,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Dandi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7507.944965228734!2d72.67622057722734!3d19.798764030785176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e1ca9dbb6ca7%3A0xd482e4e3e2f4ee38!2sDandi%2C%20Maharashtra%20401501!5e0!3m2!1sen!2sin!4v1699052111203!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/DANDI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/DANDI.dwg",
                 },
                 "Nawapur":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15049.489923430898!2d72.74885521336367!3d19.439500994009936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7abaaefe3f4bb%3A0x11c8e12cda98deb1!2sNavapur%2C%20Virar%20West%2C%20Virar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699300050530!5m2!1sen!2sin",
@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Gundavali":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12628.997568310793!2d72.70097788225476!3d19.77114707965157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e1e2966b344f%3A0xe18c05380d05f5c2!2sGundavali%20-%20Kumbhavali%20Rd%2C%20Maharashtra%20401501!5e0!3m2!1sen!2sin!4v1699300157037!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/GUNDAVALI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/GUNDAVALI.dwg",
                 },
                 "Murabe":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15018.716185301839!2d72.68066416345115!3d19.76878629851088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e1edf0c405cb%3A0x5ab0b32b082678d1!2sMurabe%2C%20Nandgaon%2C%20Gundali%2C%20Maharashtra%20401501!5e0!3m2!1sen!2sin!4v1699052242315!5m2!1sen!2sin" ,
@@ -231,7 +231,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Satpati":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15023.13705566331!2d72.69372216343855!3d19.721806955040712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e270664ce65d%3A0x8e61fd10db4a0300!2sSatpati%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699052279002!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/SATPATI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/SATPATI.dwg",
                 },
                 "Shirgaon(CT)":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3756.0101848090285!2d72.70701577597579!3d19.712190531691157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e2800245df57%3A0x443451c44a35c64!2sShirgaon%20-%20Satpati%20Rd%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699052311298!5m2!1sen!2sin" ,
@@ -239,11 +239,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Wadrai":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.1648802072505!2d72.7094174759748!3d19.662969883282226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be702a974b7b8c9%3A0x76b4fc2809d1c97e!2sWadrai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699052341170!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/WADARAI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/WADARAI.dwg",
                 },
                 "Haranawadi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60117.01221429165!2d72.68782967905764!3d19.65663624201859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be703245fe48753%3A0xd16a0be12e68b2ad!2sHaranwali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699300298885!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/HARANWADI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/HARANWADI.dwg",
                 },
                 "Nandgaon":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15019.25038073843!2d72.67837181344966!3d19.763115249299794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e1f255c6f9d3%3A0x46736440d20123a6!2sNandgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699300385333!5m2!1sen!2sin",
@@ -259,15 +259,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Mangelwada":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7516.307194350287!2d72.72473519520334!3d19.620730082700568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be70261b1c9d49b%3A0x504ed3234b6aaebd!2sMangelwada%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054008389!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/MAGALWEDA.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/MAGALWEDA.dwg",
                 }, 
                 "Usarni":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7518.331891971723!2d72.71466489520044!3d19.577389985558312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be70202932d0907%3A0xa2e127bc0dc0f8ee!2sUsarni%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054037193!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/USARNI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/USARNI.dwg",
                 },
                 "Dande":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15036.238606906261!2d72.71989531340125!3d19.58194492440494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7021ed773507f%3A0x2c7238e8cf246c03!2sDande%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054070601!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/DHANDE.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/DHANDE.dwg",
                 },
                 "Khatali":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7517.8851874715865!2d72.73528514520093!3d19.586959934927815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be702248c319973%3A0xd13d51549c73f5c6!2sKhatali%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054106375!5m2!1sen!2sin",
@@ -275,27 +275,27 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Mathane":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7519.602949216284!2d72.7194713951985!3d19.550134937352855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be701c3aa444efd%3A0xe17770dc716b3bd4!2sMathane%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054137007!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/MATHANE.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/MATHANE.dwg",
                 },
                 "Edwan":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7519.602949216284!2d72.7194713951985!3d19.550134937352855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be701c5f4b0dfab%3A0xbdbfa9942d328f3e!2sEdvan%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054171593!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/EDHWAN.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/EDHWAN.dwg",
                 },
                 "Kore":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7520.492196175044!2d72.72558682708605!3d19.531045250649022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7004acc473fff%3A0x1515c729925eb561!2sKore%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054211945!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/KORE.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/KORE.dwg",
                 },
                 "Datiware":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7520.492196175044!2d72.72558682708605!3d19.531045250649022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be700f86c277795%3A0xf0e382bad2894ef5!2sDativare%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054252048!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/DATIVARE.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/DATIVARE.dwg",
                 },
                 "Bandar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30082.942210527104!2d72.74179486863027!3d19.525817931239548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be70054496aa351%3A0x6d9bf7d5ccd74d0!2sBandar%2C%20Maharashtra%20401102!5e0!3m2!1sen!2sin!4v1699054276920!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/BANDAR.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/BANDAR.dwg",
                 },
                 "Tembi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7524.156583683984!2d72.74740514519223!3d19.452190993782867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aaf9e0a62637%3A0x7e2508e9e1d2fab7!2sTembhi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699134914622!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Palghar/PALGHAR/TEMBI.dwg",
+                    "dwgURL": "./dwg/Palghar/PALGHAR/TEMBI.dwg",
                 },
             },
         },
@@ -317,7 +317,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Pali":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d816406.9575868599!2d72.94169268165308!3d18.095235815499418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be81123b52bc5d9%3A0xd60945cf4eff958e!2sPali%2C%20Maharashtra%20410205!5e0!3m2!1sen!2sin!4v1699054480736!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Thane/THANE/PALI.dwg",
+                    "dwgURL": "./dwg/Thane/THANE/PALI.dwg",
                 },
                 "Morva":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d341213.8861718208!2d72.88962478836083!3d19.11132094600828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b1f209399baf%3A0xa76d92f823bced25!2sAagri%2C%20Morva%2C%20Maharashtra%20401101!5e0!3m2!1sen!2sin!4v1699054526040!5m2!1sen!2sin",
@@ -325,12 +325,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Rai Murdha":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3765.6355222192888!2d72.82493508595985!3d19.298210048440488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b1dd39b71461%3A0xb0bbb06f68f004bc!2sBhayandar%2C%20Murdha%20Gaon%2C%20Bhayandar%20West%2C%20Mira%20Bhayandar%2C%20Maharashtra%20401101!5e0!3m2!1sen!2sin!4v1699054746303!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Thane/THANE/RAIMURDHE.dwg",
+                    "dwgURL": "./dwg/Thane/THANE/RAIMURDHE.dwg",
                 },
                 "Tara and i":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.155364108418!2d72.818125675963!3d18.924516056709066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1ec1fd00001%3A0x757a739ccc26528c!2stara%20and%20i!5e0!3m2!1sen!2sin!4v1699054800151!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Thane/THANE/TARANDI.dwg ",
-                },
+                }, 
                 "Uttan":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60259.3454247235!2d72.76911185270968!3d19.27327145676745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b1f3d811e105%3A0x7310535d2fc043c7!2sUttan%2C%20Mira%20Bhayandar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054846068!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Thane/THANE/UTTAN.dwg ",
@@ -491,11 +491,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Ulawe":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30182.727117585007!2d73.02629446806166!3d18.982633042876646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c2dfe25c1a09%3A0x484fc4d588630883!2sUlwe%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054936071!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/PANVEL/ULAVE.dwg",
+                    "dwgURL": "./dwg/Raigad/PANVEL/ULAVE.dwg",
                 },
                 "Wahal":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30184.87988366252!2d73.01095531804944!3d18.970749446376768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c32fa9967ced%3A0x50c898235e742afb!2sWahal%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699054974201!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/PANVEL/WAHAL.dwg",
+                    "dwgURL": "./dwg/Raigad/PANVEL/WAHAL.dwg",
                 },
                 "Kharkopar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773.236927185147!2d73.01285687596358!3d18.965141055441993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c34aee81223d%3A0x24d6c04e4722b5c7!2sKhar%20Kopar%2C%20Sector%208%2C%20Ulwe%2C%20Navi%20Mumbai%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699055035603!5m2!1sen!2sin" ,
@@ -503,18 +503,18 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Gavhan":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15093.753440560196!2d72.98901578715815!3d18.956238299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dd4df39aa51d%3A0x1621c79dfe273889!2zR2F2aGFuICjgpJfgpLXgpY3gpLngpL7gpKMp!5e0!3m2!1sen!2sin!4v1699301726935!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/PANVEL/GAVHAN.dwg",
+                    "dwgURL": "./dwg/Raigad/PANVEL/GAVHAN.dwg",
                 },
                 "Nhava":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7546.41439676426!2d72.95297382679497!3d18.966454641889623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c4cf593abd93%3A0x8a7492db7f8335f6!2sNhava%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699301822868!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/PANVEL/NHAVE.dwg",
+                    "dwgURL": "./dwg/Raigad/PANVEL/NHAVE.dwg",
                 }
             },
 //taluka2
             "Uran": {
                 "Gharapuri":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15093.21916956584!2d72.92306216324002!3d18.962142058850027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c5303c99a3c7%3A0x9ac64c29060b4e2b!2sElephanta%20Island!5e0!3m2!1sen!2sin!4v1699055477642!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/URAN/GHARAPURI/GHARAPURI.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/GHARAPURI/GHARAPURI.dwg",
                 }, 
                 "Juna Sheva":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30191.276917831696!2d72.93926541801314!3d18.935394456780855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7db3ce5ae825f%3A0x24b04102a21c62d9!2sJuna%20Sheva%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699055511457!5m2!1sen!2sin" ,
@@ -525,15 +525,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/URAN/JASKHAR/JASKHAR.dwg ",
                 },
                 "Panje":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7549.3412291057875!2d72.94647209515684!3d18.90168827938817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbac1cac5e21%3A0x98ee58625c394390!2sPanje%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055650805!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/URAN/PANJE/PANJE.dwg",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7549.3412291057875!2d72.94647209515684!3d18.90168827938817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbac1cac5e21%3A0x98ee58625c394390!2sPanje%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055650805!5m2!1sen!2sin",
+                    "dwgURL": "./dwg/Raigad/URAN/PANJE/PANJE.dwg",
                 },
                 "Funde":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1887.4529524303648!2d72.96219203882715!3d18.891255083301804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbb952499d1f%3A0x9f7433a588f5df0d!2sFunde%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055683262!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1887.4529524303648!2d72.96219203882715!3d18.891255083301804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbb952499d1f%3A0x9f7433a588f5df0d!2sFunde%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055683262!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/URAN/FUNDE/FUNDE.dwg ",
                 },
                 "Dongari":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14980.205641077344!2d72.84803531356114!3d20.17358484171738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72db17707d079%3A0x36b96bd5f7175b95!2sDongari%2C%20Maharashtra%20401606!5e0!3m2!1sen!2sin!4v1699055711591!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14980.205641077344!2d72.84803531356114!3d20.17358484171738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72db17707d079%3A0x36b96bd5f7175b95!2sDongari%2C%20Maharashtra%20401606!5e0!3m2!1sen!2sin!4v1699055711591!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/URAN/DONGARI/DONGARI.dwg ",
                 },
                 "Hanuman Koliwada":{
@@ -546,7 +546,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Ranwad":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10677.68138995191!2d72.90670212806003!3d18.881292764071297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7da69e58e93f5%3A0x1457d4f2ce66d154!2sRanwad%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699308341452!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/URAN/RANWAD/RANWAD.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/RANWAD/RANWAD.dwg",
                 },
                 "Kegaon(CT) ":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.1010663341062!2d72.92013727596225!3d18.882597058014113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7da40031dc0cb%3A0xd22f2049c224b81d!2sKegaon%20Rd%2C%20Uran%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055853339!5m2!1sen!2sin" ,
@@ -554,22 +554,22 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Nagaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15101.926698236914!2d72.91694641321551!3d18.86570097178845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7da399036d4c1%3A0x94a2276be3991f33!2sNagaon%2C%20Uran%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699308420259!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/URAN/NAGAON/NAGAON.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/NAGAON/NAGAON.dwg",
                 },
                 "Mhatwali":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30204.191453896456!2d72.91792416793994!3d18.86382417780014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d981a88fc179%3A0x59461d93cb4b3c26!2sMhatwali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699055919366!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30204.191453896456!2d72.91792416793994!3d18.86382417780014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d981a88fc179%3A0x59461d93cb4b3c26!2sMhatwali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699055919366!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/URAN/MHATAVALI/MHATVALI.dwg ",
                 },
                 "Chanje (CT)":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.601114254944!2d72.94722017596202!3d18.86039575870419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d97ff21418d7%3A0x3d4b61e50759ce5d!2sChanje%20St%2C%20Uran%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055972814!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.601114254944!2d72.94722017596202!3d18.86039575870419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d97ff21418d7%3A0x3d4b61e50759ce5d!2sChanje%20St%2C%20Uran%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699055972814!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/URAN/CHANJE/CHANJE 1 & 2.dwg ",
                 },
                 "Navin Sheva":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.34482077883!2d72.94916502596216!3d18.871777908350516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbd226e5b821%3A0xe6f0d88cdaf96354!2sNavin%20Sheva%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699056012182!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.34482077883!2d72.94916502596216!3d18.871777908350516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbd226e5b821%3A0xe6f0d88cdaf96354!2sNavin%20Sheva%2C%20Navi%20Mumbai%2C%20Maharashtra%20400702!5e0!3m2!1sen!2sin!4v1699056012182!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/URAN/NVINSHEVA/NAVIN SHEVA.dwg ",
                 },
                 "Bhendkhal":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.1179432202384!2d72.97852798590677!3d18.881848162372723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbf18ef530cf%3A0x943a4cbf821f26a!2sBhendkhal%2C%20Maharashtra%20400707!5e0!3m2!1sen!2sin!4v1699056042797!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.1179432202384!2d72.97852798590677!3d18.881848162372723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dbf18ef530cf%3A0x943a4cbf821f26a!2sBhendkhal%2C%20Maharashtra%20400707!5e0!3m2!1sen!2sin!4v1699056042797!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/URAN/BHENDKHEL/BHENDKHEL.dwg ",
                 },
                 "Navghar(CT)":{
@@ -578,11 +578,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Dhasakhosi":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.2411500919366!2d73.00789497596215!3d18.876380108207613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dc1a2cd91acd%3A0x6af1ffe1ca99057f!2sDhasakhosi%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699056117885!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/URAN/DHAKAOSHI/DHAKOSHI.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/DHAKAOSHI/DHAKOSHI.dwg",
                 },
                 "Bandhpada":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59946.20704722409!2d72.71086577883432!3d20.1074163393148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be72991f51b5633%3A0x76c6e1de285b528f!2sBordi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699035518751!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/URAN/BANDHPADA/BANDHPADA.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/BANDHPADA/BANDHPADA.dwg",
                 }, 
                 "Kacherpada":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7550.663190563814!2d73.0020750951547!3d18.872365081259392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dc1c906cafa9%3A0xe3b19e84789ff70a!2sBandhpada%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699056172613!5m2!1sen!2sin" ,
@@ -590,15 +590,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Pirkone":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15103.43071188618!2d72.99638021321122!3d18.848994974024187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7deb994978ae9%3A0x928226c64b233fcf!2sPirkone%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699056203341!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/URAN/PIRKON/PIRKON.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/PIRKON/PIRKON.dwg",
                 }, 
                 "Sangpalekhar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7552.015863843014!2d72.99127009515291!3d18.842315133173976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7deca6180fb9f%3A0x357cea8b08e31827!2sSangpalekhar%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699056239749!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/URAN/SANGPALKHAR/SANGPALKHAR.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/SANGPALKHAR/SANGPALKHAR.dwg",
                 },
                 "Govthane":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3776.05426125497!2d72.99126507596165!3d18.840255009329624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7decb29d374f3%3A0x78f0e51aaa7ce8a7!2sGovthane%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699056268389!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/URAN/GOVATHANE/GOVATHANE.dwg",
+                    "dwgURL": "./dwg/Raigad/URAN/GOVATHANE/GOVATHANE.dwg",
                 },  
                 "Aware":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15105.512348331406!2d72.98196112304389!3d18.825849398304015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ded6dab6c1cd%3A0xc9d8e788b3aa6ab8!2sAware%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699056302453!5m2!1sen!2sin",
@@ -609,7 +609,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Pen": {
                 "VitthalWadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15069.343219672106!2d73.14282336330741!3d19.224191423419875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7944744f1b2bb%3A0xf59566d62d8bde40!2sVitthalwadi%2C%20Ulhasnagar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699056340565!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/PEN/VITTHALVADI.dwg",
+                    "dwgURL": "./dwg/Raigad/PEN/VITTHALVADI.dwg",
                 },
                 "Mothe Bhal":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15109.05281378584!2d72.99051531319547!3d18.78642008238399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7df4e20973919%3A0x4289a7e3d8f25d5!2sMothe%20Bhal%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699056407285!5m2!1sen!2sin",
@@ -624,7 +624,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Alibag": {
                 "Ramkotha":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7554.917419852479!2d72.97886014514886!3d18.777700087281872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d8a8ddc3b2f1%3A0xb3e55fe43efc0a0!2sRamkotha%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699056797701!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/RAMKOTHA.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/RAMKOTHA.dwg",
                 }, 
                 "Sonakothakhar":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777.6163759362753!2d72.96169507596066!3d18.77066501148554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be87620b1c5b23d%3A0xfb4bded1b560de69!2sSonakothakhar%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699056828404!5m2!1sen!2sin",
@@ -632,11 +632,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Hashiware":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7555.397402418047!2d72.93817339514821!3d18.766990637961683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be877d51de93bf3%3A0x78f5f263c517d6e0!2sHashiware%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699056855964!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/KHAR HASHIVARE_.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/KHAR HASHIVARE_.dwg",
                 }, 
                 "Kawade":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30218.253755010628!2d72.93057536786026!3d18.785594400710842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d8893a6d7a9f%3A0x98cd466d9d47b8f0!2sKawade%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699056897860!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/KAWADE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/KAWADE.dwg",
                 },
                 "Ranjankhar Davali":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15106.347101340294!2d72.93139526320304!3d18.816560128360237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d9ab3f760ecf%3A0xd455b3d0c43a11bb!2sRanjankhar%20Davali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699056936044!5m2!1sen!2sin" ,
@@ -644,15 +644,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Milkatkhar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7553.94203182153!2d72.9242501951503!3d18.799444985900926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d84433e354a1%3A0x2f3f5251d8783c23!2sMilkatkhar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699056981524!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/MILKATKHAR.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/MILKATKHAR.dwg",
                 }, 
                 "Belpada":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71814.18808817095!2d72.94611318698126!3d18.919513328282406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7dc9a997c673b%3A0xa3df44ef37debeda!2sBelpada%2C%20Maharashtra%20410206!5e0!3m2!1sen!2sin!4v1699308690623!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/BELPADA.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/BELPADA.dwg",
                 }, 
                 "Rewas":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71886.26224679094!2d72.91033611254929!3d18.75102368799244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d869ee90502f%3A0x546b152a1ac539e4!2sRevas%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699057231076!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/REVAS.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/REVAS.dwg",
                 },
                 "Pupadevipada":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7554.9187751710415!2d72.91862712669975!3d18.77766985548207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d86e77c303f3%3A0x802c76d1e4d99323!2sPupadevi%20Pada%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699057264603!5m2!1sen!2sin" ,
@@ -660,7 +660,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Saral":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15109.53090926955!2d72.90456526319412!3d18.78108953309508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d811a039175d%3A0x242543c5a3752e!2sSaral%2C%20Maharashtra%20402209!5e0!3m2!1sen!2sin!4v1699057320435!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/SARAL.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/SARAL.dwg",
                 },
                 "Virtasaral":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7554.561611775022!2d72.90007014514934!3d18.785635136778083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d8192ecfd48f%3A0xeeae8d7d18cdb478!2sVirtasaral%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057355315!5m2!1sen!2sin" ,
@@ -668,24 +668,24 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Yelwane":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7554.428845862505!2d72.90793019514962!3d18.788595186590083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d817cecf035d%3A0xb93f1f0b1cee8bd9!2sYelwane%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057400747!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/YELVANE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/YELVANE.dwg",
                 },
                 "Mandava Tarf Zirad":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7553.978377915576!2d72.89510514515014!3d18.79863513595226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d827ea846809%3A0x640a4214c6be55fd!2sMandava%20Tarf%20Zirad%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057436892!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/MANDAVE TARF ZIRAD.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/MANDAVE TARF ZIRAD.dwg",
                 },
                 "Dhokawade":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15108.793479594207!2d72.87670021319617!3d18.78931093199829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d78d7e27bcbd%3A0xc8a9eb3e5e3a300e!2sDhokawade%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057464402!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/DHOKVADE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/DHOKVADE.dwg",
                 }, 
- // 88888888             
+ // DWG Not            
                 "Murabe":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15018.716185301839!2d72.68066416345115!3d19.76878629851088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be6e1edf0c405cb%3A0x5ab0b32b082678d1!2sMurabe%2C%20Nandgaon%2C%20Gundali%2C%20Maharashtra%20401501!5e0!3m2!1sen!2sin!4v1699057499642!5m2!1sen!2sin",
                     // "dwgURL": " ",
                 },
                 "Kolgaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7553.9521232481!2d72.87229014515017!3d18.79922013591516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d798481d4b4d%3A0x842022ff13758d8a!2sKolgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699308812838!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/KOLGOAN.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/KOLGOAN.dwg",
                 },
                 "Navedar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d171098.58922978025!2d72.63201685264504!3d18.628944663749444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be87080b23618c1%3A0xba9767369c078172!2sNavedarbeli%2C%20Maharashtra%20402204!5e0!3m2!1sen!2sin!4v1699057622771!5m2!1sen!2sin",
@@ -696,7 +696,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/ALIBAG/NAVEDAR KOLGOAN.dwg.dwg ",
                 },
                 "Sasawane":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777.2192969822554!2d72.860453685895!3d18.788377865465385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d7b9b3df52e7%3A0xb7682960ffa9e7e2!2sSasawane%2C%20Maharashtra%20402201!5e0!3m2!1sen!2sin!4v1699057691379!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777.2192969822554!2d72.860453685895!3d18.788377865465385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d7b9b3df52e7%3A0xb7682960ffa9e7e2!2sSasawane%2C%20Maharashtra%20402201!5e0!3m2!1sen!2sin!4v1699057691379!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/ALIBAG/SASAWANE.dwg ",
                 },
                 "Awas":{
@@ -709,11 +709,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Agarsure":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7556.017327732199!2d72.86267014514725!3d18.75315003883946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8786d3deab3e7%3A0x88cd3792ef866161!2sAgarsure%2C%20Maharashtra%20402201!5e0!3m2!1sen!2sin!4v1699057787339!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/AGARSURE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/AGARSURE.dwg",
                 }, 
                 "Bamansure":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7556.770327110886!2d72.87410514514623!3d18.7363251399059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8783eea213303%3A0x92721ac48c8207a0!2sBamansure%2C%20Maharashtra%20402201!5e0!3m2!1sen!2sin!4v1699057817475!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/BAMANSURE_.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/BAMANSURE_.dwg",
                 },
                 "Kihim":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7556.770327110886!2d72.87410514514623!3d18.7363251399059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be878481db67e6b%3A0x8a9930e43e583cb4!2sKihim%2C%20Maharashtra%20402201!5e0!3m2!1sen!2sin!4v1699057854732!5m2!1sen!2sin",
@@ -724,11 +724,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/ALIBAG/NAVEDAR BELI.dwg ",
                 },
                 "Navagaon Boris":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120588.10968307397!2d72.67284984413968!3d19.178666863681322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0e247071a3f%3A0x29154d3311e34783!2sNavagaon%2C%20Mandapeshwar%2C%20Dahisar%20West%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057951386!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/NAVAGAON BORIS.dwg",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120588.10968307397!2d72.67284984413968!3d19.178666863681322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b0e247071a3f%3A0x29154d3311e34783!2sNavagaon%2C%20Mandapeshwar%2C%20Dahisar%20West%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057951386!5m2!1sen!2sin",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/NAVAGAON BORIS.dwg",
                 },
                  "Thal":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15116.456736636977!2d72.84949357279774!3d18.703705418620263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be879b0ab044447%3A0xd3a6c070ae23af9!2sThal%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057996242!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15116.456736636977!2d72.84949357279774!3d18.703705418620263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be879b0ab044447%3A0xd3a6c070ae23af9!2sThal%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699057996242!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/ALIBAG/Thal.dwg ",
                 },
                 "Lonare":{
@@ -737,11 +737,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Varasoli":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7560.042051067386!2d72.87919752664226!3d18.663052463685755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be87a26a8af6ead%3A0xb1b08b42640e0a00!2sVarasoli%2C%20Alibag%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058061610!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/varsoli.dwg",  
+                    "dwgURL": "./dwg/Raigad/ALIBAG/varsoli.dwg",  
                 }, 
                 "Chendhare(CT)":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7560.1856481744835!2d72.87231019514155!3d18.659830144743363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be87a1787cf5aa5%3A0x55c87116beaa1c10!2sChendhare%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058099002!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/CHENDHARE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/CHENDHARE.dwg",
                 },
                 "Alibag(MCI)":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7560.777055703263!2d72.86800509357907!3d18.64655330000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be87a6ae42e15f5%3A0xd2dd7a1903dfaef5!2sAlibag%20Municipal%20Council!5e0!3m2!1sen!2sin!4v1699058186162!5m2!1sen!2sin" ,
@@ -757,11 +757,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Navedar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7642.036918852219!2d73.33760017572644!3d16.72593074675493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7b06edcde483%3A0xcf5779c3c0dc06c5!2sNavedar%2C%20Maharashtra%20416707!5e0!3m2!1sen!2sin!4v1699058307777!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/NAVEDAR.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/NAVEDAR.dwg",
                 },
                 "Nagaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15124.552180315013!2d72.89358001315195!3d18.612859705451307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8706e5aa98a39%3A0xe10d971d3317c28!2sNagaon%2C%20Maharashtra%20402204!5e0!3m2!1sen!2sin!4v1699309005738!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/NAGAION.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/NAGAION.dwg",
                 }, 
                 "Choul":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15128.584916404863!2d72.93311776314066!3d18.567445061458116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86fa39749ba83%3A0xb651e2f709916f62!2sChaul%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058379170!5m2!1sen!2sin" ,
@@ -773,7 +773,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Agarkot":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15130.151406586723!2d72.93265966313623!3d18.549775113791995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86fadea5f79fd%3A0xcf781245688ea759!2sAgarkot%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058444889!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/ALIBAG/AAGARKOT KILLE.dwg",
+                    "dwgURL": "./dwg/Raigad/ALIBAG/AAGARKOT KILLE.dwg",
                 },
             },
 //taluka5
@@ -784,7 +784,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                  "Korlai":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15131.918747023947!2d72.90891521313131!3d18.529820066425472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86f73a65ce2e9%3A0x301770f5e8e13ba3!2sKorlai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058669066!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/KORLAI.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/KORLAI.dwg",
                 }, 
                 "Borli":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7566.678293333679!2d72.91206514513242!3d18.513570103943707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86f41f03ac713%3A0x2bdc48058d1cdc5f!2sBorli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058710850!5m2!1sen!2sin",
@@ -792,7 +792,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                  "Surai":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7566.678293333679!2d72.91206514513242!3d18.513570103943707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86f40d7f581a5%3A0x5bb649310772b149!2sSurai%2C%20Maharashtra%20402202!5e0!3m2!1sen!2sin!4v1699058752402!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/SURAI.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/SURAI.dwg",
                 },
                 "Kolmandale":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7567.226034327972!2d72.90563519513172!3d18.50118010472001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be86f4fe19f4515%3A0xed630fd1aaffcbe5!2sKolmandale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058788773!5m2!1sen!2sin" ,
@@ -800,11 +800,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Mandala":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15135.35742883147!2d72.90837097237284!3d18.490934353833538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be868cb676b621f%3A0xce73a2f3b249e79e!2sMandala%2C%20Maharashtra%20402202!5e0!3m2!1sen!2sin!4v1699058823873!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/MANDALE.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/MANDALE.dwg",
                 },
                 "Barashiv":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15136.254670259319!2d72.89372531311919!3d18.480775072888104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be868a8cf9b3a57%3A0x2a4a0af1342a700!2sBarashiv%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058872793!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/BARSHIV.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/BARSHIV.dwg",
                 },
                 "Tembhode":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15025.12608593091!2d72.74632276343289!3d19.700635007979294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be71d1e779363c1%3A0x967b1d932ebab209!2sTembhode%2C%20Palghar%2C%20Maharashtra%20401404!5e0!3m2!1sen!2sin!4v1699058907681!5m2!1sen!2sin" ,
@@ -820,7 +820,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },  
                 "Sarve":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15139.839662858423!2d72.89749611310914!3d18.440129028233315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be868402077601d%3A0xefc77540f7fa637d!2sSarve%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699058999329!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/SARVE.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/SARVE.dwg",
                 },
                 "Donde tarf nandgaon":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15142.969288072836!2d72.91129026310037!3d18.404575032900915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8681f43190319%3A0xbf671f9c0c4aa271!2sDonde%20Tarf%20Nandgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059065304!5m2!1sen!2sin",
@@ -834,39 +834,39 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42836.25072666349!2d72.92400230718582!3d18.382588963391047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84296cea86691%3A0x262653e00657e6f5!2sNandgaon%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699309526312!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/MURUD/NANDGAON_.dwg ",
                 },
-//88888888                
+//DWG Not               
                 "Khaire Tarf Wada":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120203.81032493549!2d73.05390008152898!3d19.696905042011334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7727ece0a4c7d%3A0x648791294734b3c4!2sKhaire%20Tarf%20Wada%2C%20Maharashtra%20421303!5e0!3m2!1sen!2sin!4v1699059295791!5m2!1sen!2sin",
                     // "dwgURL": " ",
                 },
                 " Khardodkule":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7572.472749708034!2d72.93320019512434!3d18.3820901621593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8428c5c855be1%3A0xd1bae9f9db870eb7!2sKhardodkule%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699059376992!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/KHARDODKHULE.dwg ",
+                    "dwgURL": "./dwg/Raigad/MURUD/KHARDODKHULE.dwg ",
                 },
                 "Mazgaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30187.942575967925!2d72.82161486803207!3d18.95383055135728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ce3774ef091d%3A0x5e7c5891576f2b65!2sMazgaon%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059409880!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/MAJGAON.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/MAJGAON.dwg",
                 },
                 "Sarane nandgaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15146.425374403767!2d72.91996031309074!3d18.365235088056945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be842e596924a1b%3A0x393fd83e1aacbca8!2sSarane%20Nandgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059446375!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/SARANE NANDGAON.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/SARANE NANDGAON.dwg",
                 },
                 "More":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15147.424736312945!2d72.90676107210174!3d18.353844376402222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8431e3acedd35%3A0xcd82181bd7bbb778!2sMore%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059481632!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/MORE.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/MORE.dwg",
                 },
                 "Vihour":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15147.296605632768!2d72.94120021308831!3d18.355305189356955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be843ab671f8653%3A0x1f668666a527332!2sVihour%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059650823!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/MURUD/VIHOUR.dwg ",
                 },
-//**** */                
+//DWG Not               
                 "Panju":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15059.477566092584!2d72.84396876333538!3d19.33147300879958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7afca4b52a1e9%3A0xf198fe03e48c5139!2sPanju%20Island%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699059693335!5m2!1sen!2sin",
                     // "dwgURL": " ",
                 },
                 "Murud janjira(MCI)":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15151.073464302714!2d72.95261546307775!3d18.312198144993772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84391c8d3585f%3A0xfaab0381ef8b2b4c!2sMurud%20-%20Janjira%20Municipal%20Council!5e0!3m2!1sen!2sin!4v1699059763775!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/MURUD RURAL.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/MURUD RURAL.dwg",
                 },
                 "Eakdara":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7575.373640651316!2d72.95031812647044!3d18.315924888308295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84388e87e9ccb%3A0xae797396aa943bcb!2sEakdara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699060088255!5m2!1sen!2sin" ,
@@ -874,15 +874,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Telwade":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15148.151189270993!2d72.96618521308591!3d18.34555999063223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be843c5cf80d7c1%3A0x5bad555bd6995649!2sTelwade%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699060128311!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/TELWADE.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/TELWADE.dwg",
                 },
                 "Rajpuri":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7575.878147505533!2d72.96694544511959!3d18.304394216989515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8440cfd02ef8d%3A0x39aed50799f2522f!2sRajapuri%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699060163798!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MURUD/RAJPURI.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/RAJPURI.dwg",
                 } ,
                 "Amboli":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15343.48195675893!2d73.99427946255095!3d15.968138334981136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc077a18e5891ab%3A0x37b84c05e0a2123f!2sAmboli%2C%20Maharashtra%20416510!5e0!3m2!1sen!2sin!4v1699060195382!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/AMBOLI.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/AMBOLI.dwg",
                 }, 
                 "Haphijkhar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d121243.80392176795!2d73.09057282933664!3d18.261831776457452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8469743b9f1e7%3A0xfb1d65b2a4e540b2!2sHaphijkhar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699309685461!5m2!1sen!2sin",
@@ -893,11 +893,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "dwgURL": "./dwg/Raigad/MURUD/AGARDANDE.dwg ",
                 }, 
                 "Nandale":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7576.5545000652!2d73.00257807645721!3d18.288924940209355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84694137eb149%3A0x1a6a1cfec8ef0f95!2sNandale%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699060600365!5m2!1sen!2sin" ,
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7576.5545000652!2d73.00257807645721!3d18.288924940209355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84694137eb149%3A0x1a6a1cfec8ef0f95!2sNandale%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699060600365!5m2!1sen!2sin" ,
                     "dwgURL": "./dwg/Raigad/MURUD/NANDALE.dwg ",
                 },
                 "Usadi":{
-                    "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15153.846120680602!2d73.01836026307001!3d18.280490049133057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be846f081e9d995%3A0x4ace496184fe226a!2sUsadi%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699060637637!5m2!1sen!2sin",
+                    "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15153.846120680602!2d73.01836026307001!3d18.280490049133057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be846f081e9d995%3A0x4ace496184fe226a!2sUsadi%2C%20Maharashtra%20402401!5e0!3m2!1sen!2sin!4v1699060637637!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/MURUD/USADI.dwg ",
                 },  
                 "Tokekhar":{
@@ -914,14 +914,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Khamde":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15155.244812145189!2d73.04237962192617!3d18.264474441064365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be847a2c7df8d85%3A0xab62f679b676b889!2sKhamde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699060768093!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MURUD/KHAMADE.dwg",
+                    "dwgURL": "./dwg/Raigad/MURUD/KHAMADE.dwg",
                 },     
             },
 //taluka6
             "Tala": {
                 "Kude":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15154.100343402479!2d73.05862521306929!3d18.277580099512644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84775c155d413%3A0xcbc046ead14a125a!2sKude%2C%20Maharashtra%20402111!5e0!3m2!1sen!2sin!4v1699060820429!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/TALA/KUDE.dwg",
+                    "dwgURL": "./dwg/Raigad/TALA/KUDE.dwg",
                 },
                 "Rowala":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15155.784596628786!2d73.06744031306464!3d18.258290052027633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8478dc15a101f%3A0xf683515483f275d4!2sRowala%2C%20Maharashtra%20402111!5e0!3m2!1sen!2sin!4v1699060848926!5m2!1sen!2sin" ,
@@ -940,19 +940,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Kalsuri":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1894.856695238324!2d73.03810163882453!3d18.223089943390917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84880eea7863f%3A0x4d612dd148000a58!2sKalsuri%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699060958277!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MHASALA/KALSURI.dwg",
+                    "dwgURL": "./dwg/Raigad/MHASALA/KALSURI.dwg",
                 },
                 "Turumbade":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15167.819645733693!2d73.13149526303108!3d18.11987327000985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8344991770825%3A0x3f2b7a3e23001e88!2sTurumbadi%2C%20Maharashtra%20402105!5e0!3m2!1sen!2sin!4v1699060986861!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MHASALA/TURUMBADI.dwg",
+                    "dwgURL": "./dwg/Raigad/MHASALA/TURUMBADI.dwg",
                 },
                 "Rohinikond":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.02446532226!2d73.01241509511516!3d18.23232517145392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be846220d401875%3A0x97c7c8d4430e04ad!2sRohinikond%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699061012909!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/MHASALA/ROHINIKUND.dwg",
+                    "dwgURL": "./dwg/Raigad/MHASALA/ROHINIKUND.dwg",
                 },
                 "Adi Thakur" :{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15157.984890373686!2d72.99996016305847!3d18.23306000531374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8461bcd632a09%3A0xa6071886594b81f8!2sAdi%20Thakur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699061044605!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/MHASALA/ADI TAKUR.dwg",
+                    "dwgURL": "./dwg/Raigad/MHASALA/ADI TAKUR.dwg",
                 },    
             },
 //taluka8
@@ -961,6 +961,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21435.815252995617!2d72.97012445354548!3d18.239651602694938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be845ea8eb98299%3A0x89aca2bb207f312c!2sHarvit%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699115832250!5m2!1sen!2sin",
                     "dwgURL": "./dwg/Raigad/SHRIVARDHAN/HARVIL/HARVIT.dwg ",
                 },
+    //dwg not            
                 "Kudgaon":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7578.717851191331!2d72.96321119511568!3d18.239360521018558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be845c092b29641%3A0xab4c33a23708db21!2sKudgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699309908391!5m2!1sen!2sin" ,
                 },
@@ -978,7 +979,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Maneri":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25487.03315224148!2d72.94722245309462!3d18.270936740748215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be844566a677e5d%3A0xc0e82a9fcd1f4606!2sManeri%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699309984017!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/MANERI/maneri.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/MANERI/maneri.dwg",
                 },
                 "Sarve":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15141.202094281662!2d72.90296607224157!3d18.42465931475591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be868402077601d%3A0xefc77540f7fa637d!2sSarve%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310042873!5m2!1sen!2sin",
@@ -986,23 +987,23 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                   "Adgaon":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7579.4052122316125!2d72.93731019511469!3d18.22358517199418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8457ed049fb2b%3A0xaa9c708ac70f0895!2sAdgaon%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310096400!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/ADGAON/ADGOAN.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/ADGAON/ADGOAN.dwg",
                 },
                 "Kunbiwadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15238.703106793824!2d73.19744106283517!3d17.282913876337872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1db5a425805d%3A0x8246ec46f9bc1e87!2sKunbiwadi%2C%20Maharashtra%20415614!5e0!3m2!1sen!2sin!4v1699116196466!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KUMBIWADI/KUNBI WADI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/KUMBIWADI/KUNBI WADI.dwg",
                 },
                  "Velas Agar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15160.798751016922!2d72.96770526305063!3d18.200745159517147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84f470f0f2b31%3A0x98e5ba9301944d0b!2sVelas%20Agar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116227741!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/VELAS AGAR/VELAS AGAR.dwg WADI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/VELAS AGAR/VELAS AGAR.dwg WADI.dwg",
                 },
                 "Velas":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15160.100848214177!2d72.98034526305258!3d18.2087651584745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84f4d01441e43%3A0x11ffc7e103cc2eb0!2sVelas%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699116259333!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/VELAS/VELAS.dwg AGAR.dwg WADI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/VELAS/VELAS.dwg AGAR.dwg WADI.dwg",
                 },
                 "Vadavali":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7529.246867307031!2d72.82903014518487!3d19.34214005097342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7ae44795435eb%3A0xc98dc5f3c03f477e!2sVadavali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116292638!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/VADAVALI/VADAVALI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/VADAVALI/VADAVALI.dwg",
                 },
                  "DiveAgar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.958650860674!2d72.96756472175298!3d18.17590285555606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84ed60603fad5%3A0x6300c742617257a2!2sDiveagar%2C%20Maharashtra%20402404!5e0!3m2!1sen!2sin!4v1699116338182!5m2!1sen!2sin",
@@ -1014,23 +1015,23 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                  "Bharadkhed":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15166.069949365867!2d72.97912026303592!3d18.14006016739431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84eadb100aef7%3A0x650ed7c2c70e335b!2sBharadkhol%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116394697!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/BHARADKHED/BHARADKHED.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/BHARADKHED/BHARADKHED.dwg",
                 },
                 "Shekhadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15167.826025888697!2d72.97450111303107!3d18.11979962001939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84c0e5fc3d9c9%3A0x10535fc90fb68c4b!2sShekhadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116422873!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/SHEKHADI/Shekhadi.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/SHEKHADI/Shekhadi.dwg",
                 },
                 "Kondivali":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15167.826025888697!2d72.97450111303107!3d18.11979962001939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84b8bbf67c3d3%3A0x43f1cd2bec484379!2sKondivali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116451689!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KONDIVALI/KONDIVALI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/KONDIVALI/KONDIVALI.dwg",
                 },
                  "Khargaon":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203676.96276111726!2d73.02384829981408!3d18.456679457073474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be81532ec950645%3A0x22341f87bb3b9bf9!2sKhargaon%2C%20Maharashtra%20402109!5e0!3m2!1sen!2sin!4v1699310173489!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KHARGAON/KHARGOAN.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/KHARGAON/KHARGOAN.dwg",
                 },
                 "Walwati":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30288.011694365316!2d72.94375046746646!3d18.392784614731728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84272065c1dc7%3A0xe93863ced885daa2!2sWalwati%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116514022!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/WALWATI/WALVATI.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/WALWATI/WALVATI.dwg",
                 },
                 "Walwati KH.":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30288.011694365316!2d72.94375046746646!3d18.392784614731728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84272065c1dc7%3A0xe93863ced885daa2!2sWalwati%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116547488!5m2!1sen!2sin" ,
@@ -1050,11 +1051,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },  
                 "Kuravade":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30231.340339072896!2d73.37002536778621!3d18.712509472053977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be803ddc5b5e22b%3A0xff4dbacd883a27be!2sKurvande%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116692600!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/KURAVADE/KURAVADE.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/KURAVADE/KURAVADE.dwg",
                 }, 
                 "Maral":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1907.3256038906632!2d73.72926954852929!3d17.04077034995375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1e99bb7b51a71%3A0xc306d6f30b120638!2sMaral%2C%20Maharashtra%20415804!5e0!3m2!1sen!2sin!4v1699116723488!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/MARAL/MARAL.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/MARAL/MARAL.dwg",
                 },
                 "Devaghar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15178.408815299035!2d73.01874031300164!3d17.997235135848122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b4f801454f0d%3A0x5bbc8ec51c78b0ee!2sDevaghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116754657!5m2!1sen!2sin",
@@ -1062,11 +1063,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Danda":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15178.408815299035!2d73.01874031300164!3d17.997235135848122!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b507329f15b5%3A0x6263b76cb3de57c8!2sDanda%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699116783488!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/DANDA/DANDA.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/DANDA/DANDA.dwg",
                 }, 
                 "Bagmandla":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.70176771279!2d73.04936197594866!3d17.992606985086802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b5a5ea40a805%3A0xb37b1c7a29d1c2e5!2sBagmandla%2C%20Maharashtra%20402114!5e0!3m2!1sen!2sin!4v1699116841696!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Raigad/SHRIVARDHAN/BAGMANDALE/BAGMANDLE.dwg",
+                    "dwgURL": "./dwg/Raigad/SHRIVARDHAN/BAGMANDALE/BAGMANDLE.dwg",
                 },
             },
         },
@@ -1089,11 +1090,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Velas":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15160.100909862957!2d72.97116107181712!3d18.208764450183967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84f4d01441e43%3A0x11ffc7e103cc2eb0!2sVelas%2C%20Maharashtra%20402403!5e0!3m2!1sen!2sin!4v1699116997896!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/MANDANGAD/VELAS.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/MANDANGAD/VELAS.dwg",
                 },
                 "Sakhari":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15183.096150038522!2d73.05044021298863!3d17.942690192863964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b672793e81f9%3A0x55ff44d932b163f6!2sSakhari%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117025896!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/MANDANGAD/SAKHARI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/MANDANGAD/SAKHARI.dwg",
                 },           
             },
 //taluka2
@@ -1105,7 +1106,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Uttambar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15186.535398517615!2d73.0533528129791!3d17.902566598013678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b7b60763e557%3A0x9873d43fed9e774b!2sUttambar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310605926!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/UTAMBAR.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/UTAMBAR.dwg",
                 },
                 "Aade":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.9001596484077!2d73.06949433578501!3d17.890121444530312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9b7c3164054d3%3A0x8e5092a0ec7683a1!2sAade%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117140960!5m2!1sen!2sin" ,
@@ -1125,7 +1126,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Murdi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7595.59642164342!2d73.09764149509232!3d17.848091994989655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c7ec2decf669%3A0xa3cf79a695fa4989!2sMurdi%2C%20Maharashtra%20415714!5e0!3m2!1sen!2sin!4v1699117253943!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/MURDI.dwg", 
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/MURDI.dwg", 
                 },
                 "Pandhari":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7595.59642164342!2d73.09764149509232!3d17.848091994989655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c789241b5f4f%3A0x37a0b5ee2de69c72!2sPandhari%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117278146!5m2!1sen!2sin" ,
@@ -1133,7 +1134,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Juikar Mohalla":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3797.9682449387433!2d73.09241652594646!3d17.840123489603453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c78cefd2e885%3A0x7e0ee55b6188f95e!2sJuikar%20Mohalla%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117306935!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/JUIKAR MOHALLA.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/JUIKAR MOHALLA.dwg",
                 },
                 "Haral ":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15283.166932472199!2d73.68484526271371!3d16.737240343428834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1ce63541020b1%3A0x59d6c2016a5ba9e1!2sHaral%2C%20Maharashtra%20416704!5e0!3m2!1sen!2sin!4v1699117424791!5m2!1sen!2sin" ,
@@ -1149,7 +1150,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Asud":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15196.670689182387!2d73.13565901295101!3d17.78381521319942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c6cdfd3a90c5%3A0x9a4f37f58862775e!2sAsud%2C%20Maharashtra%20415713!5e0!3m2!1sen!2sin!4v1699117532887!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/ASUD.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/ASUD.dwg",
                 }, 
                 "Ambivali KH":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15174.57925984593!2d73.38525021301228!3d18.041680030118435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9d4ed44a8193d%3A0xc06a63e9c768c983!2sAmbavali%20Kh.%2C%20Maharashtra%20402301!5e0!3m2!1sen!2sin!4v1699117567007!5m2!1sen!2sin" ,
@@ -1157,7 +1158,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Murud":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15149.560501798842!2d72.94901881308199!3d18.32947804273551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be84391b2fcfb77%3A0x62c7f6d33c9f6f9!2sMurud%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117598359!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/MURUD.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/MURUD.dwg",
                 },
                 "Karde":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7599.73534338196!2d73.12171764508653!3d17.750873200873986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c0e65d36adc3%3A0xcbe72c77f1b1ec28!2sKarde%2C%20Maharashtra%20415713!5e0!3m2!1sen!2sin!4v1699310733911!5m2!1sen!2sin",
@@ -1169,7 +1170,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Ladghar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15201.662505585518!2d73.1262811208849!3d17.725045078712412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c1af4f6114b3%3A0xfc889af396a93dd9!2sLadghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117729615!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/LADGHAR.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/LADGHAR.dwg",
                 }, 
                 "Tamastirth":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15203.28815086558!2d73.12933201293272!3d17.70586512312237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9c1caf1ff1673%3A0x89df9b7b58b0c91a!2sTamastirth%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699117765023!5m2!1sen!2sin",
@@ -1193,15 +1194,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Kolthare":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12789.24498945638!2d73.14196199898521!3d17.637590185424745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ea559d1bde1b%3A0x2e119f99af23f833!2sKolthare%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118213262!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/KOLTHARE.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/KOLTHARE.dwg",
                 }, 
                 "Borivali":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30137.288553765477!2d72.80673542699762!3d19.23181085045654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b128b333e163%3A0x985640540577af7e!2sBorivali%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118309094!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/BORIVALI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/BORIVALI.dwg",
                 }, 
                 "Panchanadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7604.75443975441!2d73.14849619507959!3d17.632284208012805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ebb6e779ddab%3A0x52d7f9959f5ef2b1!2sPanchanadi%2C%20Maharashtra%20415712!5e0!3m2!1sen!2sin!4v1699118336757!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/PANCHANADI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/PANCHANADI.dwg",
                 },
                 "Aghari":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15210.55633914562!2d73.1367803629126!3d17.61986523402843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ebbd321773cf%3A0x48cc8933b70e250!2sAghari%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118369165!5m2!1sen!2sin",
@@ -1209,11 +1210,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Vanoshi Tarf Panchanadi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30420.851350607954!2d73.15164541672314!3d17.62141488366617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ebdd6cae4273%3A0x9cf0f922e2282e5d!2sVanoshi%20Tarf%20Panchanadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118399349!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/VANOSHI TF PANCHNADI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/VANOSHI TF PANCHNADI.dwg",
                 },
                 "Dabhol"  :{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15213.233608047249!2d73.16067177062565!3d17.588084200732585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ec02e931adff%3A0x800083e4c1af2004!2sDabhol%2C%20Maharashtra%20415706!5e0!3m2!1sen!2sin!4v1699118432429!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/DAPOLI/DABHOL.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/DAPOLI/DABHOL.dwg",
                 },      
             },
 //taluka3
@@ -1224,15 +1225,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Gharatwadi Tarf Veldur":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7608.339614729845!2d73.17774004507477!3d17.54710026311442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ee7f501f98bf%3A0xb3b579ae07eea850!2sGharatwadi%20Tarf%20Veldur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118954507!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/GHARATWADI TARF VELDUR/GHARATWADI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/GHARATWADI TARF VELDUR/GHARATWADI.dwg",
                 },
                 "Mouje Anjanvel":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15219.341092737413!2d73.16616526288837!3d17.51537514722057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9edfc9c4df25f%3A0xa48c2e4039687ed7!2sMouje%20Anjanvel%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699118987068!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/MOUJE ANJANVEL/MOUJE ANJANVEL.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/MOUJE ANJANVEL/MOUJE ANJANVEL.dwg",
                 },
                 "Peth Anjanvel":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15219.341092737413!2d73.16616526288837!3d17.51537514722057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ec4a5a5f2b5d%3A0xd51369a7d9a3c550!2sPeth%20Anjanwel%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119015716!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/PETH ANJANVEL/PETH ANJANVEL.dwg ANJANVEL.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/PETH ANJANVEL/PETH ANJANVEL.dwg ANJANVEL.dwg",
                 }, 
                 "Katalwadi Tarf Anjanwel":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15217.986626762622!2d73.15931531289213!3d17.53152514518582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9edc325872939%3A0xb0ef5463f39f5716!2sKatalwadi%20Tarf%20Anjanwel%2C%20Maharashtra%20415634!5e0!3m2!1sen!2sin!4v1699119049245!5m2!1sen!2sin", 
@@ -1240,7 +1241,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Ranavi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7609.884911630678!2d73.19267019507252!3d17.51026016531408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9ee1db2347f15%3A0x7f8b886c432e2ea3!2sRanavi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119078060!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/RANVI/RANVI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/RANVI/RANVI.dwg",
                 },
                 "Varchapath Tarf Guhagar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7609.884911630678!2d73.19267019507252!3d17.51026016531408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f1fd231cb08d%3A0x65bb6530360c374a!2sVarachapath%20Tarf%20Guhagar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119110060!5m2!1sen!2sin" ,
@@ -1252,7 +1253,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Guhagar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30444.891533865677!2d73.17420756658954!3d17.478301973556967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f1f00b7cb059%3A0x642187d87569c0e2!2sGuhagar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119170324!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/GUHAGAR/GUHAGAR.dwg ",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/GUHAGAR/GUHAGAR.dwg ",
                 }, 
                 "Kirtanwadi Tarf Guhaghar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7611.306401705406!2d73.20883014507072!3d17.47630521733752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f1bd37a310a1%3A0x80b66c2d03c27885!2sKirtanwadi%20Tarf%20Guhagar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119199740!5m2!1sen!2sin",
@@ -1260,15 +1261,15 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Asgoli":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15222.977697250839!2d73.19111291287837!3d17.471942502685067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f19ce1aecab3%3A0x7f1bd2639731b1ac!2sAsgoli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119231261!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/ASGOLI/ASGOLI.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/ASGOLI/ASGOLI.dwg",
                 },
                 "Palshet":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15225.491357161543!2d73.19436526287149!3d17.441860156463363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f16adb63d4ab%3A0x6cd2079e5ddb462c!2sPalshet%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119263572!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/PALSHET/PALSHET.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/PALSHET/PALSHET.dwg",
                 }, 
                 "Maruti Mandirwadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15226.52131763916!2d73.18014102032818!3d17.42951952610741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f145d9326121%3A0xa0a1a60bcdd0d03c!2sMaruti%20Mandirwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119294484!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/MARUTI MANDIR WADI/MARUTI MANDIR WADI.dwg", 
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/MARUTI MANDIR WADI/MARUTI MANDIR WADI.dwg", 
                 },
                 "Adoor":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7614.7771471695!2d73.20047014506592!3d17.393130172279665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f6954d7000a5%3A0x9f2c69b4a2a8173b!2sAdoor%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119324087!5m2!1sen!2sin" ,
@@ -1276,7 +1277,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Kond Karul":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15229.060456862175!2d73.1754902128616!3d17.399060211829735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f6a6dcb90c5b%3A0x7469d5e76c93e47b!2sKond%20Karul%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119358940!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/KONDKARUL/KONDKARUL.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/KONDKARUL/KONDKARUL.dwg",
                 },
                 "Velaneshvar":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7615.6470643601215!2d73.21306694506471!3d17.37222247351879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f65629abb05d%3A0xd844d629c2b231fa!2sVelaneshwar%2C%20Maharashtra%20415729!5e0!3m2!1sen!2sin!4v1699119386155!5m2!1sen!2sin",
@@ -1288,19 +1289,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Hedavi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15232.045544702232!2d73.21917031285345!3d17.3631851163195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7ad351a1d23%3A0x99c94f315e940499!2sHedavi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119442172!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/HEDAVI/HEDAVI.dwg ", 
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/HEDAVI/HEDAVI.dwg ", 
                 },
                 "Naravan":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7617.151634018031!2d73.23206309506261!3d17.33600377566207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7d10ef6a267%3A0xf223d912f3bb71db!2sNaravan%2C%20Maharashtra%20415728!5e0!3m2!1sen!2sin!4v1699119472492!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/NARVAN/NARAVAN.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/NARVAN/NARAVAN.dwg",
                 },
                 "Karde":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15234.612285193718!2d73.25387526284636!3d17.332280220181154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7e2cfb25255%3A0x1558fca3ab317af5!2sKarde%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699310998168!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/KARDE/KARDE.dwg ",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/KARDE/KARDE.dwg ",
                 },
                 "Rohile":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15234.796081224196!2d73.22595526284586!3d17.3300651704577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be9f7d66592f56b%3A0xc821f8fb51458988!2sRohile%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311065624!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/GUHAGAR/ROHILE/ROHILE.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/GUHAGAR/ROHILE/ROHILE.dwg",
                 }, 
                 "Tavasalwadi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15235.79678296087!2d73.24836516284313!3d17.318000221963565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1d4355d4c2ef%3A0x41ae745af6028fb2!2sTavasalwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119558556!5m2!1sen!2sin",
@@ -1319,7 +1320,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "Ratnagiri": {
                 "Sakhar Mohalla":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7618.743224131771!2d73.21126019506055!3d17.29761027792951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1dbca0b06125%3A0xc5960e5a88a88132!2sSakhar%20Mohalla%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119770259!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/RATNAGIRI/SAKHAR MOHALLA/SAKHARMOHALLA.dwg", 
+                    "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/SAKHAR MOHALLA/SAKHARMOHALLA.dwg", 
                 },
                 "Jaigad":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7618.9073991144405!2d73.21505524506024!3d17.29364522816334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1dbea780fe23%3A0x9a8e213095dc881c!2sJaigad%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699119798522!5m2!1sen!2sin",
@@ -1351,7 +1352,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 }, 
                 "Reel":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15243.248985436614!2d73.24324521282267!3d17.2278952331825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1b5d67981d3f%3A0xc759c58374c1d06a!2sReel%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699120003034!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/RATNAGIRI/REEL/REEL.dwg ",
+                    "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/REEL/REEL.dwg ",
                 }, 
                 "Marathwada":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15239.064163503199!2d73.26417016283415!3d17.27855022688138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1caa47481d13%3A0xf02c27de6c316916!2sMarathwada%2C%20Maharashtra%20415613!5e0!3m2!1sen!2sin!4v1699120043371!5m2!1sen!2sin",
@@ -1359,7 +1360,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Bhandarwada" :{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3812.899083371581!2d73.27019337593617!3d17.126421260269115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea101f6d40fb55%3A0xe3121fbadfb8911!2sBhandarwada%2C%20Maharashtra%20415615!5e0!3m2!1sen!2sin!4v1699120081819!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RATNAGIRI/BHANDARWADA/BHANDARWADA.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/BHANDARWADA/BHANDARWADA.dwg",
                 },
                 "Kunbiwadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15238.703106793824!2d73.19744106283517!3d17.282913876337872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea1db5a425805d%3A0x8246ec46f9bc1e87!2sKunbiwadi%2C%20Maharashtra%20415614!5e0!3m2!1sen!2sin!4v1699120112995!5m2!1sen!2sin",
@@ -1379,7 +1380,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Rahataghar":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7624.112497539002!2d73.27056859505315!3d17.167474735582125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea054c830d4429%3A0xc090b343de3766a7!2sRahataghar%2C%20Ganpatipule%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699120241482!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RATNAGIRI/RAHATGHAR/RAHATGHAR.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/RAHATGHAR/RAHATGHAR.dwg",
                 }, 
                 "Ganapatipule":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30498.80750310438!2d73.25762966629128!3d17.153131613342264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea055561b27b67%3A0xc0450524831ec163!2sGanpatipule%2C%20Maharashtra%20415615!5e0!3m2!1sen!2sin!4v1699120272451!5m2!1sen!2sin" ,
@@ -1463,7 +1464,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Bhatye":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15264.125462645445!2d73.28855031276557!3d16.97300741465793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea0d4a26c806b5%3A0x5998b6af891739ee!2sBhatye%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699121372825!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/RATNAGIRI/BHATYE/BHATYE.dwg",
+                    "dwgURL": "./dwg/Ratnagiri/RATNAGIRI/BHATYE/BHATYE.dwg",
                 },  
                 "Phansop":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15264.125462645445!2d73.28855031276557!3d16.97300741465793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea72c592cae733%3A0x7d42dec11dbade32!2sPhansop%2C%20Maharashtra%20415612!5e0!3m2!1sen!2sin!4v1699121397393!5m2!1sen!2sin",
@@ -1534,19 +1535,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Avali Chiwadi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7641.144358405803!2d73.3024031257363!3d16.748185095286548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7afb2b9a0167%3A0x727e5a87760b664d!2sAvali%20Chiwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699122135295!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/AVLICHI WADI/AVLICHI WADI.dwg  ",
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/AVLICHI WADI/AVLICHI WADI.dwg  ",
                 }, 
                 "Kasheli":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30566.335159134793!2d73.30193976592008!3d16.73723227644978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7b0727256ec7%3A0x2d91c902e530401f!2sKasheli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699122252719!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/KASHELI/KASHELI.dwg ",
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/KASHELI/KASHELI.dwg ",
                 }, 
                 "Wadavetye":{
                     "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30566.335159134793!2d73.30193976592008!3d16.73723227644978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7b9d33d46811%3A0x461a4c340b3fe436!2sWadavetye%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699122304759!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/WADA VATYE/WADA VATYE.dwg  ",
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/WADA VATYE/WADA VATYE.dwg  ",
                 },
                 "Wadativare":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15287.037509151301!2d73.32252031270313!3d16.688920249284582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7c7a359513d3%3A0xd3e64793e73ed885!2sWadativare%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699122383350!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/WADATIVRE/WADATIVRE.dwg ",  
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/WADATIVRE/WADATIVRE.dwg ",  
                 },
                 "Nate":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3822.780430972986!2d73.35789358564088!3d16.63778528305536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7d6c6edbc7c9%3A0x5cb0af3f896a90cb!2sNate%20Ratnagiri%20Maharashtra!5e0!3m2!1sen!2sin!4v1699122439143!5m2!1sen!2sin" ,
@@ -1558,11 +1559,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Yashvantgad":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3823.0868208822694!2d73.3793484856392!3d16.62241128351388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7e1047e08c73%3A0x8b7f20ad85c5864d!2sYeshwantgad!5e0!3m2!1sen!2sin!4v1699122551887!5m2!1sen!2sin",
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/YASHVANTGAD/YASHVANTGAD.dwg ", 
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/YASHVANTGAD/YASHVANTGAD.dwg ", 
                 },
                 "Anatwadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7645.517006027479!2d73.34679307568773!3d16.63888505248492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7dc50ed62b01%3A0xc2134f5b64ab2801!2sAnantwadi%2C%20Maharashtra%20415806!5e0!3m2!1sen!2sin!4v1699122602791!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/ANANTWADI/ANANTWADI.dwg  ",  
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/ANANTWADI/ANANTWADI.dwg  ",  
                 },
                 "Bhandarwadi":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15277.231595461277!2d73.29147596919452!3d16.81107472385143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea7042d8f22ca9%3A0xc95a3b88435da13e!2sBhandarwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699311855190!5m2!1sen!2sin",
@@ -1574,7 +1575,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Kuvesh":{
                     "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3823.4326322096863!2d73.35580098563727!3d16.605042584031263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea878ecac1b37f%3A0x1f9493ec8a176023!2sKuveshi%2C%20ratnagiri!5e0!3m2!1sen!2sin!4v1699122790318!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/KUVESHI/KUVESHI.dwg   ",
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/KUVESHI/KUVESHI.dwg   ",
                 },
                 "Mithgavane":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7647.628068105758!2d73.3645963450213!3d16.585865819152858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea874abc0b9e39%3A0x684cf24c20f757df!2sMithgavane%2C%20Maharashtra%20416702!5e0!3m2!1sen!2sin!4v1699122846614!5m2!1sen!2sin" ,
@@ -1590,7 +1591,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 "Bakale":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30589.687076910912!2d73.3471612157924!3d16.591054265741494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea8753563f0e31%3A0xf999613eae6e51b8!2sBakale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699123107365!5m2!1sen!2sin" ,
-                    "dwgURL": " ./dwg/Ratnagiri/RAJAPUR/BAKALE/BAKALE.dwg ",
+                    "dwgURL": "./dwg/Ratnagiri/RAJAPUR/BAKALE/BAKALE.dwg ",
                 }, 
                 "Dandewadi":{
                     "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7648.406646981887!2d73.34724014502021!3d16.566270220265913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea87215816e089%3A0xef6d18f0089c9072!2sDandewadi%2C%20Maharashtra%20416702!5e0!3m2!1sen!2sin!4v1699123151717!5m2!1sen!2sin" ,
@@ -1609,7 +1610,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 "Devgad": {
                     "Vijaydurg":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7648.8629835747615!2d73.33009474501954!3d16.554774470918417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea86e3356bd8c7%3A0x9438c2015cc70be1!2sVijaydurg%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699011559174!5m2!1sen!2sin",
-                        "dwgURL":  " ./dwg/Sindhudurg/DEVGAD/VIJAYDURG/VIJAYDURG.dwg",
+                        "dwgURL":  "./dwg/Sindhudurg/DEVGAD/VIJAYDURG/VIJAYDURG.dwg",
                     },
                     "Rameshwar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15298.748985654307!2d73.30938606871442!3d16.54187961578442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea86f6a89fe867%3A0x3b7099f7f02d2000!2sRameshwar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699011620102!5m2!1sen!2sin",
@@ -1617,7 +1618,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Girye":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30604.686226321857!2d73.31750721571058!3d16.49649899102884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea843bb448523b%3A0x9c5810bac94b5ab9!2sGirye%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699011690190!5m2!1sen!2sin",
-                        "dwgURL":  " ./dwg/Sindhudurg/DEVGAD/GIRYE/GIRYE.dwg",
+                        "dwgURL":  "./dwg/Sindhudurg/DEVGAD/GIRYE/GIRYE.dwg",
                     },
                     "Hurshi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15303.408769313424!2d73.3418652626588!3d16.483020324081057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea8468db403cb1%3A0xdb20819dc6fc03f0!2sHurshi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699011777935!5m2!1sen!2sin",
@@ -1629,7 +1630,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Phanase":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15306.638030388429!2d73.35101026265006!3d16.442110278977758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea84a37b33ce9d%3A0x3a4aca2fcb5dd8ee!2sPhanase%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699011922838!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/PHANASHI/PHANASHI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/PHANASHI/PHANASHI.dwg",
                     },
                     "Padvane":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15307.730698667621!2d73.36494531264711!3d16.428245330635047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea8354f4c800f7%3A0xfdc5d879ce378224!2sPadvane%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012014389!5m2!1sen!2sin",
@@ -1637,15 +1638,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Devgad":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15311.764047619996!2d73.37764166263622!3d16.376967036754444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9c791e0277d9%3A0x181ba0a6cdbe2166!2sDevgad%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012089726!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/DEVGAD/DEWGAD.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/DEVGAD/DEWGAD.dwg",
                     },
                     "Jamsande":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30620.73021814631!2d73.37556536562319!3d16.39477021812172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9ced0d64d95f%3A0x3ab34a95d56e2327!2sJamsande%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012154326!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/JAMSANDE/JAMSANDE.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/JAMSANDE/JAMSANDE.dwg",
                     }, 
                     "Mithmumbari":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7656.8054248807775!2d73.38303394500888!3d16.35343538228006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9c13f92fc0fd%3A0xec84b094bcc349f6!2sMithmumbari%20Beach!5e0!3m2!1sen!2sin!4v1699012255525!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/MITHMUMBARI/MITHMUMBRI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/MITHMUMBARI/MITHMUMBRI.dwg",
                     },
                     "Kunkeshwar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7657.58291974681!2d73.38900444500779!3d16.333596383392862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9ea0293f173b%3A0x2a624b9c4f11a2c0!2sKunkeshwar%2C%20Maharashtra%20416612!5e0!3m2!1sen!2sin!4v1699012306668!5m2!1sen!2sin",
@@ -1653,7 +1654,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Kathwaneshwar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15314.959106543876!2d73.39178026262759!3d16.336235291604066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9e9d8c6d7403%3A0xdffd50cedada4113!2sKatwaneshwar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012370910!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/KATEWANESHWR/KATWANESHWAR.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/KATEWANESHWR/KATWANESHWAR.dwg",
                     },
                     "Katvan":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7658.134012395833!2d73.39392009500709!3d16.31952018418165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9e96a108bb7d%3A0xaf8a67c4615be7c3!2sKatvan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012513614!5m2!1sen!2sin",
@@ -1669,7 +1670,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Hindale":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3829.8105552784064!2d73.42928057592488!3d16.281477133719328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bea9fba9af958d1%3A0xce3ff2a2f048e0d!2sHindale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699012802934!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/HINDALE/HINDALE.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/HINDALE/HINDALE.dwg",
                     }, 
                     "Morve":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15121.060693796231!2d73.42878879017522!3d18.65209291462384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be802c11a69c7a9%3A0xd0f2bf43397bd546!2sMorve%2C%20Maharashtra%20412108!5e0!3m2!1sen!2sin!4v1699012944885!5m2!1sen!2sin",
@@ -1681,14 +1682,14 @@ document.addEventListener("DOMContentLoaded", function () {
                     },  
                     "Aadbandar":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30646.110110625315!2d73.41961041548532!3d16.23258016107463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa03dea180ee9%3A0x8df82433c66a6c35!2sAadbandar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013113918!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/DEVGAD/AADBANDAR/AADBANDAR.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/DEVGAD/AADBANDAR/AADBANDAR.dwg",
                     } ,            
                 },
     //taluka2
                 "Malwan": {
                     "Gaudwadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7662.676974898566!2d73.44051939500103!3d16.203029040686687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa05c47b5775b%3A0x6ce6bb400632b881!2sGaudwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013188590!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/GAUDWADI/GAUDWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/GAUDWADI/GAUDWADI.dwg",
                     },  
                     "jamdul":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1915.6635757247327!2d73.43926908881747!3d16.203612421786783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa059e69a8ff9%3A0x9e25fd9c2bacc1ca!2sJamdul%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013440646!5m2!1sen!2sin",
@@ -1696,7 +1697,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     }, 
                     "Pirawadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7662.81487515527!2d73.42934019500078!3d16.199480240884157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa0f6610da5ef%3A0xc10a7e0a3b75226f!2sPirawadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013557781!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/PIRAWADI/PIRAWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/PIRAWADI/PIRAWADI.dwg",
                     },
                     "Hirlewadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15326.765592496804!2d73.42746691809008!3d16.18485707082083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa09a05414cab%3A0x1ee669b2dcc3d80d!2sHirlewadi%2C%20Achara%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013652502!5m2!1sen!2sin",
@@ -1704,11 +1705,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Wayangani":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15350.161963437367!2d73.60779526253309!3d15.880730395162338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff86603d3c211%3A0x7d388856c8359c5!2sWayangani%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699013730286!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/WAIGANI/WAIGANI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/WAIGANI/WAIGANI.dwg",
                     }, 
                     "Tondavali":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15311.05244532352!2d73.69752031263815!3d16.386025385674593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc03ba2376f6249%3A0xa0ef388a468b2078!2sTondavali%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013800166!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/TONDAVALI/TONDAVALI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/TONDAVALI/TONDAVALI.dwg",
                     },  
                     "Juva Pankhol":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30663.905762190054!2d73.43962031538895!3d16.11791024126273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa77eb8fc6d1b%3A0x6b523e4e4e45b6d5!2sJuva%20Pankhol%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699013941710!5m2!1sen!2sin",
@@ -1717,18 +1718,18 @@ document.addEventListener("DOMContentLoaded", function () {
                     "Hadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15329.634479803788!2d73.44441106802624!3d16.147864776485534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa7581e321caf%3A0x9fd75cde61136d92!2sHadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699014160902!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/MALWAN/HADI M/HADI M.dwg ",
-                    },
+                },
                     "Shemadranewadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7665.865465968135!2d73.46034514499668!3d16.120780245254423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc01d875e85ca45%3A0x59a301964fe09140!2sShemadranewadi%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699014226062!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/SHEMADRANEWADI/SHEMADRANEWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/SHEMADRANEWADI/SHEMADRANEWADI.dwg",
                     }, 
                     "Ozar":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15332.648238347194!2d73.46014026257998!3d16.10891541848741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc01d7ea8cc3bf1%3A0xf513d731ca9d649f!2sOzar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699014520126!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/OZAR/OZAR.dwg", 
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/OZAR/OZAR.dwg", 
                     },
                     "Revandi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15333.571210202474!2d73.4614777625775!3d16.09696871989171!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc01d66a8a97149%3A0xf80102829259ffba!2sRevandi%2C%20Kolamb%2C%20Malvan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699014600550!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/REVANDI/REVANDI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/REVANDI/REVANDI.dwg",
                     },
                     "Kolamb":{
                         "mapURL":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7667.365274958531!2d73.46228214499475!3d16.08195029740361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3beaa7f7d0fe7b29%3A0xab1849bb4efa7f39!2sKolamb%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699014695054!5m2!1sen!2sin",
@@ -1742,14 +1743,14 @@ document.addEventListener("DOMContentLoaded", function () {
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30666.694986215418!2d73.46316546537386!3d16.099865245999688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc01d6c3daac955%3A0x2264967f4a5b958!2sNhive%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699015086077!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/MALWAN/NHIVE/NHIVE.dwg ", 
                     }, 
-    //999999
+    //DWG Not
                     "Malwan(MCI)":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245289.09980222202!2d73.25366935565395!3d16.135800358184714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc01c04f2a16849%3A0x51261b71b6d29a36!2sMalwan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699015226030!5m2!1sen!2sin",
-                        "dwgURL": " ", 
+                        // "dwgURL": " ", 
                     },
                     "Kumbharmath":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15336.554454898207!2d73.47436526256949!3d16.058295224431827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc002b9df2a7bdb%3A0xba141ffe34c34ef9!2sKumbharmath%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699015292470!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/KUMBHARMATH/KUMBHARMATH.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/KUMBHARMATH/KUMBHARMATH.dwg",
                     },
                     "Wayari":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15337.482162495757!2d73.47680026256704!3d16.04625032584404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc0029569849303%3A0x97a1bcb878ad3072!2sWayari%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699015354925!5m2!1sen!2sin",
@@ -1761,11 +1762,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     },  
                     "Devli":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15339.072756131403!2d73.4851452125628!3d16.025578328265674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc00258ba92c67b%3A0x75d01b94d5d1bb43!2sDevli%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699015477677!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/DEVLI M/DEVLI M.dwg ",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/DEVLI M/DEVLI M.dwg ",
                     },
                     "Tarkali" :{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.5657345786267!2d73.48287452592159!3d16.036106290322294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc002927ea82d55%3A0x32632722fbb1ccc1!2sTarkarli%2C%20Maharashtra%20416606!5e0!3m2!1sen!2sin!4v1699015547029!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/MALWAN/TARKARLI/TARKARLI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/MALWAN/TARKARLI/TARKARLI.dwg",
                     },        
                 },
     //taluka3
@@ -1776,15 +1777,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Bhogave":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15343.766665093583!2d73.50841106255017!3d15.9644224354149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc00173fd8b2627%3A0x92135ba9aaf81f19!2sBhogwe%2C%20Gavan%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699070893118!5m2!1sen!2sin" ,
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/BHOGAVE/BHOGAVE.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/BHOGAVE/BHOGAVE.dwg",
                     }, 
                     "Shelapi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7672.126608466962!2d73.52760524498834!3d15.95807020422969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc00114e184c8db%3A0x2b355610d8d1921f!2sShelapi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699070960191!5m2!1sen!2sin", 
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/SHELPI/SHELPI.dwg", 
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/SHELPI/SHELPI.dwg", 
                     },
                     "Shriramwadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15345.761025004686!2d73.54579441254488!3d15.938369188453745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc000d584610315%3A0xc7ba1196aaa75317!2sShriramwadi%2C%20Maharashtra%20416522!5e0!3m2!1sen!2sin!4v1699071020109!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/SHRIRAMWADI/SHRIRAMWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/SHRIRAMWADI/SHRIRAMWADI.dwg",
                     },
                     "Kochre":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3836.119509566536!2d73.54560382592054!3d15.955134192480703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc0013752b165cd%3A0x419924e6692818c7!2sKochare%2C%20Shriramwadi%2C%20Maharashtra%20416522!5e0!3m2!1sen!2sin!4v1699071088014!5m2!1sen!2sin",
@@ -1792,7 +1793,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     }, 
                     "Medha":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7672.7225071503635!2d73.54907312538569!3d15.942500147545882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc0012b2faff613%3A0xa6cbc60c45cb2e8d!2sMedha%2C%20Maharashtra%20416522!5e0!3m2!1sen!2sin!4v1699071166924!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/MEDHA/MEDHA.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/MEDHA/MEDHA.dwg",
                     }, 
                     "Mayana":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7673.1278630443!2d73.55197524498709!3d15.931900255665537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc000d372b92177%3A0xe8c1a02b8218c815!2sMayana%2C%20Maharashtra%20416522!5e0!3m2!1sen!2sin!4v1699071224630!5m2!1sen!2sin" ,
@@ -1808,36 +1809,36 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Kelus":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7674.244685242034!2d73.58849014498556!3d15.902660207267553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc00764a3558c43%3A0x10700e7863c55db5!2sKelus%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699071543294!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/KELUS/KELUS.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/KELUS/KELUS.dwg",
                     },
                     "Kalavi":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7674.831702679639!2d73.59834009498479!3d15.887270208109683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff8864b20309d%3A0x648ba0f71f57b4d0!2sKalavi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699071639502!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/KALAVI/KALAVI.dwg",  
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/KALAVI/KALAVI.dwg",  
                     },
                     "Telekarwadi":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7534.00421116503!2d73.96523004517833!3d19.23874000769623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd1625ee45399d%3A0xe5914c604087a75!2sTikekarwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699071811922!5m2!1sen!2sin",
-                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/TALEKARWADI/TALEKAREADI.dwg ",
+                        "dwgURL": "../dwg/Sindhudurg/VENGURLA/TALEKARWADI/TALEKAREADI.dwg ",
                     },  
                     "Wayangani":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15350.161963437367!2d73.60779526253309!3d15.880730395162338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff86603d3c211%3A0x7d388856c8359c5!2sWayangani%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699071962427!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/WAYANGANI/WAYANGANI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/WAYANGANI/WAYANGANI.dwg",
                     }, 
                     "Dabholi":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15350.385511028886!2d73.5922362175646!3d15.8777971676256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff86127f3ac5b%3A0x50af3e825943739c!2sDabholi%2C%20Wayangani%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072034950!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/VENGURLA/DABHOLI/DABHOLI.dwg ",
                     },
-     //99999999               
+     //DWG Not               
                     "Vengurla":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30705.77414761497!2d73.61924506516304!3d15.84493741252467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff832be370491%3A0x1e8a56293dcd4721!2sVengurla%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072135710!5m2!1sen!2sin",
                         // "dwgURL": " ", 
                     },
                     "Navabag":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4762.93405825062!2d73.63241512591914!3d15.838975195559266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9c691c5741f%3A0xf1f943ff2f061448!2sNavabag%2C%20Maharashtra%20416516!5e1!3m2!1sen!2sin!4v1699072243709!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/NAVABAG/NAVABAG V.dwg", 
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/NAVABAG/NAVABAG V.dwg", 
                     }, 
                     "Ubhadanda":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.23901660011!2d73.6368240855552!3d15.844030206259658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9cfe251c89d%3A0x2ceae7c64c6ab1c5!2sUbhadanda%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072340341!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/UBHADANDA/UBHADANDA V.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/UBHADANDA/UBHADANDA V.dwg",
                     }, 
                     "Parabwada":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7676.02233949777!2d73.64277514498313!3d15.856010259817863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff82b592a2399%3A0xe94b6fc355ef97f6!2sParabwada%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072432213!5m2!1sen!2sin",
@@ -1845,7 +1846,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Vagheshwar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.2277045502037!2d73.63218497591915!3d15.844625195410035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9c8c33f6de1%3A0xb2eb61665e9d84d9!2sVagheshwar%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072494933!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/VAGESHWAR/VAGESHWAR.dwg", 
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/VAGESHWAR/VAGESHWAR.dwg", 
                     },
                     "Namas":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7676.118412601447!2d73.625590144983!3d15.853485259955786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9caad7157f9%3A0xbc3f5c5f1aac204b!2sNamas%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072553997!5m2!1sen!2sin",
@@ -1857,28 +1858,27 @@ document.addEventListener("DOMContentLoaded", function () {
                     },
                     "Adari":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7676.262591298631!2d73.63891514498292!3d15.849695210162578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9d230004bd9%3A0xa53c8d5e64fe7d8d!2sAdari%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072710549!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/ADARI/ADARI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/ADARI/ADARI.dwg",
                     },
                     "Kamblewadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.1447600300708!2d73.74725487592448!3d16.264349634183358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc015fd1aa8339d%3A0x4d25405f802874bf!2sKamblewadi%20Rd%2C%20Harkul%20Bk.%2C%20Maharashtra%20416602!5e0!3m2!1sen!2sin!4v1699072831189!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/KAMBALEWADI/KAMBALIWDI.dwg ",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/KAMBALEWADI/KAMBALIWDI.dwg ",
                     }, 
                     "Sukhatanbag":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.962234055297!2d73.65547502591862!3d15.805945246430896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff0abeaa97d27%3A0xde92499503572cb!2sSukhatanbag%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072900349!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/SUKTANBAG/SUKTANBAG.dwg ", 
-                    }, 
-        //90980            
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/SUKTANBAG/SUKTANBAG.dwg ", 
+                    },            
                     "Varachemad":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7677.065218097793!2d73.63737519498187!3d15.828580261314338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9e62e091dcb%3A0x47bfae6748f315c5!2sVarachemad%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699072956997!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/VARCHEMAD.dwg ",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/VARCHEMAD.dwg ",
                     },
                     "Kurlewadi":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.648070875924!2d73.64392502591895!3d15.822500195994197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9e4938824b9%3A0xb61fa13d6832eb72!2sKurlewadi%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699073024261!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/KURLEWADI/KURLEWADI.dwg", 
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/KURLEWADI/KURLEWADI.dwg", 
                     },
                     "Girapwadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15355.40956291499!2d73.63693021251909!3d15.811735403166512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9f8d10870bd%3A0xb0f17edcb1023367!2sGirapwadi%2C%20Maharashtra%20416516!5e0!3m2!1sen!2sin!4v1699073080205!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/GIRAPWADI/GIRAPWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/GIRAPWADI/GIRAPWADI.dwg",
                     }, 
                     "Muth":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7677.432446597792!2d73.63405519498122!3d15.818910311841375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff9f035cc85b7%3A0x16e4aa5123e40884!2sMuth%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699073144013!5m2!1sen!2sin",
@@ -1908,7 +1908,6 @@ document.addEventListener("DOMContentLoaded", function () {
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.497311900634!2d73.6794700259183!3d15.777710147174673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff0f20913435b%3A0x2309eb646a86598b!2sVelagar%2C%20Maharashtra%20416518!5e0!3m2!1sen!2sin!4v1699073856075!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/VENGURLA/VELAGHAR/VELAGHAR.dwg ", 
                     },
-      //00000     
                     "Bagayat":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.579096187033!2d73.67545012591833!3d15.773390197288274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff0f33876f7a9%3A0x2cd32566ef9f97a6!2sBagayat%2C%20Maharashtra%20416518!5e0!3m2!1sen!2sin!4v1699073925004!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/VENGURLA/BAGAYAT.dwg  ",
@@ -1916,16 +1915,14 @@ document.addEventListener("DOMContentLoaded", function () {
                     "Khalchikar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7679.878400321397!2d73.6592101449781!3d15.754355315352168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff07aa4667ee1%3A0x1760db9115796f5a!2sKhalchikar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074000749!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/VENGURLA/KHALACHIKAR/KHALACHIKAR.dwg  ",
-                    }, 
-       //090000000             
+                    },             
                     "Varachikar":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7680.430047662306!2d73.65713519497726!3d15.739760266144216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff00cfe60de9b%3A0xb18105cb5ca34850!2sVarachiker%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074065453!5m2!1sen!2sin",
                         "dwgURL": "./dwg/Sindhudurg/VENGURLA/VARCHIKAR.dwg  ",
-                    },
-         //0000000           
+                    },          
                     "Sukhalbhat":{
                         "mapURL":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7679.465521686376!2d73.67175514497863!3d15.765270314759432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff06009190fe9%3A0xc0f42f378d5dccf0!2sSukhalbhat%2C%20Maharashtra%20416518!5e0!3m2!1sen!2sin!4v1699074122468!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/SUKHALBHER.dwg ",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/SUKHALBHER.dwg ",
                     },
                     "Mhartale":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15359.819941164293!2d73.6686203125073!3d15.753520409897877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff042ea0d6ae5%3A0x50c7bfe442dd880d!2sMhartale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074176420!5m2!1sen!2sin", 
@@ -1937,7 +1934,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     }, 
                     "Bombadoji Chiwadi":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7680.06649766917!2d73.6655300949777!3d15.749380265622221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff06eb02624ed%3A0x174dccce5ca5fec0!2sBombadojichiwadi%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074302620!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/BOMBADOJICHIWADI/BOMBADOJI CHIWADI.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/BOMBADOJICHIWADI/BOMBADOJI CHIWADI.dwg",
                     },
                     "Kanyale":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15361.119222498059!2d73.66923021250385!3d15.736330461881659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff03db704b97f%3A0x69441ae054048aaf!2sKanyale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074375044!5m2!1sen!2sin",
@@ -1945,7 +1942,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     }, 
                      "Gavatale":{
                         "mapURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15361.113564272351!2d73.68987026250385!3d15.736405361873013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbff032d6d906b5%3A0x2b93fd7def0c81fc!2sGavatale%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1699074434363!5m2!1sen!2sin",
-                        "dwgURL": " ./dwg/Sindhudurg/VENGURLA/GAVTALE/GAVTALE.dwg",
+                        "dwgURL": "./dwg/Sindhudurg/VENGURLA/GAVTALE/GAVTALE.dwg",
                     },               
                 },
             },
@@ -2023,7 +2020,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     if (mapURL) {
                         // Display the map in the 'map' div
                         var mapDiv = document.getElementById('map');
-                        mapDiv.innerHTML = '<iframe src="' + mapURL + '" width="1500px" height="710px"></iframe>';
+                        mapDiv.innerHTML = '<iframe src="' + mapURL + '" width=" 610px" height="719"></iframe>';
                     } else {
                         // Handle the case where the map URL for the selected village is not defined
                         var mapDiv = document.getElementById('map');
@@ -2049,507 +2046,289 @@ document.addEventListener("DOMContentLoaded", function () {
                 dwgDiv.innerHTML = "";
             }
         });
+    });
 
 
-        //for ecw file
+// ECW IMAGE AND LINK
 
-var cityObject = {
-    "Palghar": [
-        { name: "ECW1", url: "./ecw/Palghar Ecw/Ecw-p1.gmw" },
-        { name: "ECW2", url: "./ecw/Palghar Ecw/Ecw-p2.gmw" },
-        { name: "ECW3", url: "./ecw/Palghar Ecw/Ecw-p3.gmw" },
-        { name: "ECW4", url: "./ecw/Palghar Ecw/Ecw-p4.gmw" }, 
-        { name: "ECW5", url: "./ecw/Palghar Ecw/Ecw-p5.gmw" },
-        { name: "ECW6", url: "./ecw/Palghar Ecw/Ecw-p6.gmw" },
-        { name: "ECW7", url: "./ecw/Palghar Ecw/Ecw-p7gmw" },
-        { name: "ECW8", url: "./ecw/Palghar Ecw/Ecw-p8.gmw" }, 
-        { name: "ECW9", url: "./ecw/Palghar Ecw/Ecw-p9.gmw" },
-        { name: "ECW10", url: "./ecw/Palghar Ecw/Ecw-p10.gmw" },
-        { name: "ECW11", url: "./ecw/Palghar Ecw/Ecw-p11.gmw" },
-        { name: "ECW12", url: "./ecw/Palghar Ecw/Ecw-p12.gmw" }, 
-         
-    ],
-    "Thane": [
-        { name: "ECW1", url: "./ecw/Thane Ecw/Ecw-t1.gmw" },
-        { name: "ECW2", url: "./ecw/Thane Ecw/Ecw-t2.gmw" },
-        { name: "ECW3", url: "./ecw/Thane Ecw/Ecw-t3.gmw" },
-        { name: "ECW4", url: "./ecw/Thane Ecw/Ecw-t4.gmw" },
-        { name: "ECW5", url: "./ecw/Thane Ecw/Ecw-t5.gmw" },
-        { name: "ECW6", url: "./ecw/Thane Ecw/Ecw-t6.gmw" },
-        { name: "ECW7", url: "./ecw/Thane Ecw/Ecw-t7.gmw" },
-        { name: "ECW8", url: "./ecw/Thane Ecw/Ecw-t8.gmw" },
-        { name: "ECW9", url: "./ecw/Thane Ecw/Ecw-t9.gmw" },
-        { name: "ECW10", url: "./ecw/Thane Ecw/Ecw-t10.gmw" },
-        { name: "ECW11", url: "./ecw/Thane Ecw/Ecw-t11.gmw" },
-        { name: "ECW12", url: "./ecw/Thane Ecw/Ecw-t12.gmw" },
-        { name: "ECW13", url: "./ecw/Thane Ecw/Ecw-t13.gmw" },
-        { name: "ECW14", url: "./ecw/Thane Ecw/Ecw-t14.gmw" },
-        { name: "ECW15", url: "./ecw/Thane Ecw/Ecw-t15.gmw" },
-        { name: "ECW16", url: "./ecw/Thane Ecw/Ecw-t16.gmw" },
-        { name: "ECW17", url: "./ecw/Thane Ecw/Ecw-t17.gmw" },
-        { name: "ECW18", url: "./ecw/Thane Ecw/Ecw-t18.gmw" },
-        { name: "ECW19", url: "./ecw/Thane Ecw/Ecw-t19.gmw" },
-        { name: "ECW20", url: "./ecw/Thane Ecw/Ecw-t20.gmw" },
-        { name: "ECW21", url: "./ecw/Thane Ecw/Ecw-t21.gmw" },
-        { name: "ECW22", url: "./ecw/Thane Ecw/Ecw-t22.gmw" },
-        { name: "ECW23", url: "./ecw/Thane Ecw/Ecw-t23.gmw" },
-        { name: "ECW24", url: "./ecw/Thane Ecw/Ecw-t24.gmw" },
-        { name: "ECW25", url: "./ecw/Thane Ecw/Ecw-t25.gmw" },
-        { name: "ECW26", url: "./ecw/Thane Ecw/Ecw-t26.gmw" },
-        { name: "ECW27", url: "./ecw/Thane Ecw/Ecw-t27.gmw" },
-        { name: "ECW28", url: "./ecw/Thane Ecw/Ecw-t28.gmw" },
-        { name: "ECW29", url: "./ecw/Thane Ecw/Ecw-t29.gmw" },
-        { name: "ECW30", url: "./ecw/Thane Ecw/Ecw-t30.gmw" },
-   ],
-    "Mumbai Suburban": [
-        { name: "ECW1", url: "./ecw/Mumbai Ecw/Ecw-m1.gmw" },
-        { name: "ECW2", url: "./ecw/Mumbai Ecw/Ecw-m2.gmw" },
-        { name: "ECW3", url: "./ecw/Mumbai Ecw/Ecw-m3.gmw" },
-        { name: "ECW4", url: "./ecw/Mumbai Ecw/Ecw-m4.gmw" },
-        { name: "ECW5", url: "./ecw/Mumbai Ecw/Ecw-m5.gmw" },
-        { name: "ECW6", url: "./ecw/Mumbai Ecw/Ecw-m6.gmw" },
-        { name: "ECW7", url: "./ecw/Mumbai Ecw/Ecw-m7.gmw" },
-        { name: "ECW8", url: "./ecw/Mumbai Ecw/Ecw-m8.gmw" },
-        { name: "ECW9", url: "./ecw/Mumbai Ecw/Ecw-m9.gmw" },
-        { name: "ECW10", url: "./ecw/Mumbai Ecw/Ecw-m10.gmw" },
-        { name: "ECW11", url: "./ecw/Mumbai Ecw/Ecw-m11.gmw" },
-        { name: "ECW12", url: "./ecw/Mumbai Ecw/Ecw-m12.gmw" },
-        { name: "ECW13", url: "./ecw/Mumbai Ecw/Ecw-m13.gmw" },
-        { name: "ECW14", url: "./ecw/Mumbai Ecw/Ecw-m14.gmw" },
-        { name: "ECW15", url: "./ecw/Mumbai Ecw/Ecw-m15.gmw" },
-        { name: "ECW16", url: "./ecw/Mumbai Ecw/Ecw-m16.gmw" },
-        { name: "ECW17", url: "./ecw/Mumbai Ecw/Ecw-m17.gmw" },
-        { name: "ECW18", url: "./ecw/Mumbai Ecw/Ecw-m18.gmw" },
-        { name: "ECW19", url: "./ecw/Mumbai Ecw/Ecw-m19.gmw" },
-        { name: "ECW20", url: "./ecw/Mumbai Ecw/Ecw-m20.gmw" },
-        { name: "ECW21", url: "./ecw/Mumbai Ecw/Ecw-m21.gmw" },
-        { name: "ECW22", url: "./ecw/Mumbai Ecw/Ecw-m22.gmw" },
-        { name: "ECW23", url: "./ecw/Mumbai Ecw/Ecw-m23.gmw" },
-        { name: "ECW24", url: "./ecw/Mumbai Ecw/Ecw-m24.gmw" },
-        { name: "ECW25", url: "./ecw/Mumbai Ecw/Ecw-m25.gmw" },
-        { name: "ECW26", url: "./ecw/Mumbai Ecw/Ecw-m26.gmw" },
-        { name: "ECW27", url: "./ecw/Mumbai Ecw/Ecw-m27.gmw" },
-        { name: "ECW28", url: "./ecw/Mumbai Ecw/Ecw-m28.gmw" },
-        { name: "ECW29", url: "./ecw/Mumbai Ecw/Ecw-m29.gmw" },
-        { name: "ECW30", url: "./ecw/Mumbai Ecw/Ecw-m30.gmw" },
-        { name: "ECW31", url: "./ecw/Mumbai Ecw/Ecw-m31.gmw" },
-        { name: "ECW32", url: "./ecw/Mumbai Ecw/Ecw-m32.gmw" },
-        { name: "ECW33", url: "./ecw/Mumbai Ecw/Ecw-m33.gmw" },
-        { name: "ECW34", url: "./ecw/Mumbai Ecw/Ecw-m34.gmw" },
-        { name: "ECW35", url: "./ecw/Mumbai Ecw/Ecw-m35.gmw" },
-        { name: "ECW36", url: "./ecw/Mumbai Ecw/Ecw-m36.gmw" },
-        { name: "ECW37", url: "./ecw/Mumbai Ecw/Ecw-m37.gmw" },
-        { name: "ECW38", url: "./ecw/Mumbai Ecw/Ecw-m38.gmw" },
-        { name: "ECW39", url: "./ecw/Mumbai Ecw/Ecw-m39.gmw" },
-        { name: "ECW40", url: "./ecw/Mumbai Ecw/Ecw-m40.gmw" },
-        { name: "ECW41", url: "./ecw/Mumbai Ecw/Ecw-m41.gmw" },
-        { name: "ECW42", url: "./ecw/Mumbai Ecw/Ecw-m42.gmw" },
-        { name: "ECW43", url: "./ecw/Mumbai Ecw/Ecw-m43.gmw" },
-        { name: "ECW44", url: "./ecw/Mumbai Ecw/Ecw-m44.gmw" },
-        { name: "ECW45", url: "./ecw/Mumbai Ecw/Ecw-m45.gmw" },
-        { name: "ECW46", url: "./ecw/Mumbai Ecw/Ecw-m46.gmw" },
-        { name: "ECW47", url: "./ecw/Mumbai Ecw/Ecw-m47.gmw" },
-        { name: "ECW48", url: "./ecw/Mumbai Ecw/Ecw-m48.gmw" },
-        { name: "ECW49", url: "./ecw/Mumbai Ecw/Ecw-m49.gmw" },
-        { name: "ECW50", url: "./ecw/Mumbai Ecw/Ecw-m50.gmw" },
-        { name: "ECW51", url: "./ecw/Mumbai Ecw/Ecw-m51.gmw" },
-        { name: "ECW52", url: "./ecw/Mumbai Ecw/Ecw-m52.gmw" },
-        { name: "ECW53", url: "./ecw/Mumbai Ecw/Ecw-m53.gmw" },
-        { name: "ECW54", url: "./ecw/Mumbai Ecw/Ecw-m54.gmw" },
-        { name: "ECW55", url: "./ecw/Mumbai Ecw/Ecw-m55.gmw" },
-        { name: "ECW56", url: "./ecw/Mumbai Ecw/Ecw-m56.gmw" },
-        { name: "ECW57", url: "./ecw/Mumbai Ecw/Ecw-m57.gmw" },
-        { name: "ECW58", url: "./ecw/Mumbai Ecw/Ecw-m58.gmw" },
-        { name: "ECW59", url: "./ecw/Mumbai Ecw/Ecw-m59.gmw" },
-        { name: "ECW60", url: "./ecw/Mumbai Ecw/Ecw-m60.gmw" },
-        { name: "ECW61", url: "./ecw/Mumbai Ecw/Ecw-m61.gmw" },
-        { name: "ECW62", url: "./ecw/Mumbai Ecw/Ecw-m62.gmw" },
-        { name: "ECW63", url: "./ecw/Mumbai Ecw/Ecw-m63.gmw" },
-        { name: "ECW64", url: "./ecw/Mumbai Ecw/Ecw-m64.gmw" },
-        { name: "ECW65", url: "./ecw/Mumbai Ecw/Ecw-m65.gmw" },
-        { name: "ECW66", url: "./ecw/Mumbai Ecw/Ecw-m66.gmw" },
-        { name: "ECW67", url: "./ecw/Mumbai Ecw/Ecw-m67.gmw" },
-        { name: "ECW68", url: "./ecw/Mumbai Ecw/Ecw-m68.gmw" },
-        { name: "ECW69", url: "./ecw/Mumbai Ecw/Ecw-m69.gmw" },
-        { name: "ECW70", url: "./ecw/Mumbai Ecw/Ecw-m70.gmw" },
-        { name: "ECW71", url: "./ecw/Mumbai Ecw/Ecw-m71.gmw" },
-        { name: "ECW72", url: "./ecw/Mumbai Ecw/Ecw-m72.gmw" },
-        { name: "ECW73", url: "./ecw/Mumbai Ecw/Ecw-m73.gmw" },
-        { name: "ECW74", url: "./ecw/Mumbai Ecw/Ecw-m74.gmw" },
-        { name: "ECW75", url: "./ecw/Mumbai Ecw/Ecw-m75.gmw" },
-        { name: "ECW76", url: "./ecw/Mumbai Ecw/Ecw-m76.gmw" },
-        { name: "ECW77", url: "./ecw/Mumbai Ecw/Ecw-m77.gmw" },
-        { name: "ECW78", url: "./ecw/Mumbai Ecw/Ecw-m78.gmw" },
-        { name: "ECW79", url: "./ecw/Mumbai Ecw/Ecw-m79.gmw" },
-        { name: "ECW80", url: "./ecw/Mumbai Ecw/Ecw-m80.gmw" },
-        { name: "ECW81", url: "./ecw/Mumbai Ecw/Ecw-m81.gmw" },
-        { name: "ECW82", url: "./ecw/Mumbai Ecw/Ecw-m82.gmw" },
-        { name: "ECW83", url: "./ecw/Mumbai Ecw/Ecw-m83.gmw" },
-        { name: "ECW84", url: "./ecw/Mumbai Ecw/Ecw-m84.gmw" },
-        { name: "ECW85", url: "./ecw/Mumbai Ecw/Ecw-m85.gmw" },
-        { name: "ECW86", url: "./ecw/Mumbai Ecw/Ecw-m86.gmw" },
-        { name: "ECW87", url: "./ecw/Mumbai Ecw/Ecw-m87.gmw" },
-        { name: "ECW88", url: "./ecw/Mumbai Ecw/Ecw-m88.gmw" },
-        { name: "ECW89", url: "./ecw/Mumbai Ecw/Ecw-m89.gmw" },
-        { name: "ECW90", url: "./ecw/Mumbai Ecw/Ecw-m90.gmw" },
-        { name: "ECW91", url: "./ecw/Mumbai Ecw/Ecw-m91.gmw" },
-        { name: "ECW92", url: "./ecw/Mumbai Ecw/Ecw-m92.gmw" },
-        { name: "ECW93", url: "./ecw/Mumbai Ecw/Ecw-m93.gmw" },
-        { name: "ECW94", url: "./ecw/Mumbai Ecw/Ecw-m94.gmw" },
-        { name: "ECW95", url: "./ecw/Mumbai Ecw/Ecw-m95.gmw" },
-        { name: "ECW96", url: "./ecw/Mumbai Ecw/Ecw-m96.gmw" },
-        { name: "ECW97", url: "./ecw/Mumbai Ecw/Ecw-m97.gmw" },
-        { name: "ECW98", url: "./ecw/Mumbai Ecw/Ecw-m98.gmw" },
-        { name: "ECW99", url: "./ecw/Mumbai Ecw/Ecw-m99.gmw" },
-        { name: "ECW100", url: "./ecw/Mumbai Ecw/Ecw-m100.gmw" },
-        { name: "ECW101", url: "./ecw/Mumbai Ecw/Ecw-m101.gmw" },
-        { name: "ECW102", url: "./ecw/Mumbai Ecw/Ecw-m102.gmw" },
-        { name: "ECW103", url: "./ecw/Mumbai Ecw/Ecw-m103.gmw" },
-        { name: "ECW104", url: "./ecw/Mumbai Ecw/Ecw-m104.gmw" },
-        { name: "ECW105", url: "./ecw/Mumbai Ecw/Ecw-m105.gmw" },
-        { name: "ECW106", url: "./ecw/Mumbai Ecw/Ecw-m106.gmw" },
-        
-    ],
-    "Raigad": [
-        { name: "ECW1", url: "./ecw/Raigad Ecw/Ecw-R1.gmw" },
-        { name: "ECW2", url: "./ecw/Raigad Ecw/Ecw-R2.gmw" },
-        { name: "ECW3", url: "./ecw/Raigad Ecw/Ecw-R3.gmw" },
-        { name: "ECW4", url: "./ecw/Raigad Ecw/Ecw-R4.gmw" },  
-        { name: "ECW5", url: "./ecw/Raigad Ecw/Ecw-R5.gmw" },
-        { name: "ECW6", url: "./ecw/Raigad Ecw/Ecw-R6.gmw" },
-        { name: "ECW7", url: "./ecw/Raigad Ecw/Ecw-R7.gmw" },
-        { name: "ECW8", url: "./ecw/Raigad Ecw/Ecw-R8.gmw" },  
-        { name: "ECW9", url: "./ecw/Raigad Ecw/Ecw-R9.gmw" },
-        { name: "ECW10", url: "./ecw/Raigad Ecw/Ecw-R10.gmw" },
-        { name: "ECW11", url: "./ecw/Raigad Ecw/Ecw-R11.gmw" },
-        { name: "ECW12", url: "./ecw/Raigad Ecw/Ecw-R12.gmw" },  
-        { name: "ECW13", url: "./ecw/Raigad Ecw/Ecw-R13.gmw" },
-        { name: "ECW14", url: "./ecw/Raigad Ecw/Ecw-R14.gmw" },
-        { name: "ECW15", url: "./ecw/Raigad Ecw/Ecw-R15.gmw" },
-        { name: "ECW16", url: "./ecw/Raigad Ecw/Ecw-R16.gmw" },  
-        { name: "ECW17", url: "./ecw/Raigad Ecw/Ecw-R17.gmw" },
-        { name: "ECW18", url: "./ecw/Raigad Ecw/Ecw-R18.gmw" },
-        { name: "ECW19", url: "./ecw/Raigad Ecw/Ecw-R19.gmw" },
-        { name: "ECW20", url: "./ecw/Raigad Ecw/Ecw-R20.gmw" },  
-        { name: "ECW21", url: "./ecw/Raigad Ecw/Ecw-R21.gmw" },
-        { name: "ECW22", url: "./ecw/Raigad Ecw/Ecw-R22.gmw" },
-        { name: "ECW23", url: "./ecw/Raigad Ecw/Ecw-R23.gmw" },
-        { name: "ECW24", url: "./ecw/Raigad Ecw/Ecw-R24.gmw" },  
-        { name: "ECW25", url: "./ecw/Raigad Ecw/Ecw-R25.gmw" },
-        { name: "ECW26", url: "./ecw/Raigad Ecw/Ecw-R26.gmw" },
-        { name: "ECW27", url: "./ecw/Raigad Ecw/Ecw-R27.gmw" },
-        { name: "ECW28", url: "./ecw/Raigad Ecw/Ecw-R28.gmw" },  
-        { name: "ECW29", url: "./ecw/Raigad Ecw/Ecw-R29.gmw" },
-        { name: "ECW30", url: "./ecw/Raigad Ecw/Ecw-R30.gmw" },
-        { name: "ECW31", url: "./ecw/Raigad Ecw/Ecw-R31.gmw" },
-        { name: "ECW32", url: "./ecw/Raigad Ecw/Ecw-R32.gmw" },  
-        { name: "ECW33", url: "./ecw/Raigad Ecw/Ecw-R33.gmw" },
-        { name: "ECW34", url: "./ecw/Raigad Ecw/Ecw-R34.gmw" },
-        { name: "ECW35", url: "./ecw/Raigad Ecw/Ecw-R35.gmw" },
-        { name: "ECW36", url: "./ecw/Raigad Ecw/Ecw-R36.gmw" },  
-        { name: "ECW37", url: "./ecw/Raigad Ecw/Ecw-R37.gmw" },
-        { name: "ECW38", url: "./ecw/Raigad Ecw/Ecw-R38.gmw" },
-        { name: "ECW39", url: "./ecw/Raigad Ecw/Ecw-R39.gmw" },
-        { name: "ECW40", url: "./ecw/Raigad Ecw/Ecw-R40.gmw" }, 
-        { name: "ECW41", url: "./ecw/Raigad Ecw/Ecw-R41.gmw" },
-        { name: "ECW42", url: "./ecw/Raigad Ecw/Ecw-R42.gmw" },
-        { name: "ECW43", url: "./ecw/Raigad Ecw/Ecw-R43.gmw" },
-        { name: "ECW44", url: "./ecw/Raigad Ecw/Ecw-R44.gmw" },  
-        { name: "ECW45", url: "./ecw/Raigad Ecw/Ecw-R45.gmw" },
-        { name: "ECW46", url: "./ecw/Raigad Ecw/Ecw-R46.gmw" },
-        { name: "ECW47", url: "./ecw/Raigad Ecw/Ecw-R47.gmw" },
-        { name: "ECW48", url: "./ecw/Raigad Ecw/Ecw-R48.gmw" },  
-        { name: "ECW49", url: "./ecw/Raigad Ecw/Ecw-R49.gmw" },
-        { name: "ECW50", url: "./ecw/Raigad Ecw/Ecw-R50.gmw" },
-        { name: "ECW51", url: "./ecw/Raigad Ecw/Ecw-R51.gmw" },
-        { name: "ECW52", url: "./ecw/Raigad Ecw/Ecw-R52.gmw" },  
-        { name: "ECW53", url: "./ecw/Raigad Ecw/Ecw-R53.gmw" },
-        { name: "ECW54", url: "./ecw/Raigad Ecw/Ecw-R54.gmw" },
-        { name: "ECW55", url: "./ecw/Raigad Ecw/Ecw-R55.gmw" },
-        { name: "ECW56", url: "./ecw/Raigad Ecw/Ecw-R56.gmw" },  
-        { name: "ECW57", url: "./ecw/Raigad Ecw/Ecw-R57.gmw" },
-        { name: "ECW58", url: "./ecw/Raigad Ecw/Ecw-R58.gmw" },
-        { name: "ECW59", url: "./ecw/Raigad Ecw/Ecw-R59.gmw" },
-        { name: "ECW60", url: "./ecw/Raigad Ecw/Ecw-R60.gmw" },  
-        { name: "ECW61", url: "./ecw/Raigad Ecw/Ecw-R61.gmw" },
-        { name: "ECW62", url: "./ecw/Raigad Ecw/Ecw-R62.gmw" },
-        { name: "ECW63", url: "./ecw/Raigad Ecw/Ecw-R63.gmw" },
-        { name: "ECW64", url: "./ecw/Raigad Ecw/Ecw-R64.gmw" },  
-        { name: "ECW65", url: "./ecw/Raigad Ecw/Ecw-R65.gmw" },
-        { name: "ECW66", url: "./ecw/Raigad Ecw/Ecw-R66.gmw" },
-        { name: "ECW67", url: "./ecw/Raigad Ecw/Ecw-R67.gmw" },
-        { name: "ECW68", url: "./ecw/Raigad Ecw/Ecw-R68.gmw" },  
-        { name: "ECW69", url: "./ecw/Raigad Ecw/Ecw-R69.gmw" },
-        { name: "ECW70", url: "./ecw/Raigad Ecw/Ecw-R70.gmw" },
-        { name: "ECW71", url: "./ecw/Raigad Ecw/Ecw-R71.gmw" },
-        { name: "ECW72", url: "./ecw/Raigad Ecw/Ecw-R72.gmw" },  
-        { name: "ECW73", url: "./ecw/Raigad Ecw/Ecw-R73.gmw" },
-        { name: "ECW74", url: "./ecw/Raigad Ecw/Ecw-R74.gmw" },
-        { name: "ECW75", url: "./ecw/Raigad Ecw/Ecw-R75.gmw" },
-        { name: "ECW76", url: "./ecw/Raigad Ecw/Ecw-R76.gmw" },  
-        { name: "ECW77", url: "./ecw/Raigad Ecw/Ecw-R77.gmw" },
-        { name: "ECW78", url: "./ecw/Raigad Ecw/Ecw-R78.gmw" },
-        { name: "ECW79", url: "./ecw/Raigad Ecw/Ecw-R79.gmw" },
-        { name: "ECW80", url: "./ecw/Raigad Ecw/Ecw-R80.gmw" }, 
-        { name: "ECW81", url: "./ecw/Raigad Ecw/Ecw-R81.gmw" },
-        { name: "ECW82", url: "./ecw/Raigad Ecw/Ecw-R82.gmw" },  
-        { name: "ECW83", url: "./ecw/Raigad Ecw/Ecw-R83.gmw" },
-        { name: "ECW84", url: "./ecw/Raigad Ecw/Ecw-R84.gmw" },
-        { name: "ECW85", url: "./ecw/Raigad Ecw/Ecw-R85.gmw" },
-        { name: "ECW86", url: "./ecw/Raigad Ecw/Ecw-R86.gmw" },  
-        { name: "ECW87", url: "./ecw/Raigad Ecw/Ecw-R87.gmw" },
-        { name: "ECW88", url: "./ecw/Raigad Ecw/Ecw-R88.gmw" },
-        { name: "ECW89", url: "./ecw/Raigad Ecw/Ecw-R89.gmw" },
-        { name: "ECW90", url: "./ecw/Raigad Ecw/Ecw-R90.gmw" },  
-        { name: "ECW91", url: "./ecw/Raigad Ecw/Ecw-R91.gmw" },
-        { name: "ECW92", url: "./ecw/Raigad Ecw/Ecw-R92.gmw" },
-        { name: "ECW93", url: "./ecw/Raigad Ecw/Ecw-R93.gmw" },
-        { name: "ECW94", url: "./ecw/Raigad Ecw/Ecw-R94.gmw" },  
-        { name: "ECW95", url: "./ecw/Raigad Ecw/Ecw-R95.gmw" },
-        { name: "ECW96", url: "./ecw/Raigad Ecw/Ecw-R96.gmw" },
-        { name: "ECW97", url: "./ecw/Raigad Ecw/Ecw-R97.gmw" },
-        { name: "ECW98", url: "./ecw/Raigad Ecw/Ecw-R98.gmw" },      
-    ],
-    "Ratnagiri": [
-        { name: "ECW1", url: "./ecw/Ratnagiri Ecw/Ecw-Ra1.gmw" },
-        { name: "ECW2", url: "./ecw/Ratnagiri Ecw/Ecw-Ra2.gmw" },
-        { name: "ECW3", url: "./ecw/Ratnagiri Ecw/Ecw-Ra3.gmw" },
-        { name: "ECW4", url: "./ecw/Ratnagiri Ecw/Ecw-Ra4.gmw" },  
-        { name: "ECW5", url: "./ecw/Ratnagiri Ecw/Ecw-Ra5.gmw" },
-        { name: "ECW6", url: "./ecw/Ratnagiri Ecw/Ecw-Ra6.gmw" },
-        { name: "ECW7", url: "./ecw/Ratnagiri Ecw/Ecw-Ra7.gmw" },
-        { name: "ECW8", url: "./ecw/Ratnagiri Ecw/Ecw-Ra8.gmw" },  
-        { name: "ECW9", url: "./ecw/Ratnagiri Ecw/Ecw-Ra9.gmw" },
-        { name: "ECW10", url: "./ecw/Ratnagiri Ecw/Ecw-Ra10.gmw" },
-        { name: "ECW11", url: "./ecw/Ratnagiri Ecw/Ecw-Ra11.gmw" },
-        { name: "ECW12", url: "./ecw/Ratnagiri Ecw/Ecw-Ra12.gmw" },  
-        { name: "ECW13", url: "./ecw/Ratnagiri Ecw/Ecw-Ra13.gmw" },
-        { name: "ECW14", url: "./ecw/Ratnagiri Ecw/Ecw-Ra14.gmw" },
-        { name: "ECW15", url: "./ecw/Ratnagiri Ecw/Ecw-Ra15.gmw" },
-        { name: "ECW16", url: "./ecw/Ratnagiri Ecw/Ecw-Ra16.gmw" },  
-        { name: "ECW17", url: "./ecw/Ratnagiri Ecw/Ecw-Ra17.gmw" },
-        { name: "ECW18", url: "./ecw/Ratnagiri Ecw/Ecw-Ra18.gmw" },
-        { name: "ECW19", url: "./ecw/Ratnagiri Ecw/Ecw-Ra19.gmw" },
-        { name: "ECW20", url: "./ecw/Ratnagiri Ecw/Ecw-Ra20.gmw" },  
-        { name: "ECW21", url: "./ecw/Ratnagiri Ecw/Ecw-Ra21.gmw" },
-        { name: "ECW22", url: "./ecw/Ratnagiri Ecw/Ecw-Ra22.gmw" },
-        { name: "ECW23", url: "./ecw/Ratnagiri Ecw/Ecw-Ra23.gmw" },
-        { name: "ECW24", url: "./ecw/Ratnagiri Ecw/Ecw-Ra24.gmw" },  
-        { name: "ECW25", url: "./ecw/Ratnagiri Ecw/Ecw-Ra25.gmw" },
-        { name: "ECW26", url: "./ecw/Ratnagiri Ecw/Ecw-Ra26.gmw" },
-        { name: "ECW27", url: "./ecw/Ratnagiri Ecw/Ecw-Ra27.gmw" },
-        { name: "ECW28", url: "./ecw/Ratnagiri Ecw/Ecw-Ra28.gmw" },  
-        { name: "ECW29", url: "./ecw/Ratnagiri Ecw/Ecw-Ra29.gmw" },
-        { name: "ECW30", url: "./ecw/Ratnagiri Ecw/Ecw-Ra30.gmw" },
-        { name: "ECW31", url: "./ecw/Ratnagiri Ecw/Ecw-Ra31.gmw" },
-        { name: "ECW32", url: "./ecw/Ratnagiri Ecw/Ecw-Ra32.gmw" },  
-        { name: "ECW33", url: "./ecw/Ratnagiri Ecw/Ecw-Ra33gmw" },
-        { name: "ECW34", url: "./ecw/Ratnagiri Ecw/Ecw-Ra34.gmw" },
-        { name: "ECW35", url: "./ecw/Ratnagiri Ecw/Ecw-Ra35.gmw" },
-        { name: "ECW36", url: "./ecw/Ratnagiri Ecw/Ecw-Ra36.gmw" },  
-        { name: "ECW37", url: "./ecw/Ratnagiri Ecw/Ecw-Ra37.gmw" },
-        { name: "ECW38", url: "./ecw/Ratnagiri Ecw/Ecw-Ra38.gmw" },
-        { name: "ECW39", url: "./ecw/Ratnagiri Ecw/Ecw-Ra39.gmw" },
-        { name: "ECW40", url: "./ecw/Ratnagiri Ecw/Ecw-Ra40.gmw" }, 
-        { name: "ECW41", url: "./ecw/Ratnagiri Ecw/Ecw-Ra41.gmw" },
-        { name: "ECW42", url: "./ecw/Ratnagiri Ecw/Ecw-Ra42.gmw" },
-        { name: "ECW43", url: "./ecw/Ratnagiri Ecw/Ecw-Ra43.gmw" },
-        { name: "ECW44", url: "./ecw/Ratnagiri Ecw/Ecw-Ra44.gmw" },  
-        { name: "ECW45", url: "./ecw/Ratnagiri Ecw/Ecw-Ra45.gmw" },
-        { name: "ECW46", url: "./ecw/Ratnagiri Ecw/Ecw-Ra46.gmw" },
-        { name: "ECW47", url: "./ecw/Ratnagiri Ecw/Ecw-Ra47.gmw" },
-        { name: "ECW48", url: "./ecw/Ratnagiri Ecw/Ecw-Ra48.gmw" },  
-        { name: "ECW49", url: "./ecw/Ratnagiri Ecw/Ecw-Ra49.gmw" },
-        { name: "ECW50", url: "./ecw/Ratnagiri Ecw/Ecw-Ra50.gmw" },
-        { name: "ECW51", url: "./ecw/Ratnagiri Ecw/Ecw-Ra51.gmw" },
-        { name: "ECW52", url: "./ecw/Ratnagiri Ecw/Ecw-Ra52.gmw" },  
-        { name: "ECW53", url: "./ecw/Ratnagiri Ecw/Ecw-Ra53.gmw" },
-        { name: "ECW54", url: "./ecw/Ratnagiri Ecw/Ecw-Ra54.gmw" },
-        { name: "ECW55", url: "./ecw/Ratnagiri Ecw/Ecw-Ra55.gmw" },
-        { name: "ECW56", url: "./ecw/Ratnagiri Ecw/Ecw-Ra56.gmw" },  
-        { name: "ECW57", url: "./ecw/Ratnagiri Ecw/Ecw-Ra57.gmw" },
-        { name: "ECW58", url: "./ecw/Ratnagiri Ecw/Ecw-Ra58.gmw" },
-        { name: "ECW59", url: "./ecw/Ratnagiri Ecw/Ecw-Ra59.gmw" },
-        { name: "ECW60", url: "./ecw/Ratnagiri Ecw/Ecw-Ra60.gmw" },  
-        { name: "ECW61", url: "./ecw/Ratnagiri Ecw/Ecw-Ra61.gmw" },
-        { name: "ECW62", url: "./ecw/Ratnagiri Ecw/Ecw-Ra62.gmw" },
-        { name: "ECW63", url: "./ecw/Ratnagiri Ecw/Ecw-Ra63.gmw" },
-        { name: "ECW64", url: "./ecw/Ratnagiri Ecw/Ecw-Ra64.gmw" },  
-        { name: "ECW65", url: "./ecw/Ratnagiri Ecw/Ecw-Ra65.gmw" },
-        { name: "ECW66", url: "./ecw/Ratnagiri Ecw/Ecw-Ra66.gmw" },
-        { name: "ECW67", url: "./ecw/Ratnagiri Ecw/Ecw-Ra67.gmw" },
-        { name: "ECW68", url: "./ecw/Ratnagiri Ecw/Ecw-Ra68.gmw" },  
-        { name: "ECW69", url: "./ecw/Ratnagiri Ecw/Ecw-Ra69.gmw" },
-        { name: "ECW70", url: "./ecw/Ratnagiri Ecw/Ecw-Ra70.gmw" },
-        { name: "ECW71", url: "./ecw/Ratnagiri Ecw/Ecw-Ra71.gmw" },
-        { name: "ECW72", url: "./ecw/Ratnagiri Ecw/Ecw-Ra72.gmw" },  
-        { name: "ECW73", url: "./ecw/Ratnagiri Ecw/Ecw-Ra73.gmw" },
-        { name: "ECW74", url: "./ecw/Ratnagiri Ecw/Ecw-Ra74.gmw" },
-        { name: "ECW75", url: "./ecw/Ratnagiri Ecw/Ecw-Ra75.gmw" },
-        { name: "ECW76", url: "./ecw/Ratnagiri Ecw/Ecw-Ra76.gmw" },  
-        { name: "ECW77", url: "./ecw/Ratnagiri Ecw/Ecw-Ra77.gmw" },
-        { name: "ECW78", url: "./ecw/Ratnagiri Ecw/Ecw-Ra78.gmw" },
-        { name: "ECW79", url: "./ecw/Ratnagiri Ecw/Ecw-Ra79.gmw" },
-        { name: "ECW80", url: "./ecw/Ratnagiri Ecw/Ecw-Ra80.gmw" }, 
-        { name: "ECW81", url: "./ecw/Ratnagiri Ecw/Ecw-Ra81.gmw" },
-        { name: "ECW82", url: "./ecw/Ratnagiri Ecw/Ecw-Ra82.gmw" },  
-        { name: "ECW83", url: "./ecw/Ratnagiri Ecw/Ecw-Ra83.gmw" },
-        { name: "ECW84", url: "./ecw/Ratnagiri Ecw/Ecw-Ra84.gmw" },
-        { name: "ECW85", url: "./ecw/Ratnagiri Ecw/Ecw-Ra85.gmw" },
-        { name: "ECW86", url: "./ecw/Ratnagiri Ecw/Ecw-Ra86.gmw" },  
-        { name: "ECW87", url: "./ecw/Ratnagiri Ecw/Ecw-Ra87.gmw" },
-        { name: "ECW88", url: "./ecw/Ratnagiri Ecw/Ecw-Ra88.gmw" },
-        { name: "ECW89", url: "./ecw/Ratnagiri Ecw/Ecw-Ra89.gmw" },
-        { name: "ECW90", url: "./ecw/Ratnagiri Ecw/Ecw-Ra90.gmw" },  
-        { name: "ECW91", url: "./ecw/Ratnagiri Ecw/Ecw-Ra91.gmw" },
-        { name: "ECW92", url: "./ecw/Ratnagiri Ecw/Ecw-Ra92.gmw" },
-        { name: "ECW93", url: "./ecw/Ratnagiri Ecw/Ecw-Ra93.gmw" },
-        { name: "ECW94", url: "./ecw/Ratnagiri Ecw/Ecw-Ra94.gmw" },  
-        { name: "ECW95", url: "./ecw/Ratnagiri Ecw/Ecw-Ra95.gmw" },
-        { name: "ECW96", url: "./ecw/Ratnagiri Ecw/Ecw-Ra96.gmw" },
-        { name: "ECW97", url: "./ecw/Ratnagiri Ecw/Ecw-Ra97.gmw" },
-        { name: "ECW98", url: "./ecw/Ratnagiri Ecw/Ecw-Ra98.gmw" },  
-        { name: "ECW99", url: "./ecw/Ratnagiri Ecw/Ecw-Ra99.gmw" },
-        { name: "ECW100", url: "./ecw/Ratnagiri Ecw/Ecw-Ra100.gmw" },  
-        { name: "ECW101", url: "./ecw/Ratnagiri Ecw/Ecw-Ra101.gmw" },
-        { name: "ECW102", url: "./ecw/Ratnagiri Ecw/Ecw-Ra102.gmw" },
-        { name: "ECW103", url: "./ecw/Ratnagiri Ecw/Ecw-Ra103.gmw" },
-        { name: "ECW104", url: "./ecw/Ratnagiri Ecw/Ecw-Ra104.gmw" },  
-        { name: "ECW105", url: "./ecw/Ratnagiri Ecw/Ecw-Ra105.gmw" },
-        { name: "ECW106", url: "./ecw/Ratnagiri Ecw/Ecw-Ra106.gmw" },
-        { name: "ECW107", url: "./ecw/Ratnagiri Ecw/Ecw-Ra107.gmw" },
-        { name: "ECW108", url: "./ecw/Ratnagiri Ecw/Ecw-Ra108.gmw" },  
-        { name: "ECW109", url: "./ecw/Ratnagiri Ecw/Ecw-Ra109.gmw" },
-        { name: "ECW110", url: "./ecw/Ratnagiri Ecw/Ecw-Ra110.gmw" },
-        { name: "ECW111", url: "./ecw/Ratnagiri Ecw/Ecw-Ra111.gmw" },
-        { name: "ECW112", url: "./ecw/Ratnagiri Ecw/Ecw-Ra112.gmw" },  
-        { name: "ECW113", url: "./ecw/Ratnagiri Ecw/Ecw-Ra113.gmw" },
-        { name: "ECW114", url: "./ecw/Ratnagiri Ecw/Ecw-Ra114.gmw" },
-        { name: "ECW115", url: "./ecw/Ratnagiri Ecw/Ecw-Ra115.gmw" },
-        { name: "ECW116", url: "./ecw/Ratnagiri Ecw/Ecw-Ra116.gmw" },  
-        { name: "ECW117", url: "./ecw/Ratnagiri Ecw/Ecw-Ra117.gmw" },
-        { name: "ECW118", url: "./ecw/Ratnagiri Ecw/Ecw-Ra118.gmw" },
-        { name: "ECW119", url: "./ecw/Ratnagiri Ecw/Ecw-Ra119.gmw" },
-        { name: "ECW120", url: "./ecw/Ratnagiri Ecw/Ecw-Ra120.gmw" },  
-        { name: "ECW121", url: "./ecw/Ratnagiri Ecw/Ecw-Ra121.gmw" },
-        { name: "ECW122", url: "./ecw/Ratnagiri Ecw/Ecw-Ra122.gmw" },
-        { name: "ECW123", url: "./ecw/Ratnagiri Ecw/Ecw-Ra123.gmw" },
-        { name: "ECW124", url: "./ecw/Ratnagiri Ecw/Ecw-Ra124.gmw" },  
-        { name: "ECW125", url: "./ecw/Ratnagiri Ecw/Ecw-Ra125.gmw" },
-        { name: "ECW126", url: "./ecw/Ratnagiri Ecw/Ecw-Ra126.gmw" },
-        { name: "ECW127", url: "./ecw/Ratnagiri Ecw/Ecw-Ra127.gmw" },
-        { name: "ECW128", url: "./ecw/Ratnagiri Ecw/Ecw-Ra128.gmw" },  
-        { name: "ECW129", url: "./ecw/Ratnagiri Ecw/Ecw-Ra129.gmw" },
-        { name: "ECW130", url: "./ecw/Ratnagiri Ecw/Ecw-Ra130.gmw" },
-        { name: "ECW131", url: "./ecw/Ratnagiri Ecw/Ecw-Ra131.gmw" },
-        { name: "ECW132", url: "./ecw/Ratnagiri Ecw/Ecw-Ra132.gmw" },  
-        { name: "ECW133", url: "./ecw/Ratnagiri Ecw/Ecw-Ra133.gmw" },
-        { name: "ECW134", url: "./ecw/Ratnagiri Ecw/Ecw-Ra134.gmw" },
-        { name: "ECW135", url: "./ecw/Ratnagiri Ecw/Ecw-Ra135.gmw" },
-        { name: "ECW136", url: "./ecw/Ratnagiri Ecw/Ecw-Ra136.gmw" },  
-        { name: "ECW137", url: "./ecw/Ratnagiri Ecw/Ecw-Ra137.gmw" },
-        { name: "ECW138", url: "./ecw/Ratnagiri Ecw/Ecw-Ra138.gmw" },
-        { name: "ECW139", url: "./ecw/Ratnagiri Ecw/Ecw-Ra139.gmw" },
-        { name: "ECW140", url: "./ecw/Ratnagiri Ecw/Ecw-Ra140.gmw" }, 
-        { name: "ECW141", url: "./ecw/Ratnagiri Ecw/Ecw-Ra141.gmw" },
-        { name: "ECW142", url: "./ecw/Ratnagiri Ecw/Ecw-Ra142.gmw" },
-        { name: "ECW143", url: "./ecw/Ratnagiri Ecw/Ecw-Ra143.gmw" },
-        { name: "ECW144", url: "./ecw/Ratnagiri Ecw/Ecw-Ra144.gmw" },  
-        { name: "ECW145", url: "./ecw/Ratnagiri Ecw/Ecw-Ra145.gmw" },
-        { name: "ECW146", url: "./ecw/Ratnagiri Ecw/Ecw-Ra146.gmw" },
-        { name: "ECW147", url: "./ecw/Ratnagiri Ecw/Ecw-Ra147.gmw" },
-        { name: "ECW148", url: "./ecw/Ratnagiri Ecw/Ecw-Ra148.gmw" },  
-        { name: "ECW149", url: "./ecw/Ratnagiri Ecw/Ecw-Ra149.gmw" },
-        { name: "ECW150", url: "./ecw/Ratnagiri Ecw/Ecw-Ra150.gmw" },
-        { name: "ECW151", url: "./ecw/Ratnagiri Ecw/Ecw-Ra151.gmw" },
-        { name: "ECW152", url: "./ecw/Ratnagiri Ecw/Ecw-Ra152.gmw" },  
-        { name: "ECW153", url: "./ecw/Ratnagiri Ecw/Ecw-Ra153.gmw" },
-        { name: "ECW154", url: "./ecw/Ratnagiri Ecw/Ecw-Ra154.gmw" },
-        { name: "ECW155", url: "./ecw/Ratnagiri Ecw/Ecw-Ra155.gmw" },
-        { name: "ECW156", url: "./ecw/Ratnagiri Ecw/Ecw-Ra156.gmw" },  
-        { name: "ECW157", url: "./ecw/Ratnagiri Ecw/Ecw-Ra157.gmw" },
-        { name: "ECW158", url: "./ecw/Ratnagiri Ecw/Ecw-Ra158.gmw" },
-        { name: "ECW159", url: "./ecw/Ratnagiri Ecw/Ecw-Ra159.gmw" },
-        { name: "ECW160", url: "./ecw/Ratnagiri Ecw/Ecw-Ra160.gmw" },  
-        { name: "ECW161", url: "./ecw/Ratnagiri Ecw/Ecw-Ra161.gmw" },
-        { name: "ECW162", url: "./ecw/Ratnagiri Ecw/Ecw-Ra162.gmw" },
-        { name: "ECW163", url: "./ecw/Ratnagiri Ecw/Ecw-Ra163.gmw" },
-        { name: "ECW164", url: "./ecw/Ratnagiri Ecw/Ecw-Ra164.gmw" },  
-        { name: "ECW165", url: "./ecw/Ratnagiri Ecw/Ecw-Ra165.gmw" },
-   ],
-    "Sindhudurg": [
-        { name: "ECW1", url: "./ecw/Sindhudurg Ecw/Ecw-s1.gmw" },
-        { name: "ECW2", url: "./ecw/Sindhudurg Ecw/Ecw-s2.gmw" },
-        { name: "ECW3", url: "./ecw/Sindhudurg Ecw/Ecw-s3.gmw" },
-        { name: "ECW4", url: "./ecw/Sindhudurg Ecw/Ecw-s4.gmw" },
-        { name: "ECW5", url: "./ecw/Sindhudurg Ecw/Ecw-s5.gmw" },
-        { name: "ECW6", url: "./ecw/Sindhudurg Ecw/Ecw-s6.gmw" },
-        { name: "ECW7", url: "./ecw/Sindhudurg Ecw/Ecw-s7.gmw" },
-        { name: "ECW8", url: "./ecw/Sindhudurg Ecw/Ecw-s8.gmw" },
-        { name: "ECW9", url: "./ecw/Sindhudurg Ecw/Ecw-s9.gmw" },
-        { name: "ECW10", url: "./ecw/Sindhudurg Ecw/Ecw-s10.gmw" },
-        { name: "ECW11", url: "./ecw/Sindhudurg Ecw/Ecw-s11.gmw" },
-        { name: "ECW12", url: "./ecw/Sindhudurg Ecw/Ecw-s12.gmw" },
-        { name: "ECW13", url: "./ecw/Sindhudurg Ecw/Ecw-s13.gmw" },
-        { name: "ECW14", url: "./ecw/Sindhudurg Ecw/Ecw-s14.gmw" },
-        { name: "ECW15", url: "./ecw/Sindhudurg Ecw/Ecw-s15.gmw" },
-        { name: "ECW16", url: "./ecw/Sindhudurg Ecw/Ecw-s16.gmw" },
-        { name: "ECW17", url: "./ecw/Sindhudurg Ecw/Ecw-s17.gmw" },
-        { name: "ECW18", url: "./ecw/Sindhudurg Ecw/Ecw-s18.gmw" },
-        { name: "ECW19", url: "./ecw/Sindhudurg Ecw/Ecw-s19.gmw" },
-        { name: "ECW20", url: "./ecw/Sindhudurg Ecw/Ecw-s20.gmw" },
-        { name: "ECW21", url: "./ecw/Sindhudurg Ecw/Ecw-s21.gmw" },
-        { name: "ECW22", url: "./ecw/Sindhudurg Ecw/Ecw-s22.gmw" },
-        { name: "ECW23", url: "./ecw/Sindhudurg Ecw/Ecw-s23.gmw" },
-        { name: "ECW24", url: "./ecw/Sindhudurg Ecw/Ecw-s24.gmw" },
-        { name: "ECW25", url: "./ecw/Sindhudurg Ecw/Ecw-s25.gmw" },
-        { name: "ECW26", url: "./ecw/Sindhudurg Ecw/Ecw-s26.gmw" },
-        { name: "ECW27", url: "./ecw/Sindhudurg Ecw/Ecw-s27.gmw" },
-        { name: "ECW28", url: "./ecw/Sindhudurg Ecw/Ecw-s28.gmw" },
-    ]
-};
-
-var citySelect = document.getElementById('citySelect');
-var ecwFileSelect = document.getElementById('ecwFileSelect');
-var ecwDownloadLink = document.getElementById('ecwDownloadLink');
-var downloadLink = document.getElementById('downloadLink');
-
-// Populate the City dropdown
-for (var city in cityObject) {
-    citySelect.options.add(new Option(city, city));
-}
-
-// Event handler for City selection
-citySelect.addEventListener('change', function () {
-    var selectedCity = citySelect.value;
-    ecwFileSelect.innerHTML = '';
-    downloadLink.style.display = 'none';
-
-    if (selectedCity) {
-        var ecwFiles = cityObject[selectedCity];
-        if (ecwFiles) {
-            ecwFileSelect.style.display = 'block';
-            ecwFileSelect.options.add(new Option('Select ECW File', ''));
-            for (var ecwFile of ecwFiles) {
-                ecwFileSelect.options.add(new Option(ecwFile.name, ecwFile.url));
+document.addEventListener("DOMContentLoaded", function () {
+    const data1 = {
+        "Palghar": {
+            "ecwLink": {
+                "Dahanu Ecw": "./ECW/Palghar Ecw/Dhanu.gmw",
+                "Palghar Ecw": "./ECW/Palghar Ecw/Palghar.gmw",
+                "Talasari Ecw": "./ECW/Palghar Ecw/Talasari.gmw",
+                "Vasai Ecw": "./ECW/Palghar Ecw/Vasai.gmw",
+            },
+            "ecwPdf": {
+                "Dahanu Pdf": "./ECW Pdf/Palghar/Dhanu.pdf",
+                "Palghar Pdf": "./ECW Pdf/Palghar/Palghar.pdf",
+                "Talasari Pdf": "./ECW Pdf/Palghar/Talasari.pdf",
+                "Vasai Pdf": "./ECW Pdf/Palghar/Vasai.pdf",
+            },
+            "CRZ":{
+                "CRZ-1": "./CRZ/PALGHAR/82.pdf ",
+                "CRZ-2": "./CRZ/PALGHAR/83.pdf",
+                "CRZ-3": "./CRZ/PALGHAR/86.pdf",
+                "CRZ-4": "./CRZ/PALGHAR/87.pdf",
+                "CRZ-5": "./CRZ/PALGHAR/89.pdf",
+                "CRZ-6": "./CRZ/PALGHAR/90.pdf",
+                "CRZ-7": "./CRZ/PALGHAR/92.pdf",
+                "CRZ-8": "./CRZ/PALGHAR/93.pdf",
+                "CRZ-9": "./CRZ/PALGHAR/94.pdf",
+                "CRZ-10": "./CRZ/PALGHAR/98.pdf",
+                "CRZ-11": "./CRZ/PALGHAR/99.pdf",
+                "CRZ-12": "./CRZ/PALGHAR/100.pdf",
+                "CRZ-13": "./CRZ/PALGHAR/101.pdf"
             }
-        } else {
-            ecwFileSelect.style.display = 'none';
+        },
+        "Thane": {
+            "ecwLink": {
+                "ECW1": " ",
+                "ECW2": " ",
+            },
+            "ecwPdf": {
+                "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+            },
+            "CRZ":{
+                "CRZ-1": "./CRZ/THANE/4.pdf",
+                "CRZ-2": "./CRZ/THANE/5.pdf",
+                "CRZ-3": "./CRZ/THANE/6.pdf",
+                "CRZ-4": "./CRZ/THANE/7.pdf",
+                "CRZ-5": "./CRZ/THANE/8.pdf",
+                "CRZ-6": "./CRZ/THANE/9.pdf",
+                "CRZ-7": "./CRZ/THANE/10.pdf",
+                "CRZ-8": "./CRZ/THANE/11.pdf",
+                "CRZ-9": "./CRZ/THANE/12.pdf",
+                "CRZ-10": "./CRZ/THANE/76.pdf",
+            }
+        },
+        "Mumbai City & Suburban": {
+            "ecwLink": {
+                "ECW1": " ",
+                "ECW2": " ",
+            },
+            "ecwPdf": {
+                "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
+                "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
+                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+            },
+            "CRZ":{
+                "CRZ-(City-1)": "./CRZ/MUMBAI CITY & SUBURBAN/City/1.pdf",
+                "CRZ-(City-2)": "./CRZ/MUMBAI CITY & SUBURBAN/City/2.pdf",
+                "CRZ-(City-3)": "./CRZ/MUMBAI CITY & SUBURBAN/City/3.pdf",
+                "CRZ-(City-4)": "./CRZ/MUMBAI CITY & SUBURBAN/City/4.pdf",
+                "CRZ-(Suburban-1)": "./CRZ/MUMBAI CITY & SUBURBAN/Suburban/1.pdf",
+                "CRZ-(Suburban-2)": "./CRZ/MUMBAI CITY & SUBURBAN/Suburban/2.pdf",
+            }
+        },
+        "Raigad": {
+            "ecwLink": {
+                "ECW1": " ",
+                "ECW2": " ",
+            },
+            "ecwPdf": {
+                "PDF-1": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                "PDF-2": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                "PDF-3": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                "PDF-4": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+            },
+            "CRZ":{
+                "CRZ-1": "./CRZ/RAIGAD/47.pdf",
+                "CRZ-2": "./CRZ/RAIGAD/48.pdf",
+                "CRZ-3": "./CRZ/RAIGAD/49.pdf",
+                "CRZ-4": "./CRZ/RAIGAD/50.pdf",
+                "CRZ-5": "./CRZ/RAIGAD/54.pdf",
+                "CRZ-6": "./CRZ/RAIGAD/54.pdf",
+                "CRZ-7": "./CRZ/RAIGAD/55.pdf",
+                "CRZ-8": "./CRZ/RAIGAD/57.pdf",
+                "CRZ-9": "./CRZ/RAIGAD/58.pdf",
+                "CRZ-10": "./CRZ/RAIGAD/60.pdf",
+                "CRZ-11": "./CRZ/RAIGAD/61.pdf",
+                "CRZ-12": "./CRZ/RAIGAD/62.pdf",
+                "CRZ-13": "./CRZ/RAIGAD/63.pdf",
+                "CRZ-14": "./CRZ/RAIGAD/65.pdf",
+                "CRZ-15": "./CRZ/RAIGAD/66.pdf",
+                "CRZ-16": "./CRZ/RAIGAD/68.pdf",
+                "CRZ-17": "./CRZ/RAIGAD/69.pdf",
+                "CRZ-18": "./CRZ/RAIGAD/73.pdf",
+                "CRZ-19": "./CRZ/RAIGAD/77.pdf",
+            }
+        },
+        "Ratnagiri": {
+            "ecwLink": {
+                "ECW1": " ",
+                "ECW2": " ",
+            },
+            "ecwPdf": {
+                "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+            },
+            "CRZ":{
+                "CRZ-1": "./CRZ/RATNAGIRI/16.pdf",
+                "CRZ-2": "./CRZ/RATNAGIRI/18.pdf",
+                "CRZ-3": "./CRZ/RATNAGIRI/19.pdf",
+                "CRZ-4": "./CRZ/RATNAGIRI/22.pdf",
+                "CRZ-5": "./CRZ/RATNAGIRI/23.pdf",
+                "CRZ-6": "./CRZ/RATNAGIRI/24.pdf",
+                "CRZ-7": "./CRZ/RATNAGIRI/25.pdf",
+                "CRZ-8": "./CRZ/RATNAGIRI/26.pdf",
+                "CRZ-9": "./CRZ/RATNAGIRI/27.pdf",
+                "CRZ-10": "./CRZ/RATNAGIRI/28.pdf",
+                "CRZ-11": "./CRZ/RATNAGIRI/29.pdf",
+                "CRZ-12": "./CRZ/RATNAGIRI/30.pdf",
+                "CRZ-13": "./CRZ/RATNAGIRI/31.pdf",
+                "CRZ-14": "./CRZ/RATNAGIRI/34.pdf",
+                "CRZ-15": "./CRZ/RATNAGIRI/35.pdf",
+                "CRZ-16": "./CRZ/RATNAGIRI/37.pdf",
+                "CRZ-17": "./CRZ/RATNAGIRI/38.pdf",
+                "CRZ-18": "./CRZ/RATNAGIRI/39.pdf",
+                "CRZ-19": "./CRZ/RATNAGIRI/41.pdf",
+                "CRZ-20": "./CRZ/RATNAGIRI/42.pdf",
+                "CRZ-21": "./CRZ/RATNAGIRI/45.pdf",
+                "CRZ-22": "./CRZ/RATNAGIRI/46.pdf",
+                "CRZ-23": "./CRZ/RATNAGIRI/47.pdf",
+                "CRZ-24": "./CRZ/RATNAGIRI/48.pdf",
+            }
+        },
+        "Sindhudurg": {
+            "ecwLink": {
+                "ECW1": " ",
+                "ECW2": " ",
+            },
+            "ecwPdf": {
+                "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
+                "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
+                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+            },
+            "CRZ":{
+                "CRZ-1": "./CRZ/SINDHUDURG/1.pdf",
+                "CRZ-2": "./CRZ/SINDHUDURG/2.pdf",
+                "CRZ-3": "./CRZ/SINDHUDURG/3.pdf",
+                "CRZ-4": "./CRZ/SINDHUDURG/4.pdf",
+                "CRZ-5": "./CRZ/SINDHUDURG/5.pdf",
+                "CRZ-6": "./CRZ/SINDHUDURG/6.pdf",
+                "CRZ-7": "./CRZ/SINDHUDURG/7.pdf",
+                "CRZ-8": "./CRZ/SINDHUDURG/8.pdf",
+                "CRZ-9": "./CRZ/SINDHUDURG/9.pdf",
+                "CRZ-10": "./CRZ/SINDHUDURG/11.pdf",
+                "CRZ-11": "./CRZ/SINDHUDURG/12.pdf",
+                "CRZ-12": "./CRZ/SINDHUDURG/13.pdf",
+                "CRZ-13": "./CRZ/SINDHUDURG/14.pdf",
+                "CRZ-14": "./CRZ/SINDHUDURG/15.pdf",
+                "CRZ-15": "./CRZ/SINDHUDURG/16.pdf",
+                "CRZ-16": "./CRZ/SINDHUDURG/18.pdf",
+                "CRZ-17": "./CRZ/SINDHUDURG/19.pdf",
+            }
+        },
+    };
+
+    const districtSelect1 = document.getElementById("ecwDistrict");
+    const categoriesSelect = document.getElementById("categories");
+    const ecwOptionSelect = document.getElementById("ecwOption");
+    const ecwPdfDiv = document.getElementById('pdfDiv');
+    const ecwDiv = document.getElementById('ecw');
+    const crzDiv=document.getElementById('pdfDiv')
+
+    // Populate district dropdown
+    for (let district1 in data1) {
+        const option = document.createElement("option");
+        option.value = district1;
+        option.text = district1;
+        districtSelect1.add(option);
+    }
+
+    // Create a new PDF dropdown
+    const ecwPdfOptionSelect = document.createElement("select");
+    ecwPdfOptionSelect.id = "ecwPdfOption";
+    ecwPdfOptionSelect.innerHTML = '<option value="" disabled selected>Select PDF</option>';
+    ecwPdfOptionSelect.style.display = "none";
+
+    // Append the PDF dropdown to the form
+    const ecwSelectorForm = document.getElementById("ecwSelector");
+    ecwSelectorForm.appendChild(ecwPdfOptionSelect);
+
+    // Event listener for category change
+    categoriesSelect.addEventListener("change", () => {
+        const selectedCategory = categoriesSelect.value;
+
+        ecwOptionSelect.style.display = "none"; // Hide the third dropdown by default
+        ecwOptionSelect.innerHTML = ""; // Clear existing options
+
+        if (selectedCategory !== "") {
+            const options = data1[districtSelect1.value][selectedCategory];
+
+            for (let option in options) {
+                const optionElement = document.createElement("option");
+                optionElement.value = option;
+                optionElement.text = option;
+                ecwOptionSelect.add(optionElement);
+            }
+
+            if (options) {
+                ecwOptionSelect.style.display = "block"; // Show the third dropdown
+            }
+        }
+    });
+
+   // Event listener for the third dropdown
+ecwOptionSelect.addEventListener("change", () => {
+    const selectedDistrict1 = districtSelect1.value;
+    const selectedCategory = categoriesSelect.value;
+    const selectedOption = ecwOptionSelect.value;
+
+    if (selectedDistrict1 && selectedCategory && selectedOption) {
+        const ecwData = data1[selectedDistrict1][selectedCategory][selectedOption];
+
+        if (ecwData) {
+            if (selectedCategory === "ecwPdf") {
+                const ecwPdfUrl = ecwData;
+
+                if (ecwPdfUrl) {
+                    // Display the PDF in the 'pdfDiv' using an iframe
+                    ecwPdfDiv.innerHTML = `<iframe src="${ecwPdfUrl}" style="width:100%; height:100%;"></iframe>`;
+                    ecwDiv.innerHTML = ""; // Clear the ecw div
+                } else {
+                    // Handle the case where the PDF URL is not defined
+                    ecwPdfDiv.innerHTML = "PDF not available for this village.";
+                }
+            } else if (selectedCategory === "ecwLink") {
+                const ecwUrl = ecwData;
+
+                if (ecwUrl) {
+                    // Display the link in the 'ecw' div
+                    ecwDiv.innerHTML = `<a href="${ecwUrl}" download>Download ECW</a>`;
+                    ecwPdfDiv.innerHTML = ""; // Clear the ecwPdfDiv
+                } else {
+                    // Handle the case where the ECW URL is not defined
+                    ecwDiv.innerHTML = "ECW file not available for this village.";
+                    ecwPdfDiv.innerHTML = "";
+                }
+            }
+            else if (selectedCategory === "CRZ") {
+                const CRZUrl = ecwData;
+
+                if (CRZUrl) {
+                   // Display the PDF in the 'pdfDiv' using an iframe
+                   crzDiv.innerHTML = `<iframe src="${CRZUrl}" style="width:100%; height:720px;"></iframe>`;
+                   ecwDiv.innerHTML = ""; // Clear the ecw div
+               } else {
+                   // Handle the case where the PDF URL is not defined
+                   crzDiv.innerHTML = "PDF not available for this village.";
+               }
+           }
         }
     } else {
-        ecwFileSelect.style.display = 'none';
+        // Handle the case where one or more values are missing
+        ecwPdfDiv.innerHTML = "Please select a district, category, and option.";
+        ecwDiv.innerHTML = "";
     }
 });
-
-// Event handler for ECW file selection
-ecwFileSelect.addEventListener('change', function () {
-    var selectedECWFile = ecwFileSelect.value;
-    if (selectedECWFile) {
-        ecwDownloadLink.href = selectedECWFile;
-        downloadLink.style.display = 'block';
-    } else {
-        downloadLink.style.display = 'none';
-    }
-});
-
 });

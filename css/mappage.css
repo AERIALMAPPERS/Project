@@ -12,7 +12,7 @@
 }
 nav{
     width: 100%;
-    height: 15vh;
+    height: 10vh;
     background-color: black;
     color: white;
     display: flex;
@@ -35,12 +35,6 @@ nav{
     color: white;
     font-weight: bold;
 }
-/* section h1{
-    margin: 30px 0 20px 0;
-    font-size: 55px;
-    font-weight: 700;
-    text-shadow: 2px 1px  5px blue;
-} */
 main{
     width: 100%;
     height: 85vh;
@@ -53,25 +47,76 @@ border: 1px solid black;
 background-color: rgb(234, 235, 235);
 }
 #map{
-  width: 65%;
+  width: 32%;
   height: 75vh;
   margin-top: 45px;
   margin-left: 40px;
   align-items: center;
-  display: flex;
+  /* display: flex; */
   border: 2px solid black;
+}
+#pdfDiv {
+    width: 32%;
+    height: 75vh;
+    margin-top: 45px;
+    margin-left: 40px;
+    align-items: center;
+    border: 2px solid black;
+    /* background-color: aqua; */
+}
+#ecw {
+    text-align: center;
+    height: 30px;
+    color: black;
+    width: 200px;
+   border-radius: 30px;
+   margin-top: 10px;
+    align-items: center;
+    border: 1px solid black;
+    margin-left: 180px;
+    background-color: rgb(184, 183, 183);
 }
 #dwg{ 
     margin-top: 20px;
     text-align: center;
-    height: 50px;
+    height: 30px;
     color: black;
     width: 200px;
+   border-radius: 30px;
     align-items: center;
-    /* text-align: center; */
     border: 1px solid black;
     margin-left: 180px;
-    /* background-color: pink; */
+    background-color: rgb(184, 183, 183);
+}
+#dwg:hover{
+    outline: none;
+    box-shadow: 2px 2px 2px rgb(8, 8, 8);
+}
+#btnsubmit{
+    background-color: dodgerblue;
+    color: white;
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
+}
+#btnsubmit:hover{
+    background-color:rgb(3, 94, 97);
+    text-decoration: underline;
+    text-shadow: #fffdfd;
+    box-shadow: 5px 5px 2px rgb(152, 196, 236);
+}
+#btnbutton{
+    background-color: rgb(3, 94, 97);
+    color: white;
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
+}
+#btnbutton:hover{
+    background-color:dodgerblue;
+    text-decoration: underline;
+    text-shadow: #fffdfd;
+    box-shadow: 5px 5px 2px rgb(70, 88, 88);
 }
 h2{
     font-size: 1.3vw;
@@ -85,6 +130,7 @@ h2{
  form{
     display: flex;
     justify-content: center;
+    margin-top: 10px;
     align-items: center;
     flex-direction: column;
     gap: 15px;
@@ -112,16 +158,464 @@ form select{
     cursor: pointer;
 }
 #ecwFileSelect{
-    width: 300px;padding: px;
+    width: 300px;padding:2 px;
     padding-left: 5px;
+    margin-top: 20px;
     background-color: #fff;
     border-radius: 10px;
     outline: none;
-    /* margin-top: 10px; */
     margin-left:140px;
     font-size: 1.2rem;
 }
-#ecwDownloadLink{
-    margin-left:150px;
-    margin-top: 10px;
+#downloadLink{
+    margin-top: 20px;
+    text-align: center;
+    height: 30px;
+    color: black;
+    width: 200px;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: 180px;
+    background-color: rgb(184, 183, 183);
+}
+#downloadLink:hover{
+    outline: none;
+    box-shadow: 2px 2px 2px rgb(8, 8, 8);
+}
+footer marquee{
+    color: rgb(75, 22, 22);
+    background-color: rgb(156, 152, 156);
+ }
+
+ /* mobile view */
+ @media only screen and (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
+    nav{
+        width: 100%;
+        height: 5vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: smaller;
+    }
+    .menu{
+        width: 100%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+    }
+    main{
+        width: 100%;
+        height: 85vh;
+        color: white;
+        display: inline-block;
+    }
+    #maplist{
+    width: 100%;
+    height: 40vh;
+    border: 1px solid black;
+    background-color: rgb(234, 235, 235);
+    }
+    #maplist h2{
+       font-size: 1rem;
+       margin-left: 15px;
+       margin-top: 20px;
+    }
+    #map{
+      width: 100%;
+      height: 25vh;
+      margin-top: 15px;
+      margin-left: 0px;
+      align-items: center;
+      /* background-color: #d65a5a; */
+      border: 2px solid black;
+    }
+     #map iframe{
+        width: 100%;
+        height: 24.6vh;
+       /* background-color:blueviolet; */
+      }
+    form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 8px;
+        margin-top: -20px;
+    }
+    form select{
+        width: 40%;padding: 4px;
+        background-color: #fff;
+        border-radius: 10px;
+        outline: none;
+        font-size: 0.75rem;
+        box-shadow: 0,5px,10px,0 rgb(0,0,0,30);
+        cursor: pointer;
+    } 
+    
+    #citySelect{
+        width: 40%;padding: 4px;
+        background-color: #fff;
+        border-radius: 10px;
+        outline: none;
+        margin-top: 10px;
+        font-size: 0.8rem;
+        cursor: pointer;
+    }
+    #btnsubmit{
+        background-color: dodgerblue;
+        color: white;
+        height: 18px;
+        width: 80px;
+        border-radius: 5px;
+    }
+    #btnbutton{
+        background-color: rgb(3, 94, 97);
+        color: white;
+        height: 18px;
+        width: 80px;
+        border-radius: 5px;
+    }
+    #dwg{ 
+        margin-top: 10px;
+        margin-bottom: 30px;
+        text-align: center;
+        align-items: center;
+        height: 20px;
+        color: black;
+        width: 40%;
+        border-radius: 30px;
+        border: 1px solid black;
+        font-size: 0.8rem;
+        margin-left: 85px;
+        background-color: rgb(184, 183, 183);
+    }
+    #pdfDiv {
+        width: 100%;
+        height: 25vh;
+        margin-top: 15px;
+        margin-left: 0px;
+        align-items: center;
+        border: 2px solid black;
+    }
+    /* #ecwimg img{
+        width: 100%;
+        height: 24.6vh;
+        border: 1px solid black;
+     }  */
+    #ecw {
+        margin-top: 10px;
+        text-align: center;
+        height: 20px;
+        color: black;
+        width: 40%;
+       border-radius: 30px;
+        align-items: center;
+        border: 1px solid black;
+        font-size: 0.8rem;
+        margin-left: 85px;
+        background-color: rgb(184, 183, 183);
+    }
+  }
+
+  /* Tablet View */
+  @media only screen and (min-width: 600px) and (max-width: 1024px) {
+    /* body {
+        font-size: 15px;
+      }*/
+     nav{
+        width: 100%;
+        height: 6vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: small;
+    }
+    .menu{
+        width: 100%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+    } 
+      main{
+          width: 100%;
+          height: 85vh;
+          color: white;
+          display: inline-block;
+      }
+      #maplist{
+      width: 100%;
+      height: 40vh;
+      border: 1px solid black;
+      background-color: rgb(234, 235, 235);
+      }
+      #maplist h2{
+         font-size: 1.2rem;
+         text-align: center;
+         margin-left: 15px;
+         margin-top: 20px;
+      }
+      #map{
+        width: 100%;
+        height: 45vh;
+        margin-top: 15px;
+        margin-left: 0px;
+        align-items: center;
+        /* background-color: #d65a5a; */
+        border: 2px solid black;
+      }
+       #map iframe{
+          width: 100%;
+          height: 44.6vh;
+         /* background-color:blueviolet; */
+        }
+      form{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          gap: 8px;
+          margin-top: -20px;
+      }
+      form select{
+          width: 40%;padding: 4px;
+          background-color: #fff;
+          border-radius: 10px;
+          outline: none;
+          font-size: 0.75rem;
+          box-shadow: 0,5px,10px,0 rgb(0,0,0,30);
+          cursor: pointer;
+      } 
+      
+      #citySelect{
+          width: 40%;padding: 4px;
+          background-color: #fff;
+          border-radius: 10px;
+          outline: none;
+          margin-top: 10px;
+          font-size: 0.8rem;
+          cursor: pointer;
+      }
+      #btnsubmit{
+          background-color: dodgerblue;
+          color: white;
+          height: 18px;
+          width: 80px;
+          border-radius: 5px;
+      }
+      #btnbutton{
+          background-color: rgb(3, 94, 97);
+          color: white;
+          height: 18px;
+          width: 80px;
+          border-radius: 5px;
+      }
+      #dwg{ 
+          margin-top: 10px;
+          margin-bottom: 30px;
+          text-align: center;
+          align-items: center;
+          height: 20px;
+          color: black;
+          width: 40%;
+          border-radius: 30px;
+          border: 1px solid black;
+          font-size: 0.8rem;
+          /* margin-left: 85px; */
+          background-color: rgb(184, 183, 183);
+      }
+      #pdfDiv {
+          width: 100%;
+          height: 45vh;
+          margin-top: 15px;
+          margin-left: 0px;
+          align-items: center;
+          border: 2px solid black;
+      }
+      /* #ecwimg img{
+          width: 100%;
+          height: 44.6vh;
+          border: 1px solid black;
+       }  */
+      #ecw {
+          margin-top: 10px;
+          text-align: center;
+          align-items: center;
+          height: 20px;
+          color: black;
+          width: 40%;
+          border-radius: 30px;
+          border: 1px solid black;
+          font-size: 0.8rem;
+          /* margin-left: 85px; */
+          background-color: rgb(184, 183, 183);
+      }
+  }
+
+   /* Laptop View */
+   @media only screen and (min-width: 1024px) and (max-width: 1250px) {
+    body {
+        font-size: 15px;
+      }
+      nav {
+        width: 100%;
+        height: 10vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .menu {
+        width: 40%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    
+    .menu a {
+        width: 25%;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+      main{
+          width: 100%;
+          height: 85vh;
+          color: white;
+          display:  flex;
+          /* background-color: pink; */
+      }
+      #maplist{
+      width: 100%;
+      height: 85vh;
+      border: 1px solid black;
+      background-color: rgb(234, 235, 235);
+      }
+      #maplist h2{
+         font-size: 1.5rem;
+         text-align: center;
+         margin-left: 15px;
+         margin-top: 25px;
+      }
+      #map{
+        width: 100%;
+        height: 84vh;
+        margin-top: 10px;
+        margin-left: 0px;
+        align-items: center;
+        /* background-color: #d65a5a; */
+        border: 1px solid black;
+      }
+       #map iframe{
+          width: 100%;
+          height: 83.8vh;
+         /* background-color:blueviolet; */
+        }
+      form{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          gap: 10px;
+          margin-top: -20px;
+      }
+      form select{
+          width: 50%;padding: 10px;
+          background-color: #fff;
+          border-radius: 10px;
+          outline: none;
+          font-size: 1rem;
+          box-shadow: 0,5px,10px,0 rgb(0,0,0,30);
+          cursor: pointer;
+      } 
+      
+      #citySelect{
+          width: 40%;padding: 4px;
+          background-color: #fff;
+          border-radius: 10px;
+          outline: none;
+          margin-top: 10px;
+          font-size: 1rem;
+          cursor: pointer;
+      }
+      #btnsubmit{
+          background-color: dodgerblue;
+          color: white;
+          /* padding: 5px; */
+          height: 25px;
+          width: 80px;
+          border-radius: 5px;
+      }
+      #btnbutton{
+          background-color: rgb(3, 94, 97);
+          color: white;
+          height: 25px;
+          width: 80px;
+          border-radius: 5px;
+      }
+      #dwg{ 
+          margin-top: 10px;
+          margin-bottom: 30px;
+          text-align: center;
+          align-items: center;
+          height: 30px;
+          color: black;
+          width: 50%;
+          border-radius: 30px;
+          border: 1px solid black;
+          font-size: 1rem;
+          margin-left: 100px;
+          background-color: rgb(184, 183, 183);
+      }
+      #pdfDiv {
+          width: 100%;
+          height: 84vh;
+          margin-top: 10px;
+          margin-left: 0px;
+          align-items: center;
+          border: 1px solid black;
+      }
+      /* #ecwimg img{
+          width: 100%;
+          height: 83.8vh;
+          border: 1px solid black;
+       }  */
+      #ecw {
+          margin-top: 10px;
+          text-align: center;
+          align-items: center;
+          height: 30px;
+          color: black;
+          width: 50%;
+          border-radius: 30px;
+          border: 1px solid black;
+          font-size: 0.8rem;
+          margin-left: 100px;
+          background-color: rgb(184, 183, 183);
+      }
+      footer marquee{
+        color: rgb(75, 22, 22);
+        background-color: rgb(156, 152, 156);
+
+     }
 }

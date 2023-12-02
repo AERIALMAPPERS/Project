@@ -1,8 +1,8 @@
-* {
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    /* background-color: antiquewhite; */
+ 
 }
 
 .header {
@@ -16,7 +16,7 @@
 
 nav {
     width: 100%;
-    height: 15vh;
+    height: 10vh;
     background-color: black;
     color: white;
     display: flex;
@@ -112,9 +112,317 @@ section p {
     color: rgb(0, 0, 0);
     align-items: normal;
 }
-/* 
-@media screen and (max-width: 768px) {
-    p {
-        font-size: 1.5rem;
+
+footer marquee{
+    color: rgb(75, 22, 22);
+    background-color: rgb(156, 152, 156);
+ }
+/* mobile view */
+@media only screen and (max-width: 600px) {
+    body {
+      font-size: 14px;
     }
-} */
+    nav{
+        width: 100%;
+        height: 5vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: smaller;
+    }
+    .menu{
+        width: 100%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+    }
+    main {
+        width: 100%;
+        height: 85vh;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        /* background-color: aquamarine; */
+    }
+    .indiaimg {
+        width: 100%;
+        height: 15vh;
+        align-items: center;
+        /* background-color: bisque; */
+    }
+    
+    .indiaimg img {
+        margin-top: 1vh;
+        height: 150px;
+        width: 150px;
+        border: 1px solid black;
+        align-items: center;
+        /* background-color: bisque; */
+    }
+    .barchartimg {
+        width: 100%;
+        height: 15vh;
+        margin-top: -102vh;
+        align-items: center;
+        /* background-color: rgb(241, 218, 190); */
+    }
+    
+    .barchartimg img {
+        height: 150px;
+        width: 150px;
+        border: 1px solid black;
+        margin-top: 0vh;
+        align-items: center;
+        /* background-color: rgb(145, 85, 12); */
+    }
+    .aboutdetal {
+        width: 100%;
+        /* height: 85vh; */
+        margin-top: 20vh;
+        align-items: center;
+        text-align: center;
+        /* background-color: rgb(196, 132, 54); */
+    }
+    section h1 {
+        font-size: 15px;
+        font-family: sans-serif;
+        color: #534a4a;
+        /* letter-spacing: 1px; */
+        text-shadow: 2px 1px 2px rgb(173, 173, 173);
+    }
+    
+    section video {
+        margin-top: -20px;
+        width: 90%;
+    }
+    
+    section p {
+        /* margin: 30px 0 20px 0; */
+        font-size: 12px;
+        margin-top: 10px;
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        align-items: normal;
+    }
+    footer marquee{
+        margin-top: 300px;
+     }
+}
+
+ /* Tablet View */
+ @media only screen and (min-width: 600px) and (max-width: 1024px) {
+    body {
+        font-size: 15px;
+    }
+    nav{
+          width: 100%;
+          height: 6vh;
+          background-color: black;
+          color: white;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          font-size: small;
+    }
+    .menu{
+        width: 100%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    .menu a{
+        text-decoration: none;
+        color: white;
+        font-size: smaller;
+        font-weight: bold;
+    }
+    main {
+        width: 100%;
+        height: 85vh;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        /* background-color: aquamarine; */
+    }
+    .indiaimg {
+        width: 100%;
+        height: 15vh;
+        align-items: center;
+        /* background-color: bisque; */
+    }
+    
+    .indiaimg img {
+        margin-top: 1vh;
+        height: 150px;
+        width: 150px;
+        border: 1px solid black;
+        align-items: center;
+        /* background-color: bisque; */
+    }
+    .barchartimg {
+        width: 100%;
+        height: 15vh;
+        margin-top: -102vh;
+        align-items: center;
+        /* background-color: rgb(241, 218, 190); */
+    }
+    
+    .barchartimg img {
+        height: 150px;
+        width: 150px;
+        border: 1px solid black;
+        margin-top: 0vh;
+        align-items: center;
+        /* background-color: rgb(145, 85, 12); */
+    }
+    .aboutdetal {
+        width: 100%;
+        /* height: 85vh; */
+        margin-top: 20vh;
+        align-items: center;
+        text-align: center;
+        /* background-color: rgb(196, 132, 54); */
+    }
+    section h1 {
+        font-size: 15px;
+        font-family: sans-serif;
+        color: #534a4a;
+        /* letter-spacing: 1px; */
+        text-shadow: 2px 1px 2px rgb(173, 173, 173);
+    }
+    section video {
+        /* margin-top: -20px; */
+        width: 90%;
+    }
+    section p {
+        /* margin: 30px 0 20px 0; */
+        font-size: 12px;
+        margin-top: 10px;
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        align-items: normal;
+    }
+    footer marquee{
+        margin-top: 200px;
+     }
+    }
+
+/* laptop view */
+@media only screen and (min-width: 1024px) and (max-width: 1250px) {
+    nav {
+        width: 100%;
+        height: 10vh;
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .logo {
+        width: 25%;
+        text-align: center;
+    }
+    
+    .menu {
+        width: 40%;
+        display: flex;
+        color: white;
+        justify-content: space-around;
+    }
+    
+    .menu a {
+        width: 25%;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+    
+    main {
+        width: 100%;
+        height: 85vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        /* background-color: aquamarine; */
+    }
+    
+    .indiaimg {
+        width: 25%;
+        height: 30vh;
+        margin-top:-15vh;
+        margin-left: -50px;
+        align-items: center;
+        /* background-color: bisque; */
+    }
+    
+    .indiaimg img {
+        margin-top: 0vh;
+        height: 300px;
+        align-items: center;
+
+    }
+    
+    .aboutdetal {
+        width: 50%;
+        height: 85vh;
+        align-items: center;
+        text-align: center;
+        /* background-color: rgb(196, 132, 54); */
+    }
+    
+    .barchartimg {
+        width: 25%;
+        height: 30vh;
+        align-items: center;
+        /* background-color: rgb(241, 218, 190); */
+    }
+    
+    .barchartimg img {
+        height: 350px;
+        width: 330px;
+        margin-top: -12vh;
+        align-items: center;
+        /* background-color: rgb(145, 85, 12); */
+    }
+    
+    section h1 {
+        font-size: 30px;
+        font-family: sans-serif;
+        color: #534a4a;
+        margin-top: 10vh;
+        font-weight: bolder;
+        letter-spacing: 3px;
+        line-height: 50px;
+        text-shadow: 2px 1px 2px rgb(173, 173, 173);
+    }
+    
+    section video {
+        margin-top: 50px;
+    }
+    
+    section p {
+        margin: 30px 0 20px 0;
+        font-size: 17px;
+        font-family: sans-serif;
+        color: rgb(0, 0, 0);
+        align-items: normal;
+    }
+    footer marquee{
+        margin-top: 200px;
+     }
+}
