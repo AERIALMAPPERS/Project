@@ -2084,14 +2084,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "Thane": {
             "ecwLink": {
-                "ECW1": " ",
-                "ECW2": " ",
+                // "ECW1": " ",
+                // "ECW2": " ",
             },
             "ecwPdf": {
-                "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
-                "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
-                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
-                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                // "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                // "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+                // "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                // "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
             },
             "CRZ":{
                 "CRZ-1": "./CRZ/THANE/4.pdf",
@@ -2108,14 +2108,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "Mumbai City & Suburban": {
             "ecwLink": {
-                "ECW1": " ",
-                "ECW2": " ",
+                // "ECW1": " ",
+                // "ECW2": " ",
             },
             "ecwPdf": {
-                "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
-                "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
-                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
-                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                // "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
+                // "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
+                // "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                // "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
             },
             "CRZ":{
                 "CRZ-(City-1)": "./CRZ/MUMBAI CITY & SUBURBAN/City/1.pdf",
@@ -2128,14 +2128,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "Raigad": {
             "ecwLink": {
-                "ECW1": " ",
-                "ECW2": " ",
+                // "ECW1": " ",
+                // "ECW2": " ",
             },
             "ecwPdf": {
-                "PDF-1": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
-                "PDF-2": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
-                "PDF-3": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
-                "PDF-4": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+                // "PDF-1": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                // "PDF-2": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                // "PDF-3": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                // "PDF-4": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
             },
             "CRZ":{
                 "CRZ-1": "./CRZ/RAIGAD/47.pdf",
@@ -2161,14 +2161,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "Ratnagiri": {
             "ecwLink": {
-                "ECW1": " ",
-                "ECW2": " ",
+                // "ECW1": " ",
+                // "ECW2": " ",
             },
             "ecwPdf": {
-                "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
-                "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
-                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
-                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                // "PDF-1": "./Ecw Pdf/Palghar/pdf3_compressed.pdf",
+                // "PDF-2": "./Ecw Pdf/Palghar/pdf4_compressed.pdf",
+                // "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                // "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
             },
             "CRZ":{
                 "CRZ-1": "./CRZ/RATNAGIRI/16.pdf",
@@ -2199,14 +2199,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         "Sindhudurg": {
             "ecwLink": {
-                "ECW1": " ",
-                "ECW2": " ",
+                // "ECW1": " ",
+                // "ECW2": " ",
             },
             "ecwPdf": {
-                "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
-                "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
-                "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
-                "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
+                // "PDF-1": "./Ecw Pdf/Palghar/pdf5_compressed.pdf",
+                // "PDF-2": "./Ecw Pdf/Palghar/pdf6_compressed.pdf",
+                // "PDF-3": "./Ecw Pdf/Palghar/pdf1_compressed.pdf",
+                // "PDF-4": "./Ecw Pdf/Palghar/pdf2_compressed.pdf",
             },
             "CRZ":{
                 "CRZ-1": "./CRZ/SINDHUDURG/1.pdf",
