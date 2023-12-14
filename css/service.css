@@ -175,9 +175,9 @@ color: #03b1b1;
 }
  .end{
     margin-top: 60px;
-    height: 60vh;
+    height: 80vh;
     width: 100%;
-    /* background-color:rgb(252, 252, 172); */
+    background-color:rgb(252, 252, 172);
 }
 .box{
     height: 58vh;
