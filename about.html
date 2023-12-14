@@ -4,78 +4,138 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>(wp)Coastline</title>
+    <title>Maharashtra Coastal - About</title>
+    <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="./css/about.css">
-  
-    <style>
-        #more {
-            display: none;
-        }
-    </style>
 </head>
 
 <body>
-    <header class="header">
-        <nav>
-            <div class="logo">
-            </div>
-            <div class="menu">
-                <a href="index.html">HOME</a>
-                <a href="about.html">ABOUT</a>
-                <a href="gallery.html">GALLERY</a>
-                <a href="mappage.html">PROJECT</a>
-            </div>
-        </nav>
-        <main>
-            <div class="indiaimg"> <img src="./img/india.jpg" alt=""></div>
-            <section class="aboutdetal">
-                <h1>MAHARASHTRA COASTLINE</h1>
-                <p>Maharashtra is the second most populous and third largest state of India. It spread over
-                    307713 Sq. Km and situated over west coast of India. Maharashtra occupies the western and
-                    central part of the country and as per statistical data available, Maharashtra has a long
-                    coastline stretching 720 kilometers along the Arabian Sea, which is divided, among 6<br>
-                    Districts as under: Out of this 720 Kms coastal length 400 Kms length is naturally protected, &
-                    About 320 Kms length is vulnerable to erosion. Out of this, protection for 145 Kms has been
-                    protected by artificial means such as Construction of Anti Sea Erosion Bund, Sea Wall, and each
-                    Nourishment inform of Geotubes etc. The remaining length is yet to be protected.<br>
-                    <span id="dots">...</span><span id="more">Out of this 720 Kms coastal length 400 Kms length is
-                        naturally protected, & About 320 Kms length is vulnerable to erosion. Out of this, protection
-                        for 145 Kms has been protected by artificial means such as Construction of Anti Sea Erosion
-                        Bund, Sea Wall, and each Nourishment inform of Geotubes etc. The remaining length is yet to be
-                        protected.
-                        For Development Of setback planning, hazard zoning, erosion – accretion studies, regional
-                        sediment budgets, modeling of coastal morph dynamics,
-                        survey of coastline with latest technology is required for preparing Coastal Management Plan for
-                        erosion control measures to ensure effective protection of shore lines, coastal infrastructure,
-                        livelihoods and lives.<br>
-                        IN Maharashtra Integrated Coastal Zone Management Is One Of The Tools To Achieve This Goal.
-                        Coastal Zones Involve Many Different Elements Of Development And Interaction And These Elements
-                        Change Due To Natural Or Human Factors.
-
-                        Temporal Change In Coastal Zones Is Reflected On The Coast Line. Coast Line Advance And Retreat
-                        Cause Major Changes On Coastal Zones.
-
-                    </span>
-                </p>
-                <button onclick="myFunction()" id="myBtn">Read more</button>
-                <br>
-                <video width="500px" height="280" autoplay muted>
-                    <source src="./img/Coastal Video.mp4" type="video/mp4">
-                </video>
-            </section>
-            <div class="barchartimg"><img src="./img/bar chart.jpg" alt=""></div>
-            <div>
-        </main>
-
+    <header>
+        <h1>Maharashtra Coastal</h1>
     </header>
-    <!-- footer -->
-<footer>
-    <!-- <hr> -->
-    <marquee>©opyright By Aerial Mappers.</marquee>
-    <hr>
- </footer>
 
-    <script>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="map.html">Project</a>
+    </nav>
+
+ 
+        <main>
+        <h1>ABOUT</h1>
+        <h1>MAHARASHTRA COASTLINE</h1>
+        <section>
+        <!-- Flex container for images, paragraph, and video -->
+        <div class="section-images">
+            <!-- Image on the left -->
+            <div id="chartImage">
+            <img src="./img/about/bar chart.jpg" id="barchartimg" alt="Bar Chart Image Not Found">
+        </div>
+            <!-- Paragraph in the middle -->
+            <div id="aboutDetail">
+            <p>Maharashtra is the second most populous and third largest state of India. It spread over
+                307713 Sq. Km and situated over west coast of India. Maharashtra occupies the western and
+                central part of the country and as per statistical data available, Maharashtra has a long
+                coastline stretching 720 kilometers along the Arabian Sea, which is divided, among 6<br>
+                Districts as under: Out of this 720 Kms coastal length 400 Kms length is naturally protected, &
+                About 320 Kms length is vulnerable to erosion. Out of this, protection for 145 Kms has been
+                protected by artificial means such as Construction of Anti Sea Erosion Bund, Sea Wall, and each
+                Nourishment inform of Geotubes etc. The remaining length is yet to be protected.
+                <!-- <span id="dots">...</span><span id="more">Out of this 720 Kms coastal length 400 Kms length is -->
+                    naturally protected, & About 320 Kms length is vulnerable to erosion. Out of this, protection
+                    for 145 Kms has been protected by artificial means such as Construction of Anti Sea Erosion
+                    Bund, Sea Wall, and each Nourishment inform of Geotubes etc. The remaining length is yet to be
+                    protected.
+                    For Development Of setback planning, hazard zoning, erosion – accretion studies, regional
+                    sediment budgets, modeling of coastal morph dynamics,
+                    survey of coastline with latest technology is required for preparing Coastal Management Plan for
+                    erosion control measures to ensure effective protection of shore lines, coastal infrastructure,
+                    livelihoods and lives.<br>
+                    <!-- IN Maharashtra Integrated Coastal Zone Management Is One Of The Tools To Achieve This Goal.
+                    Coastal Zones Involve Many Different Elements Of Development And Interaction And These Elements
+                    Change Due To Natural Or Human Factors.
+
+                    Temporal Change In Coastal Zones Is Reflected On The Coast Line. Coast Line Advance And Retreat
+                    Cause Major Changes On Coastal Zones. -->
+
+                </span>
+            </p>
+        </div><br>
+            <!-- <button onclick="myFunction()" id="myBtn">Read more</button> -->
+            <br>
+                <br>
+            <!-- Image on the right -->
+            <div id="indiatImage">
+            
+                <img src="./img/about/india.jpg" id="indiaimg" alt="India Image Not Found">
+            </div>
+            </div>
+        <!-- Video below the paragraph -->
+        <video controls>
+            <source src="./img/video/Coastal Video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <!-- <p>Additional information can be added here...</p> -->
+    </section>
+</main>
+<script>
+    function myFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more";
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less";
+            moreText.style.display = "inline";
+        }
+    }
+</script>
+    <footer>
+        <div id="footer">
+            <div class="footer_img">
+                <marquee scrollamount="10" scroll-container>
+                    <img src="./img/footer img/p1.jpg" alt="">
+                    <img src="./img/footer img/p2.png" alt="">
+                    <img src="./img/footer img/p3.webp" alt="">
+                    <img src="./img/footer img/p4.png" alt="">
+                    <img src="./img/footer img/p5.jpg" alt="">
+                    <img src="./img/footer img/p7.png" alt="">
+                    <img src="./img/footer img/logo1.jpg" alt="">
+                    <img src="./img/footer img/p11.png" alt="">
+                </marquee>
+            </div>
+            <div class="footer_content">
+                <div class="dropdown">
+                    <span>Service</span>
+                    <div class="dropdown-content">
+                        <a href="./service.html"> Drone Service </a>
+                        <a href="./service.html">GIS Service </a>
+                        <a href="./service.html"> DSM & DIM Service </a>
+                        <a href="./service.html">3-D Model Service</a>
+                    </div>
+                </div>
+    
+                <a href="contact.html">Contact-Us</a>
+                <a href="gallery.html">Help</a>
+                <a href="features.html">Features</a>
+            </div>
+            <br>
+            <div class="copyright">
+                <p>&copy; copyright By 2023 Maharashtra Coastal | AM DATA Lab pvt.Ltd.</p>
+            </div>
+        </div>
+    </footer>
+    <!-- <footer>
+        <p>&copy; 2023 Maharashtra Coastal</p>
+    </footer> -->
+
+    <!-- <script>
         function myFunction() {
             var dots = document.getElementById("dots");
             var moreText = document.getElementById("more");
@@ -91,7 +151,7 @@
                 moreText.style.display = "inline";
             }
         }
-    </script>
+    </script> -->
 </body>
 
 </html>

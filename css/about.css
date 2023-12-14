@@ -1,428 +1,227 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
- 
+
+
+/* Additional styling for the about page */
+section h2 {
+    color: #333; /* Adjust color as needed */
+    text-align: center; /* Center-align h2 */
 }
 
-.header {
-    width: 100%;
-    height: 100vh;
-    /* background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url('../img/background.jpg'); */
-    background-position: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+main h1 {
+    font-family: 'Courier New', Courier, monospace;
+    /* font-size: 2.5rem; */
+    color: #008080;
+    text-align: center;
+    margin-top: 10px;
 }
 
-nav {
-    width: 100%;
-    height: 10vh;
-    background-color: black;
-    color: white;
+/* Flex container for images, paragraph, and video */
+.section-images {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin-top: 10px;
 }
 
-.logo {
-    width: 25%;
-    text-align: center;
+.section-images img {
+    width: 100%; /* Adjust the width as needed */
+    height: auto;
+    border-radius: 8px;
 }
-
-.menu {
-    width: 40%;
-    display: flex;
-    color: white;
-    justify-content: space-around;
-}
-
-.menu a {
-    width: 25%;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-}
-
-main {
+#indiatImage{
     width: 100%;
-    height: 85vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: rgb(0, 0, 0);
-    /* background-color: aquamarine; */
-}
-
-.indiaimg {
-    width: 30%;
-    height: 85vh;
-    align-items: center;
-    /* background-color: bisque; */
-}
-
-.indiaimg img {
-    margin-top: 20vh;
-    align-items: center;
-    /* background-color: bisque; */
-}
-
-.aboutdetal {
-    width: 40%;
-    height: 85vh;
-    align-items: center;
-    text-align: center;
-    /* background-color: rgb(196, 132, 54); */
-}
-
-.barchartimg {
-    width: 30%;
-    height: 85vh;
-    align-items: center;
-    /* background-color: rgb(241, 218, 190); */
-}
-
-.barchartimg img {
-    height: 550px;
-    width: 550px;
-    margin-top: 13vh;
-    align-items: center;
-    /* background-color: rgb(145, 85, 12); */
-}
-
-section h1 {
-    font-size: 50px;
-    font-family: sans-serif;
-    color: #534a4a;
-    margin-top: 10vh;
-    font-weight: bolder;
-    letter-spacing: 3px;
-    line-height: 70px;
-    text-shadow: 2px 1px 2px rgb(173, 173, 173);
-}
-
-section video {
-    margin-top: 50px;
+    height: auto;
 }
 
 section p {
-    margin: 30px 0 20px 0;
-    font-size: 17px;
-    font-family: sans-serif;
-    color: rgb(0, 0, 0);
-    align-items: normal;
+    line-height: 2rem; /* Adjust line height as needed */
+    margin-top: 10px;
+    font-weight: bold;
+   font-style: italic;
+    color: #000000; /* Adjust color as needed */
+    text-align: center; /* Center-align paragraph */
 }
 
-footer marquee{
-    color: rgb(75, 22, 22);
-    background-color: rgb(156, 152, 156);
- }
-/* mobile view */
-@media only screen and (max-width: 600px) {
-    body {
-      font-size: 14px;
-    }
-    nav{
-        width: 100%;
-        height: 5vh;
-        background-color: black;
-        color: white;
+/* Styling for the "Read more" span */
+.read-more {
+    color: #008080; /* Adjust color as needed */
+    cursor: pointer;
+}
+
+/* Add hover effect to "Read more" */
+.read-more:hover {
+    text-decoration: underline;
+}
+
+section video {
+    width: 40%; /* Adjust the width as needed */
+    height: auto;
+    margin: 20px auto; /* Center the video */
+    display: block; /* Ensure block display for margin auto to work */
+    border-radius: 8px;
+}
+
+/* mobile view ==============================================================================================================================================================================*/
+@media only screen and (min-width: 200px)and (max-width: 600px) {
+    .section-images {
         display: flex;
+        flex-direction: column;
         justify-content: space-between;
         align-items: center;
+        margin-top: -150px;
+        position: relative;
+    }
+    .section-images p{
         font-size: smaller;
-    }
-    .menu{
-        width: 100%;
-        display: flex;
-        color: white;
-        justify-content: space-around;
-    }
-    .menu a{
-        text-decoration: none;
-        color: white;
-        font-size: smaller;
-        font-weight: bold;
-    }
-    main {
-        width: 100%;
-        height: 85vh;
-        display: inline;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        color: rgb(0, 0, 0);
-        /* background-color: aquamarine; */
-    }
-    .indiaimg {
-        width: 100%;
-        height: 15vh;
-        align-items: center;
-        /* background-color: bisque; */
-    }
-    
-    .indiaimg img {
-        margin-top: 1vh;
-        height: 150px;
-        width: 150px;
-        border: 1px solid black;
-        align-items: center;
-        /* background-color: bisque; */
-    }
-    .barchartimg {
-        width: 100%;
-        height: 15vh;
-        margin-top: -102vh;
-        align-items: center;
-        /* background-color: rgb(241, 218, 190); */
-    }
-    
-    .barchartimg img {
-        height: 150px;
-        width: 150px;
-        border: 1px solid black;
-        margin-top: 0vh;
-        align-items: center;
-        /* background-color: rgb(145, 85, 12); */
-    }
-    .aboutdetal {
-        width: 100%;
-        /* height: 85vh; */
-        margin-top: 20vh;
-        align-items: center;
-        text-align: center;
-        /* background-color: rgb(196, 132, 54); */
-    }
-    section h1 {
-        font-size: 15px;
-        font-family: sans-serif;
-        color: #534a4a;
-        /* letter-spacing: 1px; */
-        text-shadow: 2px 1px 2px rgb(173, 173, 173);
-    }
-    
-    section video {
-        margin-top: -20px;
-        width: 90%;
-    }
-    
-    section p {
-        /* margin: 30px 0 20px 0; */
-        font-size: 12px;
-        margin-top: 10px;
-        font-family: sans-serif;
-        color: rgb(0, 0, 0);
-        align-items: normal;
-    }
-    footer marquee{
         margin-top: 300px;
-     }
+        line-height:15px;
+    }
+  
+    #chartImage{
+        width:70%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+        margin-top: 12vh;
+    }
+    #aboutDetail{
+    /* margin-top: 10vh; */
+    margin-top: -30vh;
+    width: 100%;
+    /* background-color: #ddb7b7; */
+    }
+    
+    #indiatImage{
+        width:70%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+        margin-top: 0vh;
+    }
+    section video {
+        width: 70%; 
+        height: auto;
+        margin: 20px auto; 
+        display: block; 
+        border-radius: 8px;
+    }
 }
 
- /* Tablet View */
- @media only screen and (min-width: 600px) and (max-width: 1024px) {
-    body {
-        font-size: 15px;
-    }
-    nav{
-          width: 100%;
-          height: 6vh;
-          background-color: black;
-          color: white;
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          font-size: small;
-    }
-    .menu{
-        width: 100%;
+/* 400 to 500================================================================================================================================================================================= */
+@media only screen and (min-width: 400px) and (max-width: 600px) {
+    .section-images {
         display: flex;
-        color: white;
-        justify-content: space-around;
-    }
-    .menu a{
-        text-decoration: none;
-        color: white;
-        font-size: smaller;
-        font-weight: bold;
-    }
-    main {
-        width: 100%;
-        height: 85vh;
-        display: inline;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        color: rgb(0, 0, 0);
-        /* background-color: aquamarine; */
-    }
-    .indiaimg {
-        width: 100%;
-        height: 15vh;
-        align-items: center;
-        /* background-color: bisque; */
-    }
-    
-    .indiaimg img {
-        margin-top: 1vh;
-        height: 150px;
-        width: 150px;
-        border: 1px solid black;
-        align-items: center;
-        /* background-color: bisque; */
-    }
-    .barchartimg {
-        width: 100%;
-        height: 15vh;
-        margin-top: -102vh;
-        align-items: center;
-        /* background-color: rgb(241, 218, 190); */
-    }
-    
-    .barchartimg img {
-        height: 150px;
-        width: 150px;
-        border: 1px solid black;
-        margin-top: 0vh;
-        align-items: center;
-        /* background-color: rgb(145, 85, 12); */
-    }
-    .aboutdetal {
-        width: 100%;
-        /* height: 85vh; */
-        margin-top: 20vh;
-        align-items: center;
-        text-align: center;
-        /* background-color: rgb(196, 132, 54); */
-    }
-    section h1 {
-        font-size: 15px;
-        font-family: sans-serif;
-        color: #534a4a;
-        /* letter-spacing: 1px; */
-        text-shadow: 2px 1px 2px rgb(173, 173, 173);
-    }
-    section video {
-        /* margin-top: -20px; */
-        width: 90%;
-    }
-    section p {
-        /* margin: 30px 0 20px 0; */
-        font-size: 12px;
-        margin-top: 10px;
-        font-family: sans-serif;
-        color: rgb(0, 0, 0);
-        align-items: normal;
-    }
-    footer marquee{
-        margin-top: 200px;
-     }
-    }
-
-/* laptop view */
-@media only screen and (min-width: 1024px) and (max-width: 1250px) {
-    nav {
-        width: 100%;
-        height: 10vh;
-        background-color: black;
-        color: white;
-        display: flex;
+        flex-direction: column;
         justify-content: space-between;
         align-items: center;
+        margin-top: -150px;
+        position: relative;
+    }
+    .section-images p{
+        font-size: small;
+        margin-top: 300px;
+        line-height:20px;
+    }
+  
+    #chartImage{
+        width:70%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+        margin-top: 12vh;
+    }
+    #aboutDetail{
+    /* margin-top: 10vh; */
+    margin-top: -30vh;
+    width: 100%;
+    /* background-color: #ddb7b7; */
     }
     
-    .logo {
-        width: 25%;
-        text-align: center;
-    }
-    
-    .menu {
-        width: 40%;
-        display: flex;
-        color: white;
-        justify-content: space-around;
-    }
-    
-    .menu a {
-        width: 25%;
-        text-decoration: none;
-        color: white;
-        font-weight: bold;
-    }
-    
-    main {
-        width: 100%;
-        height: 85vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        color: rgb(0, 0, 0);
-        /* background-color: aquamarine; */
-    }
-    
-    .indiaimg {
-        width: 25%;
-        height: 30vh;
-        margin-top:-15vh;
-        margin-left: -50px;
-        align-items: center;
-        /* background-color: bisque; */
-    }
-    
-    .indiaimg img {
+    #indiatImage{
+        width:70%;
+        height: auto;
+        /* background-color: #bd5e5e; */
         margin-top: 0vh;
-        height: 300px;
-        align-items: center;
-
     }
-    
-    .aboutdetal {
-        width: 50%;
-        height: 85vh;
-        align-items: center;
-        text-align: center;
-        /* background-color: rgb(196, 132, 54); */
-    }
-    
-    .barchartimg {
-        width: 25%;
-        height: 30vh;
-        align-items: center;
-        /* background-color: rgb(241, 218, 190); */
-    }
-    
-    .barchartimg img {
-        height: 350px;
-        width: 330px;
-        margin-top: -12vh;
-        align-items: center;
-        /* background-color: rgb(145, 85, 12); */
-    }
-    
-    section h1 {
-        font-size: 30px;
-        font-family: sans-serif;
-        color: #534a4a;
-        margin-top: 10vh;
-        font-weight: bolder;
-        letter-spacing: 3px;
-        line-height: 50px;
-        text-shadow: 2px 1px 2px rgb(173, 173, 173);
-    }
-    
     section video {
-        margin-top: 50px;
+        width: 70%; 
+        height: auto;
+        margin: 20px auto; 
+        display: block; 
+        border-radius: 8px;
     }
-    
-    section p {
-        margin: 30px 0 20px 0;
-        font-size: 17px;
-        font-family: sans-serif;
-        color: rgb(0, 0, 0);
-        align-items: normal;
+}
+
+/* Tablet View ==============================================================================================================================================================================*/
+@media only screen and (min-width: 600px) and (max-width: 750px) {
+    .section-images {
+        /* display: flex; */
+        /* flex-direction: row; */
+        justify-content: space-between;
+        align-items: center;
+        margin-top: -150px;
+        position: relative;
     }
-    footer marquee{
-        margin-top: 200px;
-     }
+    .section-images p{
+        font-size: small;
+        margin-top: 300px;
+        line-height:20px;
+    }
+    /* .section-images img{
+        width: 350%;
+        height: auto;
+        background-color: #bd5e5e;
+        margin-top: -5vh;
+    } */
+    #indiatImage{
+        width: 300%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+        margin-top: -5vh; 
+    }
+    #chartImage{
+        width: 350%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+        margin-top: -5vh;
+    }
+    #aboutDetail{
+    /* margin-top: 10vh; */
+    margin-top: -15vh;
+    width: 1000%;
+    /* background-color: #ddb7b7; */
+    }
+}
+
+/* 750 to 950   ======================================================================================================================================================================== */
+@media only screen and (min-width: 750px) and (max-width: 950px) {
+    .section-images img{
+        margin-top: -500px;
+    }
+    #indiatImage{
+        width: 250%;
+        height: auto;
+        /* background-color: #bd5e5e; */
+    }
+    .section-images p{
+        font-size: small;
+        margin-top: -10px;
+        line-height:20px;
+    }
+
+}
+
+/* 950 to 1100   ======================================================================================================================================================================== */
+@media only screen and (min-width: 950px) and (max-width: 1100px) {
+
+}
+
+/* laptop view  ========================================================================================================================================================================== */
+/* @media only screen and (min-width: 1050px) and (max-width: 1250px) {
+    .section-images p{
+        font-size: small;
+    } */
+
+    @media only screen and (min-width: 750px) and (max-width: 1350px) {
+        .section-images p{
+            font-size: small;
+        }
+       
 }
