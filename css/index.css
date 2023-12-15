@@ -765,7 +765,7 @@ tr #head2 {
     main {
         width: 100%;
         /* height: auto; */
-        height: 55vh;
+        height: 40vh;
         display: flex;
         margin-top: 0px;
         justify-content: center;
@@ -778,19 +778,19 @@ tr #head2 {
     .logodiv {
         width: 20%;
         height: 7vh;
-        margin-top: 20vh;
+        margin-top:25vh;
         /* background-color: #585656; */
     }
 
     .logodiv img {
-        height: 50px;
-        width: 50px;
+        height: 60px;
+        width: 60px;
         /* margin-top: 10px; */
     }
 
     section {
         width: 60%;
-        height: 40vh;
+        height: 35vh;
       /* height: auto; */
         margin-top: 20vh;
         /* background-color: #d36c6c; */
@@ -798,9 +798,9 @@ tr #head2 {
 
     .mahadiv {
         width: 20%;
-        height: 7vh;
+        height: 8vh;
         margin-left: -1vh;
-        margin-top: 20vh;
+        margin-top: 25vh;
         /* background-color: #585656; */
     }
 
@@ -813,8 +813,8 @@ tr #head2 {
 
     .d1 img {
         /* margin-top: 10px; */
-        height: 50px;
-        width: 50px;
+        height: 60px;
+        width: 60px;
     }
 
     .d2 {
@@ -826,22 +826,25 @@ tr #head2 {
     }
 
     .d2 img {
-        height: 25px;
-        width: 40px;
+        height: 30px;
+        width: 50px;
     }
 
     section h3 {
-        font-size: 10px;
+        /* font-size: 13px; */
+        font-size: 1.2rem;
         font-family: sans-serif;
         color: #534a4a;
-        font-weight: bolder;
-        line-height: 15px;
+        font-weight: bold;
+        line-height: 20px;
     }
 
     section h2 {
         margin-top: 8px;
-        font-size: 10px;
+        /* font-size: 10px; */
+        font-size: 0.8rem;
         font-weight: bold;
+        line-height: 20px;
         color: #ddc32d;
         font-family: sans-serif;
     }
@@ -851,9 +854,9 @@ tr #head2 {
         font-family: sans-serif;
         font-weight: bold;
         margin-top: -10px;
-        font-size: 10px;
+        font-size: 0.8rem;
         font-weight: 100;
-        line-height: 12px;
+        line-height: 15px;
     }
 
     section h4 {
@@ -861,8 +864,9 @@ tr #head2 {
         color: #268ef0;
         font-family: sans-serif;
         font-weight: bold;
-        font-size: 10px;
-        line-height: 12px;
+        font-size: 0.8rem;
+        /* font-size: 10px; */
+        line-height: 17px;
     }
 
     .content {
@@ -1050,7 +1054,7 @@ tr #head2 {
 
     .Overview img {
         margin-top: -30px;
-        margin-left: -7px;
+        /* margin-left: -7px; */
         height: 140px;
         width: 280px;
     }
@@ -1156,10 +1160,10 @@ tr #head2 {
     /* read more for steps */
     .popup-container-s1 {
         display: none;
-        font-size: 0.6rem;
+        font-size: 0.4rem;
         position:fixed;
         top: 50%;
-        left: 40%;
+        left: 0%;
         margin-left: 40px;
         transform: translate(-50%, -50%);
         padding: 2px;
